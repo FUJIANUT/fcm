@@ -1,0 +1,7 @@
+[pedrycz 1/3] wine (6s)
+[pedrycz 2/3] letter (133s)
+[pedrycz 3/3] mnist784_pca32 (50c) (288s)
+wrote 3 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_pedrycz_L10.csv in 288s
+real 288.63
+user 240.95
+sys 105.67

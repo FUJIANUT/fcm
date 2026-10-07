@@ -1,0 +1,42 @@
+{
+ "argv": [
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/T10_review.py",
+  "cfcm",
+  "--seeds",
+  "2",
+  "--workers",
+  "12",
+  "--tag",
+  "smoke_cfcm",
+  "--outdir",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke"
+ ],
+ "args": {
+  "cmd": "cfcm",
+  "tag": "smoke_cfcm",
+  "outdir": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke",
+  "force": false,
+  "datasets": null,
+  "workers": 12,
+  "seed_start": 0,
+  "seeds": 2,
+  "allow_fresh": false,
+  "max_iter": 150
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "5",
+  "FFCM_ROUNDS": "50",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "wall_s": 65.33837890625,
+ "n_rows": 28,
+ "seeds": [
+  0,
+  1
+ ]
+}

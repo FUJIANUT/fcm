@@ -1,0 +1,5 @@
+source,key,field,prior,new,match,strict
+t3_design_space/per_seed_metrics__T9_L1_gf.csv [noES both],wine|0|post_footprint_on,min_dist,3.3794827301959955,3.3794827301959955,1,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv [noES both],wine|0|post_footprint_on,mean_acc,0.9461403508771931,0.9461403508771931,1,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv [noES both],wine|0|post_footprint_on,worst_acc,0.8333333333333334,0.8333333333333334,1,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv [noES both],wine|0|post_footprint_on,fcm_obj,3.806531038716822,3.806531038716822,1,1

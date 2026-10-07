@@ -1,0 +1,105 @@
+{
+ "argv": [
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/T10_review.py",
+  "scffcm",
+  "--L",
+  "50",
+  "--eta-l",
+  "0.2",
+  "--eta-g",
+  "0.5",
+  "--datasets",
+  "nonmnist",
+  "--seeds",
+  "2",
+  "--workers",
+  "12",
+  "--tag",
+  "rt_scffcm_def_L50_s00-01",
+  "--outdir",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke/runtime"
+ ],
+ "args": {
+  "cmd": "scffcm",
+  "tag": "rt_scffcm_def_L50_s00-01",
+  "outdir": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke/runtime",
+  "force": false,
+  "datasets": "nonmnist",
+  "workers": 12,
+  "seed_start": 0,
+  "seeds": 2,
+  "allow_fresh": false,
+  "L": 50,
+  "rounds": 50,
+  "steps_csv": null,
+  "eta_l": 0.2,
+  "eta_g": 0.5,
+  "cfraction": 1.0
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "50",
+  "FFCM_ROUNDS": "50",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "wall_s": 114.34049582481384,
+ "n_rows": 24,
+ "steps": {
+  "cluster_skew_hard": [
+   0.2,
+   0.5
+  ],
+  "cluster_skew_overlap": [
+   0.2,
+   0.5
+  ],
+  "dirichlet_0.03": [
+   0.2,
+   0.5
+  ],
+  "dirichlet_0.1": [
+   0.2,
+   0.5
+  ],
+  "overlap_noise": [
+   0.2,
+   0.5
+  ],
+  "quantity_skew_extreme": [
+   0.2,
+   0.5
+  ],
+  "wine": [
+   0.2,
+   0.5
+  ],
+  "satimage": [
+   0.2,
+   0.5
+  ],
+  "pendigits": [
+   0.2,
+   0.5
+  ],
+  "digits_pca16": [
+   0.2,
+   0.5
+  ],
+  "digits_pca32": [
+   0.2,
+   0.5
+  ],
+  "letter": [
+   0.2,
+   0.5
+  ]
+ },
+ "seeds": [
+  0,
+  1
+ ]
+}

@@ -1,0 +1,8 @@
+[cells 1/4] satimage (132s)
+[cells 2/4] pendigits (229s)
+[cells 3/4] letter (817s)
+[cells 4/4] mnist784_pca32 (20c) (1040s)
+wrote 64 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_cells_misc_L5.csv in 1040s
+real 1039.90
+user 1768.57
+sys 271.64

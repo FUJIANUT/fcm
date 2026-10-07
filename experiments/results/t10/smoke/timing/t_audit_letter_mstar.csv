@@ -1,0 +1,5 @@
+dataset,init,mstar,paper_mstar,agrees,n_seeds,ms_all_distinct
+letter,paper,1.3,1.3,1,1,1.3
+letter,kmeanspp_best10,1.3,1.3,1,1,1.3
+letter,oracle,1.3,1.3,1,1,1.3
+letter,fed_lossless_pre1,1.3,1.3,1,1,1.3

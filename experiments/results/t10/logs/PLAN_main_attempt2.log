@@ -1,0 +1,9 @@
+T10 run plan: /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments  (python: python3, workers: 12, smoke: 0)
+load average at start: { 9.45 9.18 9.62 }  (idle machine assumed by the runtime projection)
+[2026-09-24 10:53:48] start selftest (no sentinel or the code changed since it last passed)
+[2026-09-24 10:57:31] done  selftest
+[2026-09-24 10:57:31] start gf_L1_noES_s00-19
+[2026-09-24 11:02:22] done  gf_L1_noES_s00-19 (291s)
+[2026-09-24 11:02:25] ok    cmp_gf_L1_noES_s00-19: compare cells gf_L1_noES_s00-19.csv: 280 strict overlapping runs (1120 values, 280 acc/distinct values), 0 strict mismatches; 0 uncovered prior rows; advisory: 0 runs, 0 acc differences; OK
+[2026-09-24 11:02:25] start ed_scffcm_cal_L1_R250
+[2026-09-24 11:03:32] FAILED ed_scffcm_cal_L1_R250 -- see /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/logs/ed_scffcm_cal_L1_R250.log

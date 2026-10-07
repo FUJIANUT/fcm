@@ -1,0 +1,13 @@
+[Jc 1/1] wine (2s)
+[pedrycz-grid 1/10] wine (2s)
+[pedrycz-grid 2/10] wine (2s)
+[pedrycz-grid 3/10] wine (2s)
+[pedrycz-grid 4/10] wine (2s)
+[pedrycz-grid 5/10] wine (2s)
+[pedrycz-grid 6/10] wine (2s)
+[pedrycz-grid 7/10] wine (2s)
+[pedrycz-grid 8/10] wine (2s)
+[pedrycz-grid 9/10] wine (2s)
+[pedrycz-grid 10/10] wine (2s)
+wrote /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke_plan/ee_pedrycz_cal_L1.csv and /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke_plan/ee_pedrycz_cal_L1_grid.csv in 4s
+{'dataset': 'wine', 'L': 1, 'rounds': 50, 'm': 2.0, 'alpha': 0.05, 'rel_obj_gap': 0.06699302794555664, 'n_stable': 9, 'n_grid': 10, 'edge_alpha': 'interior', 'on_edge': 0}

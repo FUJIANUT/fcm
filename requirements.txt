@@ -1,0 +1,7 @@
+# Versions used for every run reported in the paper (Python 3.12.10, macOS, Apple M4 Max).
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.8.0
+pandas==3.0.6
+matplotlib==3.11.2
+certifi

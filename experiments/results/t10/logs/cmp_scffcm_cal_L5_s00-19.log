@@ -1,0 +1,1 @@
+compare scffcm scffcm_cal_L5_s00-19.csv: 280 strict overlapping runs (1120 values, 280 acc/distinct values), 0 strict mismatches; 0 uncovered prior rows; advisory: 0 runs, 0 acc differences; OK

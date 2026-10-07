@@ -1,0 +1,5 @@
+[cells 1/1] mnist784_pca32 (50c) (1385s)
+wrote 16 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_cells_mnist50_L5.csv in 1385s
+real 1385.71
+user 914.00
+sys 412.58

@@ -1,0 +1,5 @@
+source,key,field,prior,new,match,strict
+t9c_scffcm_fair.csv,wine|50|0|0.05|0.5,min_dist,2.9365071014840076,2.9365071014840076,1,1
+t9c_scffcm_fair.csv,wine|50|0|0.05|0.5,mean_acc,0.9622514619883041,0.9622514619883041,1,1
+t9c_scffcm_fair.csv,wine|50|0|0.05|0.5,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9c_scffcm_fair.csv,wine|50|0|0.05|0.5,fcm_obj,4.052429545669089,4.052429545669089,1,1

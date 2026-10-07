@@ -1,0 +1,67 @@
+{
+ "argv": [
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/T10_review.py",
+  "scffcm",
+  "--L",
+  "5",
+  "--steps-csv",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t9b_scffcm_calibration.csv",
+  "--datasets",
+  "wine,cluster_skew_hard,digits_pca16",
+  "--seeds",
+  "2",
+  "--workers",
+  "6",
+  "--tag",
+  "smoke_scffcm_t9b_L5",
+  "--outdir",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke"
+ ],
+ "args": {
+  "cmd": "scffcm",
+  "tag": "smoke_scffcm_t9b_L5",
+  "outdir": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke",
+  "force": false,
+  "datasets": "wine,cluster_skew_hard,digits_pca16",
+  "workers": 6,
+  "seed_start": 0,
+  "seeds": 2,
+  "allow_fresh": false,
+  "L": 5,
+  "rounds": 50,
+  "steps_csv": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t9b_scffcm_calibration.csv",
+  "eta_l": null,
+  "eta_g": null,
+  "cfraction": 1.0
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "5",
+  "FFCM_ROUNDS": "50",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "wall_s": 3.2344651222229004,
+ "n_rows": 6,
+ "steps": {
+  "wine": [
+   0.1,
+   2.0
+  ],
+  "cluster_skew_hard": [
+   0.05,
+   8.0
+  ],
+  "digits_pca16": [
+   0.5,
+   4.0
+  ]
+ },
+ "seeds": [
+  0,
+  1
+ ]
+}

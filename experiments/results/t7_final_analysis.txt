@@ -1,0 +1,109 @@
+====================================================================================================
+0. DEGENERACY AUDIT at m* (global prototypes, min-dist < 1e-3 = collapsed)
+====================================================================================================
+  cluster_skew_hard       m*=2.0  collapsed shared-model runs: 0/60
+  cluster_skew_overlap    m*=2.0  collapsed shared-model runs: 0/60
+  dirichlet_0.03          m*=2.0  collapsed shared-model runs: 0/60
+  dirichlet_0.1           m*=2.0  collapsed shared-model runs: 0/60
+  overlap_noise           m*=2.0  collapsed shared-model runs: 0/60
+  quantity_skew_extreme   m*=2.0  collapsed shared-model runs: 0/60
+  wine                    m*=2.0  collapsed shared-model runs: 0/60
+  satimage                m*=2.0  collapsed shared-model runs: 0/60
+  pendigits               m*=1.5  collapsed shared-model runs: 0/60
+  digits_pca16            m*=1.3  collapsed shared-model runs: 0/60
+  digits_pca32            m*=1.1  collapsed shared-model runs: 0/60
+  letter                  m*=1.3  collapsed shared-model runs: 0/60
+  mnist784_pca32 (20c)    m*=1.1  collapsed shared-model runs: 0/60
+  mnist784_pca32 (50c)    m*=1.1  collapsed shared-model runs: 0/60
+
+====================================================================================================
+1. BEST DESIGN-SPACE CELL vs published GF-PFedFCM (paired Wilcoxon, 10 seeds)
+====================================================================================================
+  cluster_skew_hard      post_footprint_off   1.000/1.000  GF 1.000/1.000  d=+0.000 p=  --   
+  cluster_skew_overlap   pre_mass_off         0.862/0.803  GF 0.808/0.720  d=+0.054 p=0.0020 *
+  dirichlet_0.03         post_mass_on         1.000/1.000  GF 0.966/0.904  d=+0.034 p=0.5000 
+  dirichlet_0.1          post_footprint_off   0.951/0.906  GF 0.950/0.895  d=+0.000 p=1.0000 
+  overlap_noise          post_mass_on         0.893/0.848  GF 0.878/0.816  d=+0.015 p=0.1289 
+  quantity_skew_extreme  pre_footprint_on     0.910/0.743  GF 0.883/0.703  d=+0.028 p=0.3125 
+  wine                   pre_footprint_off    0.968/0.895  GF 0.931/0.830  d=+0.037 p=0.0020 *
+  satimage               post_none_off        0.719/0.584  GF 0.675/0.473  d=+0.044 p=0.0039 *
+  pendigits              pre_none_off         0.680/0.511  GF 0.637/0.499  d=+0.042 p=0.0020 *
+  digits_pca16           pre_footprint_off    0.660/0.442  GF 0.602/0.417  d=+0.058 p=0.0020 *
+  digits_pca32           pre_footprint_off    0.681/0.482  GF 0.565/0.404  d=+0.116 p=0.0020 *
+  letter                 pre_mass_off         0.297/0.233  GF 0.273/0.230  d=+0.024 p=0.0020 *
+  mnist784_pca32 (20c)   pre_footprint_off    0.547/0.464  GF 0.495/0.400  d=+0.052 p=0.0020 *
+  mnist784_pca32 (50c)   pre_footprint_off    0.548/0.455  GF 0.483/0.372  d=+0.065 p=0.0020 *
+  => best cell significantly beats published GF on 9/14
+
+====================================================================================================
+2. SUBSTITUTION: PRE-POST benefit without vs with the footprint gate
+====================================================================================================
+  cluster_skew_hard       no-gate +0.080   gated -0.017   shrink +0.097
+  cluster_skew_overlap    no-gate +0.130   gated -0.013   shrink +0.143
+  dirichlet_0.03          no-gate +0.092   gated -0.024   shrink +0.116
+  dirichlet_0.1           no-gate +0.055   gated -0.015   shrink +0.070
+  overlap_noise           no-gate +0.010   gated +0.003   shrink +0.008
+  quantity_skew_extreme   no-gate +0.024   gated +0.028   shrink -0.004
+  wine                    no-gate +0.036   gated +0.000   shrink +0.036
+  satimage                no-gate -0.034   gated -0.020   shrink -0.015
+  pendigits               no-gate +0.152   gated +0.007   shrink +0.145
+  digits_pca16            no-gate +0.195   gated +0.036   shrink +0.159
+  digits_pca32            no-gate +0.189   gated +0.069   shrink +0.120
+  letter                  no-gate +0.023   gated +0.010   shrink +0.013
+  mnist784_pca32 (20c)    no-gate +0.069   gated +0.063   shrink +0.006
+  mnist784_pca32 (50c)    no-gate +0.076   gated +0.060   shrink +0.017
+  => mean shrink +0.065, Wilcoxon p=0.0017, n=14
+
+====================================================================================================
+3. FOOTPRINT (60-pt PoJG) vs plain normalized-mass gate
+====================================================================================================
+  cluster_skew_hard        off: +0.000 (p=  --  )  on: +0.000 (p=  --  )
+  cluster_skew_overlap     off: +0.001 (p=0.2715)  on: -0.002 (p=0.0840)
+  dirichlet_0.03           off: +0.001 (p=1.0000)  on: -0.034 (p=0.5000)
+  dirichlet_0.1            off: +0.001 (p=0.7500)  on: +0.020 (p=0.5000)
+  overlap_noise            off: +0.002 (p=0.1875)  on: -0.015 (p=0.1289)
+  quantity_skew_extreme    off: -0.003 (p=0.9375)  on: -0.003 (p=0.2969)
+  wine                     off: +0.004 (p=0.0312)  on: +0.031 (p=0.0020)
+  satimage                 off: -0.001 (p=0.4316)  on: +0.000 (p=0.2754)
+  pendigits                off: -0.010 (p=0.7695)  on: +0.006 (p=0.4316)
+  digits_pca16             off: +0.030 (p=0.0645)  on: +0.031 (p=0.0137)
+  digits_pca32             off: +0.041 (p=0.0020)  on: +0.031 (p=0.0059)
+  letter                   off: +0.001 (p=0.7695)  on: +0.002 (p=0.6250)
+  mnist784_pca32 (20c)     off: +0.010 (p=0.4922)  on: +0.013 (p=0.0195)
+  mnist784_pca32 (50c)     off: +0.023 (p=0.0195)  on: +0.002 (p=0.6250)
+  => significant differences: [('wine', 'off', 'footprint'), ('wine', 'on', 'footprint'), ('digits_pca16', 'on', 'footprint'), ('digits_pca32', 'off', 'footprint'), ('digits_pca32', 'on', 'footprint'), ('mnist784_pca32 (20c)', 'on', 'footprint'), ('mnist784_pca32 (50c)', 'off', 'footprint')]
+
+====================================================================================================
+4. EXTERNAL BASELINES vs design space (mean / worst client ACC)
+====================================================================================================
+  dataset                     best cell  post_none_off  post_footprin  stallmann_avg        fednova         scffcm  centralized_f
+  cluster_skew_hard         1.000/1.00    0.906/0.71    1.000/1.00    1.000/1.00    0.954/0.82    1.000/1.00    1.000/1.00
+  cluster_skew_overlap      0.862/0.80    0.730/0.59    0.808/0.72    0.863/0.79    0.726/0.55    0.862/0.80    0.864/0.81
+  dirichlet_0.03            1.000/1.00    0.896/0.68    0.966/0.90    1.000/1.00    0.912/0.76    1.000/1.00    1.000/1.00
+  dirichlet_0.1             0.951/0.91    0.893/0.70    0.950/0.89    1.000/1.00    0.905/0.78    0.994/0.96    0.984/0.97
+  overlap_noise             0.893/0.85    0.871/0.82    0.878/0.82    0.901/0.87    0.831/0.77    0.904/0.88    0.904/0.88
+  quantity_skew_extreme     0.910/0.74    0.869/0.69    0.883/0.70    1.000/1.00    0.969/0.91    1.000/1.00    0.963/0.93
+  wine                      0.968/0.90    0.926/0.81    0.931/0.83    0.971/0.89    0.889/0.74    0.967/0.88    0.967/0.89
+  satimage                  0.719/0.58    0.719/0.58    0.675/0.47    0.710/0.53    0.680/0.60    0.704/0.58    0.717/0.58
+  pendigits                 0.680/0.51    0.528/0.46    0.637/0.50    0.763/0.61    0.510/0.41    0.743/0.61    0.739/0.57
+  digits_pca16              0.660/0.44    0.408/0.31    0.602/0.42    0.522/0.50    0.377/0.30    0.717/0.49    0.751/0.43
+  digits_pca32              0.681/0.48    0.362/0.28    0.565/0.40    0.512/0.50    0.363/0.29    0.709/0.51    0.749/0.49
+  letter                    0.297/0.23    0.257/0.21    0.273/0.23    0.322/0.24    0.249/0.21    0.289/0.21    0.304/0.19
+  mnist784_pca32 (20c)      0.547/0.46    0.403/0.32    0.495/0.40    0.353/0.34    0.393/0.33    0.502/0.40    0.511/0.43
+  mnist784_pca32 (50c)      0.548/0.45    0.396/0.33    0.483/0.37    0.354/0.34    0.412/0.34    0.520/0.41    0.534/0.45
+
+  SC-FFCM vs best design-space cell (paired Wilcoxon):
+    cluster_skew_hard       scffcm-best +0.000  p=  --  
+    cluster_skew_overlap    scffcm-best -0.000  p=0.6250
+    dirichlet_0.03          scffcm-best +0.000  p=  --  
+    dirichlet_0.1           scffcm-best +0.043  p=0.5000
+    overlap_noise           scffcm-best +0.011  p=0.0020
+    quantity_skew_extreme   scffcm-best +0.090  p=0.0312
+    wine                    scffcm-best -0.002  p=0.6797
+    satimage                scffcm-best -0.015  p=0.2324
+    pendigits               scffcm-best +0.064  p=0.0020
+    digits_pca16            scffcm-best +0.057  p=0.0059
+    digits_pca32            scffcm-best +0.027  p=0.1602
+    letter                  scffcm-best -0.008  p=0.0371
+    mnist784_pca32 (20c)    scffcm-best -0.045  p=0.0273
+    mnist784_pca32 (50c)    scffcm-best -0.028  p=0.1055

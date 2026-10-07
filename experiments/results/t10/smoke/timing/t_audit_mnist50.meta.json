@@ -1,0 +1,47 @@
+{
+ "argv": [
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/T10_review.py",
+  "audit",
+  "--datasets",
+  "mnist50",
+  "--ms",
+  "1.1",
+  "--seeds",
+  "1",
+  "--workers",
+  "1",
+  "--tag",
+  "t_audit_mnist50",
+  "--outdir",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke/timing"
+ ],
+ "args": {
+  "cmd": "audit",
+  "tag": "t_audit_mnist50",
+  "outdir": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke/timing",
+  "force": false,
+  "datasets": "mnist50",
+  "workers": 1,
+  "seed_start": 0,
+  "seeds": 1,
+  "allow_fresh": false,
+  "ms": "1.1",
+  "iters": 300,
+  "restarts": 10
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "5",
+  "FFCM_ROUNDS": "50",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "wall_s": 993.391697883606,
+ "n_rows": 4,
+ "seeds": [
+  0
+ ]
+}

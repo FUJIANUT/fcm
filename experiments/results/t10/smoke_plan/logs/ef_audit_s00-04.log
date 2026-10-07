@@ -1,0 +1,10 @@
+[audit 1/5] wine (2s)
+[audit 2/5] wine (2s)
+[audit 3/5] wine (2s)
+[audit 4/5] wine (2s)
+[audit 5/5] wine (2s)
+wrote 20 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke_plan/ef_audit_s00-04.csv and /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke_plan/ef_audit_s00-04_mstar.csv in 2s
+{'dataset': 'wine', 'init': 'paper', 'mstar': 2.0, 'paper_mstar': 2.0, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '2.0;1.5;1.3;1.2;1.1'}
+{'dataset': 'wine', 'init': 'kmeanspp_best10', 'mstar': 2.0, 'paper_mstar': 2.0, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '2.0;1.5;1.3;1.2;1.1'}
+{'dataset': 'wine', 'init': 'oracle', 'mstar': 2.0, 'paper_mstar': 2.0, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '2.0;1.5;1.3;1.2;1.1'}
+{'dataset': 'wine', 'init': 'fed_lossless_pre1', 'mstar': 2.0, 'paper_mstar': 2.0, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '2.0;1.5;1.3;1.2;1.1'}

@@ -1,0 +1,109 @@
+source,key,field,prior,new,match
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_none_off,min_dist,0.7362970304006456,0.7362970304006456,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_none_off,mean_acc,0.9022727272727272,0.9022727272727272,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_none_off,worst_acc,0.6272727272727273,0.6272727272727273,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_none_off,fcm_obj,9.44788205684904,9.44788205684904,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_footprint_off,min_dist,7.316096388672329,7.316096388672329,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_footprint_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_footprint_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|post_footprint_off,fcm_obj,1.1227575258143432,1.1227575258143432,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_none_off,min_dist,7.484541603377713,7.484541603377713,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_none_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_none_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_none_off,fcm_obj,1.0250295329177903,1.0250295329177903,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_mass_off,min_dist,7.500908260231681,7.500908260231681,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_mass_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_mass_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|10|pre_mass_off,fcm_obj,1.0250959778696913,1.0250959778696913,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_none_off,min_dist,6.079158004707745e-12,6.079158004707745e-12,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_none_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_none_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_none_off,fcm_obj,8.287962883285187,8.287962883285187,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_footprint_off,min_dist,7.077491971098127,7.077491971098127,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_footprint_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_footprint_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|post_footprint_off,fcm_obj,1.099176863100269,1.099176863100269,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_none_off,min_dist,7.516614236386613,7.516614236386613,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_none_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_none_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_none_off,fcm_obj,1.0294671964487632,1.0294671964487632,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_mass_off,min_dist,7.524206346942545,7.524206346942545,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_mass_off,mean_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_mass_off,worst_acc,1.0,1.0,1
+per_seed_metrics__T9_L1_confirm.csv,cluster_skew_hard|11|pre_mass_off,fcm_obj,1.0295274442206503,1.0295274442206503,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_none_off,min_dist,1.9489029966078948,1.9489029966078948,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_none_off,mean_acc,0.903654970760234,0.903654970760234,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_none_off,worst_acc,0.75,0.75,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_none_off,fcm_obj,4.119564024876528,4.119564024876528,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_footprint_off,min_dist,3.4018076531150485,3.4018076531150485,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_footprint_off,mean_acc,0.9680701754385964,0.9680701754385964,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_footprint_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|post_footprint_off,fcm_obj,4.081569312254247,4.081569312254247,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_none_off,min_dist,2.9193135112289195,2.9193135112289195,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_none_off,mean_acc,0.9680701754385964,0.9680701754385964,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_none_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_none_off,fcm_obj,4.052362106377239,4.052362106377239,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_mass_off,min_dist,3.3998565453605245,3.3998565453605245,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_mass_off,mean_acc,0.9680701754385964,0.9680701754385964,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_mass_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+per_seed_metrics__T9_L1_confirm.csv,wine|10|pre_mass_off,fcm_obj,4.0804692137808845,4.0804692137808845,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_none_off,min_dist,1.9705930893795132,1.9705930893795132,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_none_off,mean_acc,0.9075438596491228,0.9075438596491228,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_none_off,worst_acc,0.7777777777777778,0.7777777777777778,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_none_off,fcm_obj,4.1135588592681245,4.1135588592681245,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_footprint_off,min_dist,3.3318844986316964,3.3318844986316964,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_footprint_off,mean_acc,0.967514619883041,0.967514619883041,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_footprint_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|post_footprint_off,fcm_obj,4.077995837319614,4.077995837319614,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_none_off,min_dist,2.935795497133881,2.935795497133881,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_none_off,mean_acc,0.9619590643274855,0.9619590643274855,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_none_off,worst_acc,0.8333333333333334,0.8333333333333334,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_none_off,fcm_obj,4.0523206738705,4.0523206738705,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_mass_off,min_dist,3.395863843995255,3.395863843995255,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_mass_off,mean_acc,0.967514619883041,0.967514619883041,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_mass_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+per_seed_metrics__T9_L1_confirm.csv,wine|11|pre_mass_off,fcm_obj,4.08099356766213,4.08099356766213,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_none_off,min_dist,0.07129175883560365,0.07129175883560365,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_none_off,mean_acc,0.6287965134946785,0.6287965134946785,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_none_off,worst_acc,0.4350282485875706,0.4350282485875706,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_none_off,fcm_obj,7.837917335114309,7.837917335114309,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_footprint_off,min_dist,2.42154132820822,2.42154132820822,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_footprint_off,mean_acc,0.7667545687454318,0.7667545687454318,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_footprint_off,worst_acc,0.519774011299435,0.519774011299435,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|post_footprint_off,fcm_obj,7.820384720698361,7.820384720698361,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_none_off,min_dist,1.8621989704692117,1.8621989704692117,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_none_off,mean_acc,0.7171435902919382,0.7171435902919382,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_none_off,worst_acc,0.4888888888888889,0.4888888888888889,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_none_off,fcm_obj,7.700860579304271,7.700860579304271,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_mass_off,min_dist,2.5253441963113574,2.5253441963113574,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_mass_off,mean_acc,0.7641858391203814,0.7641858391203814,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_mass_off,worst_acc,0.5084745762711864,0.5084745762711864,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|10|pre_mass_off,fcm_obj,7.9174466512324715,7.9174466512324715,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_none_off,min_dist,0.0005169244048680995,0.0005169244048680995,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_none_off,mean_acc,0.6669655459593742,0.6669655459593742,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_none_off,worst_acc,0.45,0.45,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_none_off,fcm_obj,7.8914246315557195,7.8914246315557195,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_footprint_off,min_dist,2.4146923128064253,2.4146923128064253,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_footprint_off,mean_acc,0.812451696415631,0.812451696415631,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_footprint_off,worst_acc,0.5444444444444444,0.5444444444444444,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|post_footprint_off,fcm_obj,7.814586227865171,7.814586227865171,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_none_off,min_dist,1.9628071221613783,1.9628071221613783,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_none_off,mean_acc,0.810049483846418,0.810049483846418,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_none_off,worst_acc,0.6333333333333333,0.6333333333333333,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_none_off,fcm_obj,7.737396430993278,7.737396430993278,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_mass_off,min_dist,2.438526363974228,2.438526363974228,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_mass_off,mean_acc,0.7969216352073698,0.7969216352073698,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_mass_off,worst_acc,0.4666666666666667,0.4666666666666667,1
+per_seed_metrics__T9_L1_confirm.csv,digits_pca16|11|pre_mass_off,fcm_obj,7.825740639614587,7.825740639614587,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|10|post_footprint_on,mean_acc,0.8647727272727272,0.8647727272727272,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|10|post_footprint_on,worst_acc,0.5454545454545454,0.5454545454545454,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|11|post_footprint_on,mean_acc,1.0,1.0,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|11|post_footprint_on,worst_acc,1.0,1.0,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",wine|10|post_footprint_on,mean_acc,0.9355211558307535,0.9355211558307535,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",wine|10|post_footprint_on,worst_acc,0.8,0.8,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",wine|11|post_footprint_on,mean_acc,0.9668201754385966,0.9668201754385966,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",wine|11|post_footprint_on,worst_acc,0.8888888888888888,0.8888888888888888,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",digits_pca16|10|post_footprint_on,mean_acc,0.7981593362274885,0.7981593362274885,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",digits_pca16|10|post_footprint_on,worst_acc,0.5611111111111111,0.5611111111111111,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",digits_pca16|11|post_footprint_on,mean_acc,0.7667373558844937,0.7667373558844937,1
+"per_seed_metrics__T9_L1_confirm.csv [prior noES, new early-stop: acc only]",digits_pca16|11|post_footprint_on,worst_acc,0.4111111111111111,0.4111111111111111,1

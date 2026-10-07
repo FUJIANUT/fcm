@@ -1,0 +1,43 @@
+R2. FAIR SC-FFCM (per-config, per-L label-free calibration on a non-evaluation seed)
+
+--- recalibrated SC-FFCM (L=5) vs the previous SC-FFCM (L=5), seeds 0-9: better 1, worse 0
+     cluster_sk:+0.000  cluster_sk:+0.003  dirichlet_:+0.000  dirichlet_:+0.000  overlap_no:+0.000  quantity_s:-0.008  wine:+0.000  satimage:+0.011  pendigits:+0.000  digits_pca:+0.042*  digits_pca:+0.033  letter:+0.002  mnist784_p:+0.021  mnist784_p:+0.020
+--- pre_mass_off vs fair SC-FFCM, both L1, seeds 0-9 (exploratory): better 6, worse 0
+     cluster_sk:+0.000  cluster_sk:+0.031  dirichlet_:+0.005  dirichlet_:-0.025  overlap_no:+0.026*  quantity_s:-0.075  wine:+0.003  satimage:-0.004  pendigits:+0.028  digits_pca:+0.076*  digits_pca:+0.123*  letter:+0.030*  mnist784_p:+0.138*  mnist784_p:+0.100*
+--- pre_mass_off vs fair SC-FFCM, both L1, seeds 10-19 (held-out): better 8, worse 1
+     cluster_sk:+0.000  cluster_sk:+0.022  dirichlet_:+0.000  dirichlet_:+0.004  overlap_no:+0.012*  quantity_s:-0.103*  wine:+0.009*  satimage:+0.007  pendigits:+0.060*  digits_pca:+0.114*  digits_pca:+0.103*  letter:+0.034*  mnist784_p:+0.070*  mnist784_p:+0.091*
+--- pre_none_off vs fair SC-FFCM, both L1, seeds 10-19 (held-out): better 4, worse 0
+     cluster_sk:+0.000  cluster_sk:+0.023  dirichlet_:+0.000  dirichlet_:+0.008  overlap_no:+0.009  quantity_s:-0.086  wine:+0.003  satimage:+0.034  pendigits:+0.057*  digits_pca:+0.105*  digits_pca:+0.072*  letter:+0.011*  mnist784_p:-0.002  mnist784_p:-0.005
+--- pre_mass_off vs fair SC-FFCM, both L5, seeds 0-9 (exploratory): better 1, worse 5
+     cluster_sk:-0.036  cluster_sk:-0.002  dirichlet_:-0.042  dirichlet_:-0.057  overlap_no:-0.019  quantity_s:-0.110*  wine:+0.001  satimage:-0.048*  pendigits:-0.078*  digits_pca:-0.102*  digits_pca:-0.065*  letter:+0.007*  mnist784_p:+0.005  mnist784_p:-0.002
+--- pre_mass_off vs fair SC-FFCM, both L5, seeds 10-19 (held-out): better 0, worse 6
+     cluster_sk:-0.022  cluster_sk:-0.003*  dirichlet_:-0.023  dirichlet_:-0.022  overlap_no:+0.010  quantity_s:-0.112*  wine:+0.009  satimage:-0.059*  pendigits:-0.078*  digits_pca:-0.086*  digits_pca:-0.081*  letter:-0.001  mnist784_p:-0.021  mnist784_p:+0.007
+--- pre_none_off vs fair SC-FFCM, both L5, seeds 10-19 (held-out): better 0, worse 9
+     cluster_sk:+0.000  cluster_sk:-0.004*  dirichlet_:-0.024  dirichlet_:-0.020  overlap_no:+0.002  quantity_s:-0.115*  wine:+0.002  satimage:-0.053*  pendigits:-0.043*  digits_pca:-0.156*  digits_pca:-0.172*  letter:-0.016*  mnist784_p:-0.088*  mnist784_p:-0.075*
+--- pre_mass_off (L=1) vs fair SC-FFCM at its default L=50, seeds 0-9 (12 non-MNIST configs): better 3, worse 2
+     cluster_sk:+0.011  cluster_sk:-0.001  dirichlet_:+0.000  dirichlet_:-0.012  overlap_no:+0.001*  quantity_s:-0.075  wine:+0.001  satimage:-0.035*  pendigits:-0.023*  digits_pca:-0.009  digits_pca:+0.074*  letter:+0.033*  mnist784_p:--  mnist784_p:--
+--- fair SC-FFCM at L=1 vs L=5, seeds 10-19: better 0, worse 4
+     cluster_sk:+0.000  cluster_sk:-0.023  dirichlet_:+0.000  dirichlet_:-0.007  overlap_no:-0.009  quantity_s:-0.000  wine:-0.001  satimage:-0.042*  pendigits:-0.057*  digits_pca:-0.087*  digits_pca:-0.045*  letter:-0.008  mnist784_p:-0.020  mnist784_p:-0.020
+
+R1. SAME-L comparisons and the held-out L=1 block
+
+--- pre_mass_off vs GF-PFedFCM, both L=1, seeds 0-9: better 7, worse 0
+     cluster_sk:+0.039  cluster_sk:+0.017*  dirichlet_:+0.000  dirichlet_:+0.012  overlap_no:+0.024*  quantity_s:-0.014  wine:+0.014*  satimage:+0.005*  pendigits:+0.006  digits_pca:+0.027  digits_pca:+0.011  letter:+0.022*  mnist784_p:+0.031*  mnist784_p:+0.043*
+--- pre_mass_off vs GF-PFedFCM, both L=1, seeds 10-19 (held-out): better 4, worse 0
+     cluster_sk:+0.026  cluster_sk:+0.019*  dirichlet_:+0.000  dirichlet_:-0.002  overlap_no:+0.005*  quantity_s:-0.005  wine:+0.015*  satimage:+0.001  pendigits:+0.016  digits_pca:+0.024  digits_pca:+0.017  letter:+0.021*  mnist784_p:+0.026  mnist784_p:+0.021
+--- PRE vs POST mass (no gate), both L=1, seeds 10-19 (held-out): better 12, worse 1
+     cluster_sk:+0.062*  cluster_sk:+0.100*  dirichlet_:+0.056*  dirichlet_:+0.055*  overlap_no:+0.011*  quantity_s:+0.054  wine:+0.057*  satimage:-0.019*  pendigits:+0.086*  digits_pca:+0.129*  digits_pca:+0.211*  letter:+0.028*  mnist784_p:+0.088*  mnist784_p:+0.070*
+--- pre_mass_off at L=1 vs L=5, seeds 10-19 (held-out): better 8, worse 0
+     cluster_sk:+0.022  cluster_sk:+0.002*  dirichlet_:+0.023  dirichlet_:+0.018  overlap_no:-0.007  quantity_s:+0.009  wine:-0.001  satimage:+0.024*  pendigits:+0.081*  digits_pca:+0.112*  digits_pca:+0.139*  letter:+0.026*  mnist784_p:+0.072*  mnist784_p:+0.064*
+--- GF-PFedFCM at L=1 vs L=5, seeds 10-19 (held-out): better 9, worse 0
+     cluster_sk:-0.026  cluster_sk:+0.035*  dirichlet_:+0.024  dirichlet_:+0.024  overlap_no:+0.006  quantity_s:+0.020  wine:+0.022*  satimage:+0.014*  pendigits:+0.076*  digits_pca:+0.152*  digits_pca:+0.197*  letter:+0.029*  mnist784_p:+0.084*  mnist784_p:+0.107*
+--- personalization at L=1 (GF vs gate-only), seeds 10-19: better 1, worse 3
+     cluster_sk:-0.026  cluster_sk:-0.019*  dirichlet_:+0.042  dirichlet_:+0.065  overlap_no:+0.005  quantity_s:+0.060*  wine:-0.014*  satimage:-0.012*  pendigits:+0.006  digits_pca:+0.010  digits_pca:-0.024  letter:+0.001  mnist784_p:-0.022  mnist784_p:-0.015
+
+EACH METHOD AT ITS OWN BEST LOCAL-STEP COUNT
+--- pre_mass_off (L=1) vs fair SC-FFCM (L=5), seeds 10-19 (held-out): better 7, worse 2
+     cluster_sk:+0.000  cluster_sk:-0.000  dirichlet_:+0.000  dirichlet_:-0.004  overlap_no:+0.003*  quantity_s:-0.103*  wine:+0.008*  satimage:-0.035*  pendigits:+0.003  digits_pca:+0.027*  digits_pca:+0.058*  letter:+0.026*  mnist784_p:+0.050*  mnist784_p:+0.071*
+--- pre_mass_off (L=1) vs fair SC-FFCM (L=5), seeds 0-9: better 4, worse 2
+     cluster_sk:+0.000  cluster_sk:-0.001  dirichlet_:+0.000  dirichlet_:-0.024  overlap_no:+0.001*  quantity_s:-0.075  wine:+0.001  satimage:-0.029*  pendigits:-0.022*  digits_pca:-0.005  digits_pca:+0.048  letter:+0.034*  mnist784_p:+0.101*  mnist784_p:+0.088*
+--- pre_none_off (L=1, lossless rule) vs fair SC-FFCM (L=5), seeds 10-19 (held-out): better 1, worse 3
+     cluster_sk:+0.000  cluster_sk:+0.000  dirichlet_:+0.000  dirichlet_:+0.000  overlap_no:+0.001  quantity_s:-0.086  wine:+0.002  satimage:-0.008*  pendigits:+0.000  digits_pca:+0.018*  digits_pca:+0.027  letter:+0.003  mnist784_p:-0.022*  mnist784_p:-0.025*

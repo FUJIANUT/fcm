@@ -1,0 +1,16 @@
+[2026-09-24 22:55:03] start ee_pedrycz_cal_L1
+[2026-09-24 22:59:27] done ee_pedrycz_cal_L1
+[2026-09-24 22:59:27] start ee_pedrycz_cal_L5
+[2026-09-24 23:07:25] done ee_pedrycz_cal_L5
+[2026-09-24 23:07:25] start ee_pedrycz_cal_L10
+[2026-09-24 23:19:56] done ee_pedrycz_cal_L10
+[2026-09-24 23:19:56] start ee_pedrycz_L1_s00-19
+[2026-09-24 23:25:26] done ee_pedrycz_L1_s00-19
+[2026-09-24 23:25:26] start ee_pedrycz_L5_s00-19
+[2026-09-24 23:38:10] done ee_pedrycz_L5_s00-19
+[2026-09-24 23:38:10] start ee_pedrycz_L10_s00-19
+[2026-09-25 00:00:29] done ee_pedrycz_L10_s00-19
+[2026-09-25 00:00:29] start ef_audit_s00-04
+[2026-09-25 01:33:12] done ef_audit_s00-04
+ok cmp_ef_audit: compare audit ef_audit_s00-04.csv: 200 strict overlapping runs (1000 values, 200 acc/distinct values), 0 strict mismatches; 0 uncovered prior rows; advisory: 0 runs, 0 acc differences; OK
+[2026-09-25 01:33:12] DELEGATED DONE

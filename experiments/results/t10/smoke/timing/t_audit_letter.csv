@@ -1,0 +1,5 @@
+dataset,m,seed,init,n,d,c,distinct,entropy_norm,entropy_norm_r6,J,n_iter,runtime_s,best_restart,kpp_distinct_min,kpp_distinct_max,n_classes,maxgap_fed_vs_cen_iter,gap_fed_vs_paper_final,distinct_cen_iter
+letter,1.3,0,paper,20000,16,26,26,0.5009442755574941,0.500944,99571.2768246395,300,61.585,,,,,,,
+letter,1.3,0,kmeanspp_best10,20000,16,26,26,0.4652609478064037,0.465261,97268.37766123333,300,429.075,4,26,26,,,,
+letter,1.3,0,oracle,20000,16,26,26,0.48081224049481613,0.480812,97689.39211007956,300,37.13,,,,26,,,
+letter,1.3,0,fed_lossless_pre1,20000,16,26,26,0.5009442755574942,0.500944,99571.2768246395,300,27.535,,,,,4.580780199603396e-13,5.895284260759581e-14,26

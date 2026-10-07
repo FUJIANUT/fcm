@@ -1,0 +1,62 @@
+[PASS] (i) participation-1.0 copy == T3.run_cell; round counter: 40 runs (L in {5,1} x wine,digits_pca16 x seeds 0,1 x 5 cells incl. 2 personalized), 0 differ []; run_cell_counted identical, n_rounds == run_cell_pp's; n_rounds of the personalized L=5 runs [19, 25, 29, 34, 50] (< 50 = early stop), non-personalized [50]
+[PASS] (i') participation 0.5 samples max(1,int(P*0.5)) clients, deterministic, differs from full: n_part=5 of 10
+[PASS] (vi-a) gacc == mean_acc when one client holds all data: 16 prototype sets
+[PASS] (vi-b) xb and hnorm on the toy vs hand values: xb=0.144791666667 (hand 0.144791666667), hnorm=0.529754503809 (hand 0.529754503809)
+[PASS] (vi-c) gacc (own-client prototypes, one Hungarian) vs brute force: gacc=0.75, brute=0.75, pred=[0, 0, 1, 0]
+[PASS] (viii) mask gates and cell parser: 32 clients checked; cells: post_fpmask_off, post_massmask_off, pre_fpmask_off, pre_massmask_off
+[PASS] (ix) pedrycz_gradient_fcm uses m (no hard-coded square): 'membership**m' and run_local_fcm_steps(..., m=m) present; hard-coded squares: none
+[PASS] (x) split-sample partition + fresh-seed guards + placeholder rows: wine: test share 0.208; cluster_skew_hard: test share 0.200; seeds 18-20 and --cal-seed 25 refused without --allow-fresh, --cal-seed 100 accepted; no_stable_setting row: m=1.3, n_rounds=-1, participation=1.0
+[PASS] (xii-a) exact Wilcoxon / Holm / t-interval: 200 random vectors (ties, zeros, n' <= 11): exact == 2^n' enumeration (max |dp| 0.0e+00); == scipy exact on 103 tie-free vectors; p(n'=10, all positive) = 1/512; Holm and t-interval by hand
+[PASS] (xii-b) analysis on the prior CSVs reproduces the documented counts: 14 documented better/worse counts (T8 E7, T9 R2b/R2c/R3), 0 differ []; exact test gives the same unadjusted counts on 14/14
+[FAIL] (ii) cells L=5 vs prior CSVs: 132 strict overlapping runs, 132 mean_acc values, 43 mismatches, 0 + 0 prior rows not covered; advisory (prior noES vs new early stop, acc only): 42 runs, 0 acc differences; sources ['t3_design_space/per_seed_metrics__T9_noES.csv', 't3_design_space/per_seed_metrics__T9_noES_confirm.csv', 't3_design_space/per_seed_metrics__confirm.csv', 't3_design_space/per_seed_metrics__mstar.csv', 't3_design_space/per_seed_metrics_main.csv', 't6_baselines/per_seed_metrics__mstar.csv']
+     mismatch {'source': 't3_design_space/per_seed_metrics__mstar.csv', 'key': 'digits_pca16|0|post_none_off', 'field': 'min_dist', 'prior': '1.6894542162875676', 'new': '1.6894542162875616', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__mstar.csv', 'key': 'digits_pca16|0|post_none_on', 'field': 'min_dist', 'prior': '1.28216987550451', 'new': '1.2821698755045134', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__mstar.csv', 'key': 'digits_pca16|0|post_footprint_off', 'field': 'min_dist', 'prior': '2.1677843820519582', 'new': '2.167784382051956', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__mstar.csv', 'key': 'digits_pca16|0|post_footprint_on', 'field': 'min_dist', 'prior': '2.2696349285169997', 'new': '2.269634928517009', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__mstar.csv', 'key': 'digits_pca16|0|post_mass_off', 'field': 'min_dist', 'prior': '2.038573664485763', 'new': '2.038573664485768', 'match': 0, 'strict': 1}
+[PASS] (ii-n) cells L=5: n_rounds / upload_numbers recorded in every row: 192 rows; personalized n_rounds in [17, 19, 21]..[50] (min 17), non-personalized [50]; upload_numbers = n_rounds*n_part*c*(d+1) on all rows
+[FAIL] (ii) cells L=1 vs prior CSVs: 54 strict overlapping runs, 54 mean_acc values, 23 mismatches, 0 + 0 prior rows not covered; advisory (prior noES vs new early stop, acc only): 12 runs, 0 acc differences; sources ['t3_design_space/per_seed_metrics__L1all.csv', 't3_design_space/per_seed_metrics__T9_L1_confirm.csv', 't3_design_space/per_seed_metrics__T9_L1_gf.csv']
+     mismatch {'source': 't3_design_space/per_seed_metrics__L1all.csv', 'key': 'digits_pca16|0|post_none_off', 'field': 'min_dist', 'prior': '0.0022199971524619897', 'new': '0.0022199971524619892', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__L1all.csv', 'key': 'digits_pca16|0|pre_none_off', 'field': 'min_dist', 'prior': '1.9355322660438747', 'new': '1.935532266043864', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__L1all.csv', 'key': 'digits_pca16|0|pre_footprint_off', 'field': 'min_dist', 'prior': '2.499674640970997', 'new': '2.4996746409709973', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__L1all.csv', 'key': 'digits_pca16|0|pre_mass_off', 'field': 'min_dist', 'prior': '2.461282680705412', 'new': '2.4612826807054127', 'match': 0, 'strict': 1}
+     mismatch {'source': 't3_design_space/per_seed_metrics__L1all.csv', 'key': 'digits_pca16|1|post_none_off', 'field': 'min_dist', 'prior': '0.0077688567314201', 'new': '0.00776885673142023', 'match': 0, 'strict': 1}
+[PASS] (ii-n) cells L=1: n_rounds / upload_numbers recorded in every row: 192 rows; personalized n_rounds in [14, 15, 19]..[50] (min 14), non-personalized [50]; upload_numbers = n_rounds*n_part*c*(d+1) on all rows
+[FAIL] (ii') T9_L1_gf / T9_L1_confirm personalized rows were run with FFCM_NO_EARLYSTOP=1 (L=1): 12 runs, 48 values incl. min_dist/fcm_obj, 8 mismatches
+     note: early-stop vs no-early-stop at L=1 on these 12 personalized runs: mean_acc equal on 12/12, max |d min_dist| = 8.31e-06
+[FAIL] (ii') T9_noES / T9_noES_confirm personalized rows were run with FFCM_NO_EARLYSTOP=1 (L=5): 42 runs, 168 values incl. min_dist/fcm_obj, 27 mismatches
+     note: early-stop vs no-early-stop at L=5 on these 48 personalized runs: mean_acc equal on 48/48, max |d min_dist| = 1.39e-05
+[FAIL] (xiii) compare / argcheck guards: same rows pass; label drift -> exit 1 (40 in-scope prior rows not covered); zero overlap -> exit 1; --min-runs too high -> exit 1; argcheck same -> 0, --cells all12 instead of all16 -> 1
+[FAIL] (xiv) analysis on T10-format CSVs (seeds 10-11, 3 configs): hypotheses with data: ['H1', 'H2', 'H3', 'H4', 'H5-ES', 'H6', 'H7', 'H8', 'H9', 'S-PRE-SC1', 'S-PRE-SC5']; decision criteria with data: ['fcm_obj', 'gacc', 'mean_acc', 'upload_numbers', 'worst_acc'] on 3 states; fewest uploaded numbers: ['GF-PFedFCM (L=5)']
+[PASS] (xi) E-C held-out ACC with the train-fitted label map: 300 random cases map == clustering_accuracy; 1-point test set: refit 1.0, train map 0.0; quantity_ske post_footprint_off: test ACC refit 0.821 vs train-map 0.667, worst 0.612 vs 0.200, min client n_test 4; quantity_ske post_footprint_on: test ACC refit 0.826 vs train-map 0.784, worst 0.548 vs 0.500, min client n_test 4; wine post_footprint_off: test ACC refit 0.975 vs train-map 0.975, worst 0.750 vs 0.750, min client n_test 3; wine post_footprint_on: test ACC refit 0.925 vs train-map 0.925, worst 0.750 vs 0.750, min client n_test 3
+[FAIL] (iii) scffcm (t9b steps) vs t9b_scffcm_fair.csv: 8/8 runs, 32 values (8 mean_acc), 10 mismatches
+[FAIL] (iv) cfcm vs T6 centralized_fcm: 28/28 runs (14 configs x seeds 0-1), 84 values (28 mean_acc), 12 mismatches
+[PASS] (v) audit (a) vs degeneracy_data.csv: 50/50 runs (2 configs x 5 m x 5 seeds), fields distinct/entropy_norm/n/d/c, 0 mismatches
+     fed lossless: max_iter-wise |V_fed - V_cen| = 9.41e-14; m* agrees with paper on 8/8 (dataset, init) pairs
+[FAIL] (vii) scffcm-calibrate (t9b grid, seed 100) vs t9b_scffcm_calibration.csv: 4/4 (dataset, L) rows, fields eta_l/eta_g/rel_obj_gap/n_stable, 1 mismatches [('wine', 1, 'rel_obj_gap', '0.00010262430502267212', '0.00010262430502282975')]
+
+SUMMARY
+  PASS  (i) participation-1.0 copy == T3.run_cell; round counter
+  PASS  (i') participation 0.5 samples max(1,int(P*0.5)) clients, deterministic, differs from full
+  PASS  (vi-a) gacc == mean_acc when one client holds all data
+  PASS  (vi-b) xb and hnorm on the toy vs hand values
+  PASS  (vi-c) gacc (own-client prototypes, one Hungarian) vs brute force
+  PASS  (viii) mask gates and cell parser
+  PASS  (ix) pedrycz_gradient_fcm uses m (no hard-coded square)
+  PASS  (x) split-sample partition + fresh-seed guards + placeholder rows
+  PASS  (xii-a) exact Wilcoxon / Holm / t-interval
+  PASS  (xii-b) analysis on the prior CSVs reproduces the documented counts
+  FAIL  (ii) cells L=5 vs prior CSVs
+  PASS  (ii-n) cells L=5: n_rounds / upload_numbers recorded in every row
+  FAIL  (ii) cells L=1 vs prior CSVs
+  PASS  (ii-n) cells L=1: n_rounds / upload_numbers recorded in every row
+  FAIL  (ii') T9_L1_gf / T9_L1_confirm personalized rows were run with FFCM_NO_EARLYSTOP=1 (L=1)
+  FAIL  (ii') T9_noES / T9_noES_confirm personalized rows were run with FFCM_NO_EARLYSTOP=1 (L=5)
+  FAIL  (xiii) compare / argcheck guards
+  FAIL  (xiv) analysis on T10-format CSVs (seeds 10-11, 3 configs)
+  PASS  (xi) E-C held-out ACC with the train-fitted label map
+  FAIL  (iii) scffcm (t9b steps) vs t9b_scffcm_fair.csv
+  FAIL  (iv) cfcm vs T6 centralized_fcm
+  PASS  (v) audit (a) vs degeneracy_data.csv
+  FAIL  (vii) scffcm-calibrate (t9b grid, seed 100) vs t9b_scffcm_calibration.csv
+14/23 passed; wall 238s; per test (s): i=49, vi=4, viii=0, ix=0, x=0, xii=2, ii=76, xiii=3, xiv=4, xi=2, iii=3, iv=71, v=20, vii=6

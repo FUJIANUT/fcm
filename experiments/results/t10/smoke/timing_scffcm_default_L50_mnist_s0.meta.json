@@ -1,0 +1,66 @@
+{
+ "argv": [
+  "scripts/T10_review.py",
+  "scffcm",
+  "--L",
+  "50",
+  "--eta-l",
+  "0.2",
+  "--eta-g",
+  "0.5",
+  "--datasets",
+  "mnist20,mnist50",
+  "--seed-start",
+  "0",
+  "--seeds",
+  "1",
+  "--workers",
+  "2",
+  "--tag",
+  "timing_scffcm_default_L50_mnist_s0",
+  "--outdir",
+  "results/t10/smoke"
+ ],
+ "args": {
+  "cmd": "scffcm",
+  "tag": "timing_scffcm_default_L50_mnist_s0",
+  "outdir": "results/t10/smoke",
+  "force": false,
+  "datasets": "mnist20,mnist50",
+  "workers": 2,
+  "seed_start": 0,
+  "seeds": 1,
+  "allow_fresh": false,
+  "L": 50,
+  "rounds": 50,
+  "steps_csv": null,
+  "eta_l": 0.2,
+  "eta_g": 0.5,
+  "cfraction": 1.0
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "50",
+  "FFCM_ROUNDS": "50",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "wall_s": 165.35123205184937,
+ "n_rows": 2,
+ "steps": {
+  "mnist784_pca32 (20c)": [
+   0.2,
+   0.5
+  ],
+  "mnist784_pca32 (50c)": [
+   0.2,
+   0.5
+  ]
+ },
+ "seeds": [
+  0
+ ]
+}

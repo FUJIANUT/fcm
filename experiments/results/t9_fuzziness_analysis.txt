@@ -1,0 +1,29 @@
+FUZZINESS SENSITIVITY (8 configs non-degenerate for m in {1.3,1.5,2.0}; seeds 0-9; paired Wilcoxon)
+
+==== m=1.3
+  substitution interaction: significant positive 4/8   cluster_skew:+0.104*  cluster_skew:+0.172*  dirichlet_0.:+0.043  dirichlet_0.:+0.046  overlap_nois:+0.010*  quantity_ske:+0.025  wine:+0.026*  satimage:-0.005
+  ACC  pre_mass_off vs GF                   better 4/8 worse 0/8   cluster_skew:-0.039  cluster_skew:+0.067*  dirichlet_0.:-0.011  dirichlet_0.:+0.045  overlap_nois:+0.024*  quantity_ske:+0.051*  wine:+0.073*  satimage:-0.001
+  OBJ  pre_mass_off vs GF                   better 0/8 worse 3/8   cluster_skew:+2.346  cluster_skew:+0.352*  dirichlet_0.:+1.685  dirichlet_0.:+0.018  overlap_nois:-0.132  quantity_ske:-0.672  wine:+0.343*  satimage:+0.222*
+  ACC  pre_mass_off vs F-FCM                better 3/8 worse 0/8   cluster_skew:+0.063  cluster_skew:+0.181*  dirichlet_0.:+0.001  dirichlet_0.:+0.065  overlap_nois:+0.011*  quantity_ske:+0.057  wine:+0.031*  satimage:-0.017
+  OBJ  pre_mass_off vs F-FCM                better 8/8 worse 0/8   cluster_skew:-13.586*  cluster_skew:-0.383*  dirichlet_0.:-17.861*  dirichlet_0.:-10.707*  overlap_nois:-0.094*  quantity_ske:-3.485*  wine:-0.108*  satimage:-0.788*
+  ACC  personalization (GF vs gate-only)    better 0/8 worse 3/8   cluster_skew:+0.000  cluster_skew:-0.062*  dirichlet_0.:-0.008  dirichlet_0.:-0.016  overlap_nois:-0.024*  quantity_ske:-0.003  wine:-0.072*  satimage:-0.002
+  OBJ  personalization (GF vs gate-only)    better 2/8 worse 1/8   cluster_skew:-0.017  cluster_skew:+0.128*  dirichlet_0.:-1.940*  dirichlet_0.:-0.965  overlap_nois:+0.142  quantity_ske:-0.410  wine:-0.330*  satimage:-0.057
+
+==== m=1.5
+  substitution interaction: significant positive 4/8   cluster_skew:+0.091*  cluster_skew:+0.128*  dirichlet_0.:+0.088  dirichlet_0.:+0.059  overlap_nois:+0.014*  quantity_ske:+0.065  wine:+0.035*  satimage:-0.018
+  ACC  pre_mass_off vs GF                   better 3/8 worse 0/8   cluster_skew:-0.025  cluster_skew:+0.061*  dirichlet_0.:+0.024  dirichlet_0.:+0.018  overlap_nois:+0.024*  quantity_ske:+0.039  wine:+0.073*  satimage:-0.005
+  OBJ  pre_mass_off vs GF                   better 0/8 worse 5/8   cluster_skew:+1.465*  cluster_skew:+0.324*  dirichlet_0.:+0.643*  dirichlet_0.:+0.712  overlap_nois:-0.063  quantity_ske:-0.877  wine:+0.326*  satimage:+0.100*
+  ACC  pre_mass_off vs F-FCM                better 5/8 worse 1/8   cluster_skew:+0.066  cluster_skew:+0.134*  dirichlet_0.:+0.075*  dirichlet_0.:+0.057  overlap_nois:+0.016*  quantity_ske:+0.059*  wine:+0.043*  satimage:-0.032*
+  OBJ  pre_mass_off vs F-FCM                better 8/8 worse 0/8   cluster_skew:-12.108*  cluster_skew:-0.281*  dirichlet_0.:-16.303*  dirichlet_0.:-8.544*  overlap_nois:-0.126*  quantity_ske:-3.568*  wine:-0.110*  satimage:-0.704*
+  ACC  personalization (GF vs gate-only)    better 0/8 worse 3/8   cluster_skew:+0.000  cluster_skew:-0.058*  dirichlet_0.:-0.024  dirichlet_0.:-0.003  overlap_nois:-0.024*  quantity_ske:-0.010  wine:-0.071*  satimage:+0.003
+  OBJ  personalization (GF vs gate-only)    better 2/8 worse 2/8   cluster_skew:-0.123  cluster_skew:+0.101*  dirichlet_0.:-1.349*  dirichlet_0.:-0.825  overlap_nois:+0.080*  quantity_ske:-0.376  wine:-0.311*  satimage:+0.023
+
+==== m=2.0
+  substitution interaction: significant positive 5/8   cluster_skew:+0.097*  cluster_skew:+0.143*  dirichlet_0.:+0.116*  dirichlet_0.:+0.070*  overlap_nois:+0.008  quantity_ske:-0.004  wine:+0.036*  satimage:-0.015
+  ACC  pre_mass_off vs GF                   better 2/8 worse 1/8   cluster_skew:-0.036  cluster_skew:+0.054*  dirichlet_0.:-0.008  dirichlet_0.:-0.013  overlap_nois:+0.006  quantity_ske:-0.001  wine:+0.036*  satimage:-0.008*
+  OBJ  pre_mass_off vs GF                   better 0/8 worse 7/8   cluster_skew:+1.036*  cluster_skew:+0.241*  dirichlet_0.:+0.374*  dirichlet_0.:+0.458*  overlap_nois:+0.064*  quantity_ske:+0.601  wine:+0.293*  satimage:+0.120*
+  ACC  pre_mass_off vs F-FCM                better 2/8 worse 1/8   cluster_skew:+0.058  cluster_skew:+0.132*  dirichlet_0.:+0.063  dirichlet_0.:+0.043  overlap_nois:+0.013  quantity_ske:+0.013  wine:+0.042*  satimage:-0.052*
+  OBJ  pre_mass_off vs F-FCM                better 5/8 worse 0/8   cluster_skew:-6.370*  cluster_skew:-0.204*  dirichlet_0.:-7.604*  dirichlet_0.:-4.629*  overlap_nois:-0.122  quantity_ske:-0.783  wine:+0.014  satimage:-0.266*
+  ACC  personalization (GF vs gate-only)    better 0/8 worse 3/8   cluster_skew:+0.000  cluster_skew:-0.053*  dirichlet_0.:-0.016  dirichlet_0.:-0.000  overlap_nois:-0.004  quantity_ske:+0.013  wine:-0.037*  satimage:-0.007*
+  OBJ  personalization (GF vs gate-only)    better 5/8 worse 0/8   cluster_skew:-0.136*  cluster_skew:+0.021  dirichlet_0.:-0.678*  dirichlet_0.:-0.364  overlap_nois:-0.039  quantity_ske:-0.640*  wine:-0.288*  satimage:-0.046*
+

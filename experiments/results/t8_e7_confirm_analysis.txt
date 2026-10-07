@@ -1,0 +1,98 @@
+E7. CONFIRMATORY REPLICATION on fresh seeds 10-19 (paired Wilcoxon per config)
+
+--- fixed default pre_mass_off vs published GF-PFedFCM: significantly better 8/14, worse 1/14
+     cluster_skew_hard       -0.022  p=1.0000 
+     cluster_skew_overlap    +0.051  p=0.0020 *
+     dirichlet_0.03          +0.001  p=0.5000 
+     dirichlet_0.1           +0.003  p=1.0000 
+     overlap_noise           +0.018  p=0.0020 *
+     quantity_skew_extreme   +0.006  p=0.7695 
+     wine                    +0.038  p=0.0020 *
+     satimage                -0.009  p=0.0098 *
+     pendigits               +0.011  p=0.3750 
+     digits_pca16            +0.063  p=0.0039 *
+     digits_pca32            +0.075  p=0.0020 *
+     letter                  +0.023  p=0.0020 *
+     mnist784_pca32 (20c)    +0.038  p=0.0098 *
+     mnist784_pca32 (50c)    +0.064  p=0.0020 *
+
+--- fixed default pre_footprint_off vs published GF-PFedFCM: significantly better 8/14, worse 2/14
+     cluster_skew_hard       -0.019  p=1.0000 
+     cluster_skew_overlap    +0.052  p=0.0020 *
+     dirichlet_0.03          -0.041  p=0.6250 
+     dirichlet_0.1           -0.016  p=0.7500 
+     overlap_noise           +0.018  p=0.0020 *
+     quantity_skew_extreme   -0.029  p=0.0371 *
+     wine                    +0.037  p=0.0020 *
+     satimage                -0.008  p=0.0059 *
+     pendigits               +0.006  p=0.7695 
+     digits_pca16            +0.070  p=0.0020 *
+     digits_pca32            +0.069  p=0.0020 *
+     letter                  +0.024  p=0.0039 *
+     mnist784_pca32 (20c)    +0.054  p=0.0020 *
+     mnist784_pca32 (50c)    +0.073  p=0.0020 *
+
+--- pre_mass_off vs F-FCM (post_none_off): significantly better 11/14, worse 1/14
+     cluster_skew_hard       +0.103  p=0.0137 *
+     cluster_skew_overlap    +0.171  p=0.0020 *
+     dirichlet_0.03          +0.108  p=0.0098 *
+     dirichlet_0.1           +0.045  p=0.1934 
+     overlap_noise           +0.043  p=0.0020 *
+     quantity_skew_extreme   +0.022  p=0.6250 
+     wine                    +0.043  p=0.0020 *
+     satimage                -0.038  p=0.0039 *
+     pendigits               +0.133  p=0.0020 *
+     digits_pca16            +0.254  p=0.0020 *
+     digits_pca32            +0.297  p=0.0020 *
+     letter                  +0.038  p=0.0020 *
+     mnist784_pca32 (20c)    +0.140  p=0.0020 *
+     mnist784_pca32 (50c)    +0.150  p=0.0020 *
+
+--- mass gate vs footprint gate at PRE: significantly better 1/14, worse 3/14
+     cluster_skew_hard       -0.003  p=1.0000 
+     cluster_skew_overlap    -0.000  p=0.4922 
+     dirichlet_0.03          +0.042  p=0.5000 
+     dirichlet_0.1           +0.020  p=0.5000 
+     overlap_noise           -0.000  p=0.3750 
+     quantity_skew_extreme   +0.035  p=0.0469 *
+     wine                    +0.001  p=0.5000 
+     satimage                -0.001  p=0.0488 *
+     pendigits               +0.005  p=0.6250 
+     digits_pca16            -0.006  p=0.0645 
+     digits_pca32            +0.006  p=0.6953 
+     letter                  -0.000  p=0.9219 
+     mnist784_pca32 (20c)    -0.016  p=0.0195 *
+     mnist784_pca32 (50c)    -0.009  p=0.0488 *
+
+--- personalization effect (GF minus gate-only): significantly better 1/14, worse 5/14
+     cluster_skew_hard       +0.000  p=  --   
+     cluster_skew_overlap    -0.051  p=0.0020 *
+     dirichlet_0.03          -0.001  p=1.0000 
+     dirichlet_0.1           +0.023  p=0.3750 
+     overlap_noise           -0.011  p=0.0020 *
+     quantity_skew_extreme   +0.010  p=0.0391 *
+     wine                    -0.036  p=0.0020 *
+     satimage                -0.005  p=0.1934 
+     pendigits               -0.009  p=0.3750 
+     digits_pca16            -0.025  p=0.0645 
+     digits_pca32            -0.052  p=0.0039 *
+     letter                  -0.018  p=0.0020 *
+     mnist784_pca32 (20c)    +0.005  p=0.6250 
+     mnist784_pca32 (50c)    -0.009  p=0.5566 
+
+--- SUBSTITUTION interaction on fresh seeds (per-seed diff-in-diff)
+     cluster_skew_hard       interaction +0.145  p=0.0020 *
+     cluster_skew_overlap    interaction +0.169  p=0.0020 *
+     dirichlet_0.03          interaction +0.149  p=0.0098 *
+     dirichlet_0.1           interaction +0.041  p=0.4922 
+     overlap_noise           interaction +0.028  p=0.0020 *
+     quantity_skew_extreme   interaction +0.038  p=0.4316 
+     wine                    interaction +0.035  p=0.0020 *
+     satimage                interaction -0.020  p=0.0488 
+     pendigits               interaction +0.170  p=0.0020 *
+     digits_pca16            interaction +0.139  p=0.0020 *
+     digits_pca32            interaction +0.189  p=0.0020 *
+     letter                  interaction +0.016  p=0.0273 *
+     mnist784_pca32 (20c)    interaction +0.014  p=0.6250 
+     mnist784_pca32 (50c)    interaction +0.004  p=1.0000 
+   => significant positive on 9/14; pooled over configs: mean +0.080, Wilcoxon p=0.0009

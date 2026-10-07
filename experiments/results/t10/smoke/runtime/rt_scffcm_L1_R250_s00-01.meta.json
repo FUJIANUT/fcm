@@ -1,0 +1,113 @@
+{
+ "argv": [
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/T10_review.py",
+  "scffcm",
+  "--L",
+  "1",
+  "--rounds",
+  "250",
+  "--eta-l",
+  "0.5",
+  "--eta-g",
+  "8",
+  "--seeds",
+  "2",
+  "--workers",
+  "12",
+  "--tag",
+  "rt_scffcm_L1_R250_s00-01",
+  "--outdir",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke/runtime"
+ ],
+ "args": {
+  "cmd": "scffcm",
+  "tag": "rt_scffcm_L1_R250_s00-01",
+  "outdir": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/../results/t10/smoke/runtime",
+  "force": false,
+  "datasets": null,
+  "workers": 12,
+  "seed_start": 0,
+  "seeds": 2,
+  "allow_fresh": false,
+  "L": 1,
+  "rounds": 250,
+  "steps_csv": null,
+  "eta_l": 0.5,
+  "eta_g": 8.0,
+  "cfraction": 1.0
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "1",
+  "FFCM_ROUNDS": "250",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "wall_s": 39.50416302680969,
+ "n_rows": 28,
+ "steps": {
+  "cluster_skew_hard": [
+   0.5,
+   8.0
+  ],
+  "cluster_skew_overlap": [
+   0.5,
+   8.0
+  ],
+  "dirichlet_0.03": [
+   0.5,
+   8.0
+  ],
+  "dirichlet_0.1": [
+   0.5,
+   8.0
+  ],
+  "overlap_noise": [
+   0.5,
+   8.0
+  ],
+  "quantity_skew_extreme": [
+   0.5,
+   8.0
+  ],
+  "wine": [
+   0.5,
+   8.0
+  ],
+  "satimage": [
+   0.5,
+   8.0
+  ],
+  "pendigits": [
+   0.5,
+   8.0
+  ],
+  "digits_pca16": [
+   0.5,
+   8.0
+  ],
+  "digits_pca32": [
+   0.5,
+   8.0
+  ],
+  "letter": [
+   0.5,
+   8.0
+  ],
+  "mnist784_pca32 (20c)": [
+   0.5,
+   8.0
+  ],
+  "mnist784_pca32 (50c)": [
+   0.5,
+   8.0
+  ]
+ },
+ "seeds": [
+  0,
+  1
+ ]
+}

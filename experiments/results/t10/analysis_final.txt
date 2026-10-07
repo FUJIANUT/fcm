@@ -1,0 +1,184 @@
+# T10 analysis (t10 source), blocks ['s00-09', 's10-19', 's20-29']; written 2026-09-24 17:18:08 EDT
+# exact two-sided Wilcoxon signed-rank (zeros |d|<=1e-12 dropped, mid-ranks), level 0.05; Holm per hypothesis over its configuration family; legacy = scipy.stats.wilcoxon default (the earlier blocks' test)
+
+## §1 hypotheses: better/worse counts (a vs b; 'better' = a better). unadj | Holm | legacy | Holm over all H1-H8 (sensitivity) | Holm with diverged runs as losses
+s00-09 H1         fcm_obj  fam 14 tested 14: 0/13 | 0/13 | 0/13 | 0/0 | 0/13  expect a  
+s10-19 H1         fcm_obj  fam 14 tested 14: 0/13 | 0/12 | 0/13 | 0/0 | 0/12  expect a  
+s20-29 H1         fcm_obj  fam 14 tested 14: 0/12 | 0/11 | 0/12 | 0/0 | 0/11  expect a  
+s00-09 H1         mean_acc fam 14 tested 14: 7/1 | 5/1 | 7/1 | 0/0 | 5/1  expect a  
+s10-19 H1         mean_acc fam 14 tested 14: 8/1 | 7/0 | 8/1 | 0/0 | 7/0  expect a  
+s20-29 H1         mean_acc fam 14 tested 14: 7/0 | 6/0 | 7/0 | 0/0 | 6/0  expect a  REPLICATES
+s00-09 H2         fcm_obj  fam 14 tested 14: 6/2 | 5/2 | 6/2 | 0/0 | 5/2  expect a  
+s10-19 H2         fcm_obj  fam 14 tested 14: 7/2 | 6/1 | 7/2 | 0/0 | 6/1  expect a  
+s20-29 H2         fcm_obj  fam 14 tested 14: 6/2 | 4/1 | 6/2 | 0/0 | 4/1  expect a  
+s00-09 H2         mean_acc fam 14 tested 14: 8/1 | 8/1 | 8/1 | 0/0 | 8/1  expect a  
+s10-19 H2         mean_acc fam 14 tested 14: 11/1 | 11/1 | 11/1 | 0/0 | 11/1  expect a  
+s20-29 H2         mean_acc fam 14 tested 14: 9/1 | 9/0 | 9/1 | 0/0 | 9/0  expect a  REPLICATES
+s00-09 H3         fcm_obj  fam 14 tested 14: 13/0 | 13/0 | 13/0 | 0/0 | 13/0  expect a  
+s10-19 H3         fcm_obj  fam 14 tested 14: 14/0 | 14/0 | 14/0 | 0/0 | 14/0  expect a  
+s20-29 H3         fcm_obj  fam 14 tested 14: 14/0 | 14/0 | 14/0 | 0/0 | 14/0  expect a  
+s00-09 H3         mean_acc fam 14 tested 14: 8/0 | 7/0 | 8/0 | 0/0 | 7/0  expect a  
+s10-19 H3         mean_acc fam 14 tested 14: 9/1 | 7/0 | 9/1 | 0/0 | 7/0  expect a  
+s20-29 H3         mean_acc fam 14 tested 14: 11/0 | 9/0 | 11/0 | 0/0 | 9/0  expect a  REPLICATES
+s00-09 H4         fcm_obj  fam 14 tested 14: 14/0 | 14/0 | 14/0 | 0/0 | 14/0  expect a  
+s10-19 H4         fcm_obj  fam 14 tested 14: 14/0 | 14/0 | 14/0 | 0/0 | 14/0  expect a  
+s20-29 H4         fcm_obj  fam 14 tested 14: 14/0 | 14/0 | 14/0 | 0/0 | 14/0  expect a  
+s00-09 H4         mean_acc fam 14 tested 14: 11/1 | 10/1 | 11/1 | 0/0 | 10/1  expect a  
+s10-19 H4         mean_acc fam 14 tested 14: 12/1 | 12/1 | 12/1 | 0/0 | 12/1  expect a  
+s20-29 H4         mean_acc fam 14 tested 14: 12/1 | 10/1 | 12/1 | 0/0 | 10/1  expect a  REPLICATES
+s00-09 H5         fcm_obj  fam 14 tested 14: 0/9 | 0/9 | 0/9 | 0/0 | 0/9  expect a  
+s10-19 H5         fcm_obj  fam 14 tested 14: 0/11 | 0/11 | 0/11 | 0/0 | 0/11  expect a  
+s20-29 H5         fcm_obj  fam 14 tested 14: 0/9 | 0/9 | 0/9 | 0/0 | 0/9  expect a  
+s00-09 H5         mean_acc fam 14 tested 13: 7/0 | 7/0 | 7/0 | 0/0 | 7/0  expect a  
+s10-19 H5         mean_acc fam 14 tested 13: 4/0 | 3/0 | 4/0 | 0/0 | 3/0  expect a  
+s20-29 H5         mean_acc fam 14 tested 14: 9/0 | 4/0 | 9/0 | 0/0 | 4/0  expect a  REPLICATES
+s00-09 H6         fcm_obj  fam 14 tested 14: 0/11 | 0/11 | 0/11 | 0/0 | 0/11  expect a  
+s10-19 H6         fcm_obj  fam 14 tested 14: 0/9 | 0/8 | 0/9 | 0/0 | 0/8  expect a  
+s20-29 H6         fcm_obj  fam 14 tested 14: 0/11 | 0/11 | 0/11 | 0/0 | 0/11  expect a  
+s00-09 H6         mean_acc fam 14 tested 12: 4/3 | 3/1 | 4/3 | 0/0 | 3/1  expect a  
+s10-19 H6         mean_acc fam 14 tested 12: 6/2 | 1/1 | 6/2 | 0/0 | 1/1  expect a  
+s20-29 H6         mean_acc fam 14 tested 13: 3/2 | 3/1 | 3/2 | 0/0 | 3/1  expect a  REPLICATES
+s00-09 H7         fcm_obj  fam 14 tested 14: 0/12 | 0/11 | 0/12 | 0/0 | 0/11  expect a  
+s10-19 H7         fcm_obj  fam 14 tested 14: 0/11 | 0/10 | 0/11 | 0/0 | 0/10  expect a  
+s20-29 H7         fcm_obj  fam 14 tested 14: 0/12 | 0/10 | 0/12 | 0/0 | 0/10  expect a  
+s00-09 H7         mean_acc fam 14 tested 12: 4/1 | 3/1 | 4/1 | 0/0 | 3/1  expect a  
+s10-19 H7         mean_acc fam 14 tested 12: 6/2 | 1/1 | 6/2 | 0/0 | 1/1  expect a  
+s20-29 H7         mean_acc fam 14 tested 13: 4/1 | 3/1 | 4/1 | 0/0 | 3/1  expect a  REPLICATES
+s00-09 H8         fcm_obj  fam 14 tested 14: 0/14 | 0/14 | 0/14 | 0/0 | 0/14  expect b  
+s10-19 H8         fcm_obj  fam 14 tested 14: 0/14 | 0/14 | 0/14 | 0/0 | 0/14  expect b  
+s20-29 H8         fcm_obj  fam 14 tested 14: 0/14 | 0/14 | 0/14 | 0/0 | 0/14  expect b  
+s00-09 H8         mean_acc fam 14 tested 14: 0/5 | 0/3 | 0/5 | 0/0 | 0/3  expect b  
+s10-19 H8         mean_acc fam 14 tested 14: 0/6 | 0/3 | 0/6 | 0/0 | 0/3  expect b  
+s20-29 H8         mean_acc fam 14 tested 14: 0/6 | 0/3 | 0/6 | 0/0 | 0/3  expect b  REPLICATES
+s00-09 H9         fcm_obj  fam 14 tested 14: 11/0 | 10/0 | 11/0 | 0/0 | 10/0  expect none-better  
+s10-19 H9         fcm_obj  fam 14 tested 14: 11/1 | 9/1 | 11/1 | 0/0 | 9/1  expect none-better  
+s20-29 H9         fcm_obj  fam 14 tested 14: 10/1 | 10/1 | 10/1 | 0/0 | 10/1  expect none-better  
+s00-09 H9         mean_acc fam 14 tested 13: 0/6 | 0/3 | 0/6 | 0/0 | 0/3  expect none-better  
+s10-19 H9         mean_acc fam 14 tested 13: 1/5 | 0/5 | 1/5 | 0/0 | 0/5  expect none-better  
+s20-29 H9         mean_acc fam 14 tested 13: 1/6 | 0/4 | 1/6 | 0/0 | 0/4  expect none-better  REPLICATES
+s00-09 H5-ES      fcm_obj  fam 14 tested 14: 0/9 | 0/9 | 0/9 | 0/0 | 0/9  expect a  
+s10-19 H5-ES      fcm_obj  fam 14 tested 14: 0/11 | 0/11 | 0/11 | 0/0 | 0/11  expect a  
+s20-29 H5-ES      fcm_obj  fam 14 tested 14: 0/9 | 0/9 | 0/9 | 0/0 | 0/9  expect a  
+s00-09 H5-ES      mean_acc fam 14 tested 13: 7/0 | 7/0 | 7/0 | 0/0 | 7/0  expect a  
+s10-19 H5-ES      mean_acc fam 14 tested 13: 4/0 | 3/0 | 4/0 | 0/0 | 3/0  expect a  
+s20-29 H5-ES      mean_acc fam 14 tested 14: 9/0 | 4/0 | 9/0 | 0/0 | 4/0  expect a  REPLICATES
+s00-09 S-L50      fcm_obj  fam 12 tested 12: 1/9 | 0/9 | 1/9 | 0/0 | 0/9  expect a  
+s10-19 S-L50      fcm_obj  fam 12 tested 12: 0/10 | 0/10 | 0/10 | 0/0 | 0/10  expect a  
+s20-29 S-L50      fcm_obj  fam 12 tested 12: 0/11 | 0/10 | 0/11 | 0/0 | 0/10  expect a  
+s00-09 S-L50      mean_acc fam 12 tested 11: 3/1 | 2/1 | 3/1 | 0/0 | 2/1  expect a  
+s10-19 S-L50      mean_acc fam 12 tested 10: 4/2 | 0/1 | 4/2 | 0/0 | 0/1  expect a  
+s20-29 S-L50      mean_acc fam 12 tested 11: 2/1 | 1/1 | 2/1 | 0/0 | 1/1  expect a  REPLICATES
+s00-09 S-PRE-SC1  fcm_obj  fam 14 tested 13: 3/1 | 2/0 | 4/1 | 0/0 | 2/0  expect None  
+s10-19 S-PRE-SC1  fcm_obj  fam 14 tested 13: 5/0 | 3/0 | 5/0 | 0/0 | 3/0  expect None  
+s20-29 S-PRE-SC1  fcm_obj  fam 14 tested 13: 7/1 | 5/0 | 7/1 | 0/0 | 5/0  expect None  
+s00-09 S-PRE-SC1  mean_acc fam 14 tested 11: 0/1 | 0/1 | 0/1 | 0/0 | 0/1  expect None  
+s10-19 S-PRE-SC1  mean_acc fam 14 tested 11: 0/2 | 0/1 | 0/2 | 0/0 | 0/1  expect None  
+s20-29 S-PRE-SC1  mean_acc fam 14 tested 10: 1/1 | 0/1 | 1/1 | 0/0 | 0/1  expect None  
+s00-09 S-PRE-SC5  fcm_obj  fam 14 tested 14: 3/0 | 1/0 | 4/0 | 0/0 | 1/0  expect None  
+s10-19 S-PRE-SC5  fcm_obj  fam 14 tested 14: 4/1 | 1/0 | 5/1 | 0/0 | 1/0  expect None  
+s20-29 S-PRE-SC5  fcm_obj  fam 14 tested 14: 4/0 | 3/0 | 6/0 | 0/0 | 3/0  expect None  
+s00-09 S-PRE-SC5  mean_acc fam 14 tested 11: 0/2 | 0/1 | 0/2 | 0/0 | 0/1  expect None  
+s10-19 S-PRE-SC5  mean_acc fam 14 tested 11: 0/1 | 0/1 | 0/1 | 0/0 | 0/1  expect None  
+s20-29 S-PRE-SC5  mean_acc fam 14 tested 10: 0/1 | 0/1 | 0/1 | 0/0 | 0/1  expect None  
+s00-09 ED-mass    fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-mass    fcm_obj  fam 14 tested 14: 0/11 | 0/11 | 0/11 | 0/0 | 0/11  expect None  
+s20-29 ED-mass    fcm_obj  fam 14 tested 14: 0/11 | 0/11 | 0/11 | 0/0 | 0/11  expect None  
+s00-09 ED-mass    mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-mass    mean_acc fam 14 tested 12: 7/2 | 0/1 | 7/2 | 0/0 | 0/1  expect None  
+s20-29 ED-mass    mean_acc fam 14 tested 13: 5/1 | 2/1 | 5/1 | 0/0 | 2/1  expect None  
+s00-09 ED-none    fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-none    fcm_obj  fam 14 tested 13: 8/0 | 6/0 | 8/0 | 0/0 | 6/0  expect None  
+s20-29 ED-none    fcm_obj  fam 14 tested 13: 9/0 | 8/0 | 9/0 | 0/0 | 8/0  expect None  
+s00-09 ED-none    mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-none    mean_acc fam 14 tested 10: 0/2 | 0/1 | 0/2 | 0/0 | 0/1  expect None  
+s20-29 ED-none    mean_acc fam 14 tested 10: 1/1 | 0/1 | 1/1 | 0/0 | 0/1  expect None  
+# NOTE (design property, known before the fresh run): with n' = 10 the smallest attainable exact two-sided p is 1/512 = 0.00195; the sensitivity Holm over all H1-H8 x configurations (K = 112) needs p <= 0.00045 for its first rejection, so it cannot reject any test with n' <= 10 (its counts are 0/0 by construction). Per-hypothesis Holm (K = 14) needs p <= 0.00357: attainable.
+
+## counts that change between the legacy test and the exact test (unadjusted)
+s00-09 S-PRE-SC1 fcm_obj better: legacy 4 -> exact 3
+s00-09 S-PRE-SC5 fcm_obj better: legacy 4 -> exact 3
+s10-19 S-PRE-SC5 fcm_obj better: legacy 5 -> exact 4
+s20-29 S-PRE-SC5 fcm_obj better: legacy 6 -> exact 4
+
+## E-A substitution interactions at L=5 (positive = gate substitutes for PRE): unadj | Holm
+s00-09 EA-footprint fcm_obj  tested 14: positive 13/negative 0 | 13/0
+s10-19 EA-footprint fcm_obj  tested 14: positive 14/negative 0 | 14/0
+s20-29 EA-footprint fcm_obj  tested 14: positive 14/negative 0 | 14/0
+s00-09 EA-footprint mean_acc tested 14: positive 8/negative 0 | 7/0
+s10-19 EA-footprint mean_acc tested 14: positive 9/negative 1 | 7/0
+s20-29 EA-footprint mean_acc tested 14: positive 11/negative 0 | 9/0
+s00-09 EA-mass      fcm_obj  tested 14: positive 13/negative 0 | 13/0
+s10-19 EA-mass      fcm_obj  tested 14: positive 13/negative 0 | 13/0
+s20-29 EA-mass      fcm_obj  tested 14: positive 14/negative 0 | 14/0
+s00-09 EA-mass      mean_acc tested 14: positive 8/negative 0 | 7/0
+s10-19 EA-mass      mean_acc tested 14: positive 10/negative 1 | 8/0
+s20-29 EA-mass      mean_acc tested 14: positive 10/negative 0 | 7/0
+s00-09 EA-fpmask    fcm_obj  tested 14: positive 12/negative 0 | 11/0
+s10-19 EA-fpmask    fcm_obj  tested 14: positive 13/negative 0 | 11/0
+s20-29 EA-fpmask    fcm_obj  tested 14: positive 14/negative 0 | 14/0
+s00-09 EA-fpmask    mean_acc tested 14: positive 3/negative 2 | 0/1
+s10-19 EA-fpmask    mean_acc tested 14: positive 2/negative 1 | 0/1
+s20-29 EA-fpmask    mean_acc tested 14: positive 2/negative 2 | 1/1
+s00-09 EA-massmask  fcm_obj  tested 13: positive 11/negative 0 | 10/0
+s10-19 EA-massmask  fcm_obj  tested 13: positive 10/negative 0 | 6/0
+s20-29 EA-massmask  fcm_obj  tested 13: positive 10/negative 0 | 9/0
+s00-09 EA-massmask  mean_acc tested 13: positive 1/negative 1 | 0/1
+s10-19 EA-massmask  mean_acc tested 13: positive 0/negative 1 | 0/1
+s20-29 EA-massmask  mean_acc tested 13: positive 0/negative 2 | 0/0
+
+## E-C (exploratory, L=5, seeds 0-19): personalization on vs off; unadj | Holm (test ACC unreliable where a client has <= 5 test points)
+EC-GF       fcm_obj                on better 11/worse 1 | 11/1
+EC-GF       gacc                   on better 0/worse 9 | 0/8
+EC-GF       mean_acc               on better 1/worse 7 | 1/6
+EC-GF       test_fcm_obj           on better 10/worse 3 | 10/3
+EC-GF       test_gacc              on better 0/worse 9 | 0/8  unreliable: ['quantity_skew_extreme', 'wine']
+EC-GF       test_gacc_trmap        on better 0/worse 8 | 0/8  unreliable: ['quantity_skew_extreme', 'wine']
+EC-GF       test_mean_acc_refit    on better 1/worse 5 | 0/3  unreliable: ['quantity_skew_extreme', 'wine']
+EC-GF       test_mean_acc_trmap    on better 1/worse 5 | 1/3  unreliable: ['quantity_skew_extreme', 'wine']
+EC-GF       test_worst_acc_trmap   on better 0/worse 4 | 0/2  unreliable: ['quantity_skew_extreme', 'wine']
+EC-PREMASS  fcm_obj                on better 10/worse 1 | 10/1
+EC-PREMASS  gacc                   on better 0/worse 9 | 0/9
+EC-PREMASS  mean_acc               on better 2/worse 7 | 0/6
+EC-PREMASS  test_fcm_obj           on better 9/worse 3 | 9/3
+EC-PREMASS  test_gacc              on better 0/worse 9 | 0/9  unreliable: ['quantity_skew_extreme', 'wine']
+EC-PREMASS  test_gacc_trmap        on better 0/worse 9 | 0/9  unreliable: ['quantity_skew_extreme', 'wine']
+EC-PREMASS  test_mean_acc_refit    on better 2/worse 6 | 1/6  unreliable: ['quantity_skew_extreme', 'wine']
+EC-PREMASS  test_mean_acc_trmap    on better 2/worse 6 | 0/5  unreliable: ['quantity_skew_extreme', 'wine']
+EC-PREMASS  test_worst_acc_trmap   on better 1/worse 4 | 0/3  unreliable: ['quantity_skew_extreme', 'wine']
+
+## decision analysis on seeds [10]..[29] (20 seeds; mean regret | max regret; * = recommended)
+mean_acc        F-FCM (post_none_off, L=5)   0.1589  | 0.4347   (worst state digits_pca32; substituted 0)
+mean_acc        GF-PFedFCM (L=5)             0.08206  | 0.2301   (worst state digits_pca32; substituted 0)
+mean_acc        ungated PRE (L=1)            0.02387  | 0.09281   (worst state mnist784_pca32 (50c); substituted 0)
+mean_acc        pre_mass_off (L=1)           0.01073* | 0.0805   (worst state quantity_skew_extreme; substituted 0)
+mean_acc        pre_mass_off (L=5)           0.05674  | 0.1386   (worst state digits_pca32; substituted 0)
+mean_acc        SC-FFCM (L=5)                0.01808  | 0.08068   (worst state mnist784_pca32 (50c); substituted 0)
+mean_acc        SC-FFCM (L=1, R=50)          0.01763  | 0.07684*  (worst state mnist784_pca32 (50c); substituted 0)
+worst_acc       F-FCM (post_none_off, L=5)   0.1892  | 0.3461   (worst state cluster_skew_hard; substituted 0)
+worst_acc       GF-PFedFCM (L=5)             0.0953  | 0.3445   (worst state quantity_skew_extreme; substituted 0)
+worst_acc       ungated PRE (L=1)            0.03068  | 0.1718   (worst state quantity_skew_extreme; substituted 0)
+worst_acc       pre_mass_off (L=1)           0.03124  | 0.1893   (worst state quantity_skew_extreme; substituted 0)
+worst_acc       pre_mass_off (L=5)           0.07177  | 0.2721   (worst state quantity_skew_extreme; substituted 0)
+worst_acc       SC-FFCM (L=5)                0.01525  | 0.0602   (worst state mnist784_pca32 (20c); substituted 0)
+worst_acc       SC-FFCM (L=1, R=50)          0.01405* | 0.0517*  (worst state mnist784_pca32 (20c); substituted 0)
+gacc            F-FCM (post_none_off, L=5)   0.1798  | 0.3912   (worst state digits_pca32; substituted 0)
+gacc            GF-PFedFCM (L=5)             0.1037  | 0.2379   (worst state digits_pca32; substituted 0)
+gacc            ungated PRE (L=1)            0.02338  | 0.1215   (worst state quantity_skew_extreme; substituted 0)
+gacc            pre_mass_off (L=1)           0.01901  | 0.1315   (worst state quantity_skew_extreme; substituted 0)
+gacc            pre_mass_off (L=5)           0.07957  | 0.1857   (worst state quantity_skew_extreme; substituted 0)
+gacc            SC-FFCM (L=5)                0.01468* | 0.05159*  (worst state mnist784_pca32 (50c); substituted 0)
+gacc            SC-FFCM (L=1, R=50)          0.01523  | 0.0563   (worst state mnist784_pca32 (50c); substituted 0)
+fcm_obj         F-FCM (post_none_off, L=5)   1.673  | 7.472   (worst state dirichlet_0.03; substituted 0)
+fcm_obj         GF-PFedFCM (L=5)             0.1832  | 1.216   (worst state quantity_skew_extreme; substituted 0)
+fcm_obj         ungated PRE (L=1)            0.0442  | 0.4435   (worst state quantity_skew_extreme; substituted 0)
+fcm_obj         pre_mass_off (L=1)           0.07491  | 0.6351   (worst state quantity_skew_extreme; substituted 0)
+fcm_obj         pre_mass_off (L=5)           0.317  | 1.269   (worst state quantity_skew_extreme; substituted 0)
+fcm_obj         SC-FFCM (L=5)                0.01314* | 0.05909*  (worst state wine; substituted 0)
+fcm_obj         SC-FFCM (L=1, R=50)          0.01444  | 0.05932   (worst state wine; substituted 0)
+upload_numbers  F-FCM (post_none_off, L=5)   0.3817  | 1.309   (worst state overlap_noise; substituted 0)
+upload_numbers  GF-PFedFCM (L=5)             0.02981* | 0.4174*  (worst state cluster_skew_hard; substituted 0)
+upload_numbers  ungated PRE (L=1)            0.3817  | 1.309   (worst state overlap_noise; substituted 0)
+upload_numbers  pre_mass_off (L=1)           0.3817  | 1.309   (worst state overlap_noise; substituted 0)
+upload_numbers  pre_mass_off (L=5)           0.3817  | 1.309   (worst state overlap_noise; substituted 0)
+upload_numbers  SC-FFCM (L=5)                0.8547  | 1.906   (worst state wine; substituted 0)
+upload_numbers  SC-FFCM (L=1, R=50)          0.8046  | 1.906   (worst state wine; substituted 0)

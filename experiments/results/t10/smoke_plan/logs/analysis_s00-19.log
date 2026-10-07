@@ -1,0 +1,114 @@
+# T10 analysis (t10 source), blocks ['s00-09', 's10-19']; written 2026-09-24 10:37:36 EDT
+# exact two-sided Wilcoxon signed-rank (zeros |d|<=1e-12 dropped, mid-ranks), level 0.05; Holm per hypothesis over its configuration family; legacy = scipy.stats.wilcoxon default (the earlier blocks' test)
+# missing T10 CSVs (arms absent): ['FRESH_cells16_L5_s20-29', 'FRESH_cells16_L1_s20-29', 'FRESH_gf_L1_noES_s20-29', 'FRESH_ed_cells_L1_R250_s20-29', 'FRESH_scffcm_cal_L1_s20-29', 'FRESH_scffcm_cal_L5_s20-29', 'FRESH_scffcm_cal_L50_s20-29', 'FRESH_ed_scffcm_L1_R250_s20-29']
+
+## §1 hypotheses: better/worse counts (a vs b; 'better' = a better). unadj | Holm | legacy | Holm over all H1-H8 (sensitivity) | Holm with diverged runs as losses
+s00-09 H1         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H1         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H1         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H1         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H2         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H2         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H2         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H2         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H3         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H3         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H3         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H3         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H4         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H4         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H4         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H4         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H5         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H5         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H5         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H5         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H6         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H6         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H6         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H6         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H7         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H7         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H7         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H7         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H8         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect b  
+s10-19 H8         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect b  
+s00-09 H8         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect b  
+s10-19 H8         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect b  
+s00-09 H9         fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect none-better  
+s10-19 H9         fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect none-better  
+s00-09 H9         mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect none-better  
+s10-19 H9         mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect none-better  
+s00-09 H5-noES    fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H5-noES    fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 H5-noES    mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 H5-noES    mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 S-L50      fcm_obj  fam 12 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 S-L50      fcm_obj  fam 12 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 S-L50      mean_acc fam 12 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s10-19 S-L50      mean_acc fam 12 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect a  
+s00-09 S-PRE-SC1  fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 S-PRE-SC1  fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 S-PRE-SC1  mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 S-PRE-SC1  mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 S-PRE-SC5  fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 S-PRE-SC5  fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 S-PRE-SC5  mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 S-PRE-SC5  mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 ED-mass    fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-mass    fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 ED-mass    mean_acc fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-mass    mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 ED-none    fcm_obj  fam 14 tested  1: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-none    fcm_obj  fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s00-09 ED-none    mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+s10-19 ED-none    mean_acc fam 14 tested  0: 0/0 | 0/0 | 0/0 | 0/0 | 0/0  expect None  
+# NOTE (design property, known before the fresh run): with n' = 10 the smallest attainable exact two-sided p is 1/512 = 0.00195; the sensitivity Holm over all H1-H8 x configurations (K = 112) needs p <= 0.00045 for its first rejection, so it cannot reject any test with n' <= 10 (its counts are 0/0 by construction). Per-hypothesis Holm (K = 14) needs p <= 0.00357: attainable.
+
+## counts that change between the legacy test and the exact test (unadjusted)
+(none)
+
+## E-A substitution interactions at L=5 (positive = gate substitutes for PRE): unadj | Holm
+s00-09 EA-footprint fcm_obj  tested  1: positive 0/negative 0 | 0/0
+s10-19 EA-footprint fcm_obj  tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-footprint mean_acc tested  1: positive 0/negative 0 | 0/0
+s10-19 EA-footprint mean_acc tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-mass      fcm_obj  tested  1: positive 0/negative 0 | 0/0
+s10-19 EA-mass      fcm_obj  tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-mass      mean_acc tested  1: positive 0/negative 0 | 0/0
+s10-19 EA-mass      mean_acc tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-fpmask    fcm_obj  tested  1: positive 0/negative 0 | 0/0
+s10-19 EA-fpmask    fcm_obj  tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-fpmask    mean_acc tested  1: positive 0/negative 0 | 0/0
+s10-19 EA-fpmask    mean_acc tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-massmask  fcm_obj  tested  0: positive 0/negative 0 | 0/0
+s10-19 EA-massmask  fcm_obj  tested  0: positive 0/negative 0 | 0/0
+s00-09 EA-massmask  mean_acc tested  0: positive 0/negative 0 | 0/0
+s10-19 EA-massmask  mean_acc tested  0: positive 0/negative 0 | 0/0
+
+## E-C (exploratory, L=5, seeds 0-19): personalization on vs off; unadj | Holm (test ACC unreliable where a client has <= 5 test points)
+EC-GF       fcm_obj                on better 0/worse 0 | 0/0
+EC-GF       gacc                   on better 0/worse 0 | 0/0
+EC-GF       mean_acc               on better 0/worse 0 | 0/0
+EC-GF       test_fcm_obj           on better 0/worse 0 | 0/0
+EC-GF       test_gacc              on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-GF       test_gacc_trmap        on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-GF       test_mean_acc_refit    on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-GF       test_mean_acc_trmap    on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-GF       test_worst_acc_trmap   on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-PREMASS  fcm_obj                on better 0/worse 0 | 0/0
+EC-PREMASS  gacc                   on better 0/worse 0 | 0/0
+EC-PREMASS  mean_acc               on better 0/worse 0 | 0/0
+EC-PREMASS  test_fcm_obj           on better 0/worse 0 | 0/0
+EC-PREMASS  test_gacc              on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-PREMASS  test_gacc_trmap        on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-PREMASS  test_mean_acc_refit    on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-PREMASS  test_mean_acc_trmap    on better 0/worse 0 | 0/0  unreliable: ['wine']
+EC-PREMASS  test_worst_acc_trmap   on better 0/worse 0 | 0/0  unreliable: ['wine']
+
+## decision analysis on seeds [10]..[19] (10 seeds; mean regret | max regret; * = recommended)
+mean_acc: no data
+worst_acc: no data
+gacc: no data
+fcm_obj: no data
+upload_numbers: no data

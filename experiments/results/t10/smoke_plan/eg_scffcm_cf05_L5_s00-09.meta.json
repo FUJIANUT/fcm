@@ -1,0 +1,82 @@
+{
+ "argv": [
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/scripts/T10_review.py",
+  "scffcm",
+  "--L",
+  "5",
+  "--steps-csv",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/results/t9b_scffcm_calibration.csv",
+  "--cfraction",
+  "0.5",
+  "--seed-start",
+  "0",
+  "--seeds",
+  "10",
+  "--tag",
+  "eg_scffcm_cf05_L5_s00-09",
+  "--workers",
+  "12",
+  "--outdir",
+  "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke_plan",
+  "--datasets",
+  "wine",
+  "--seed-start",
+  "0",
+  "--seeds",
+  "1"
+ ],
+ "args": {
+  "cmd": "scffcm",
+  "tag": "eg_scffcm_cf05_L5_s00-09",
+  "outdir": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke_plan",
+  "force": false,
+  "datasets": "wine",
+  "workers": 12,
+  "seed_start": 0,
+  "seeds": 1,
+  "allow_fresh": false,
+  "L": 5,
+  "rounds": 50,
+  "steps_csv": "/Users/chunmaojiang/Dropbox/\u9879\u76ee\u7533\u8bf7-\u5f00\u4f1a-\u51fa\u56fd-z\u7814\u7a76\u751f-\u8bc4\u5ba1\u8bba\u6587\u548c\u9879\u76ee/\u9879\u76ee\u7533\u8bf72026/ffcm-fuzzysetandsystem/experiments/results/t9b_scffcm_calibration.csv",
+  "eta_l": null,
+  "eta_g": null,
+  "cfraction": 0.5
+ },
+ "env": {
+  "FFCM_MSTAR": "1",
+  "FFCM_L": "5",
+  "FFCM_ROUNDS": "50",
+  "FFCM_SEED_START": "0"
+ },
+ "host": "macbookmaxa-8.local",
+ "python": "3.12.10",
+ "numpy": "2.4.6",
+ "cpu_count": 16,
+ "code_sha256": {
+  "scripts/T10_review.py": "55bc40ec8020b30fed02dd10202b30efc6c10f6f444f5a6c2bb8f036f503c551",
+  "scripts/T3_design_space.py": "8f80c95f02e3054b0e02b698df78dd1b4ef3e11934a12fc0d31c8821486fa0b6",
+  "fedfcmsim/__init__.py": "1c408ddb8baef70b44782a49ba42487b7ed102a2e10e0ee817f3bc76c706c955",
+  "fedfcmsim/datasets.py": "10faba90c89c6caa20ca8f2c16b96683ab0adb3381c0af3e4e03b04425b5d984",
+  "fedfcmsim/evaluation.py": "8443e7fd3b98ecee6d01fbfc5c37c690bd6595e7b68ee285aa8c8eb37e22a725",
+  "fedfcmsim/fcm.py": "97cc9719f53500df509bd7160a501428a63d7a75fd9c9cbe758071bf2b95fc95",
+  "fedfcmsim/federated.py": "36d2392aa283855d9ec9fd536fb3c3f1d83b9ea0de3f6decb57fa82374afd079",
+  "fedfcmsim/io.py": "c1808255b7616e181e5a6ffb51d22a23f16ada9552906edbaabfeaf2290f96af",
+  "fedfcmsim/metrics.py": "c55f04b603fd13292aa188803cf3d050830a1ca69e53f6f25862bc718f2a20f3",
+  "fedfcmsim/plotting.py": "e1327507738e93e16a14e96264adf9c432e525e8b6f6701b702c519e0efa63a2",
+  "fedfcmsim/runner.py": "678defdbb460227b67709d405a37e663d7cfa6e4a9235ff2347151992ed16e1c",
+  "fedfcmsim/statistics.py": "0f7bf42a71e5eaad06552ce59f404eddd27ef565d21824ae84f1f32644009d38",
+  "fedfcmsim/synthetic.py": "8917c0661eed5f4b75f4267f69f789ca083aaf14445f41b0da6810c448216776"
+ },
+ "finished": "2026-09-24 10:37:36 EDT",
+ "wall_s": 1.6302320957183838,
+ "n_rows": 1,
+ "steps": {
+  "wine": [
+   0.1,
+   2.0
+  ]
+ },
+ "seeds": [
+  0
+ ]
+}

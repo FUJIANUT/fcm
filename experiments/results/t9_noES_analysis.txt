@@ -1,0 +1,25 @@
+R3. PERSONALIZATION without the early-stopping confound (L=5, m*)
+
+(a) did early stopping change the personalized cells? (no-early-stop rerun minus original early-stopped run)
+--- post_footprint_on: noES - original, seeds 0-9: better 0, worse 0
+     cluster_sk:+0.000  cluster_sk:+0.000  dirichlet_:+0.000  dirichlet_:+0.000  overlap_no:+0.000  quantity_s:+0.000  wine:+0.000  satimage:+0.000  pendigits:+0.000  digits_pca:+0.000  digits_pca:+0.000  letter:+0.000  mnist784_p:+0.000  mnist784_p:+0.000
+--- pre_footprint_on: noES - original, seeds 0-9: better 0, worse 0
+     cluster_sk:+0.000  cluster_sk:+0.000  dirichlet_:+0.000  dirichlet_:+0.000  overlap_no:+0.000  quantity_s:+0.000  wine:+0.000  satimage:+0.000  pendigits:+0.000  digits_pca:+0.000  digits_pca:+0.000  letter:+0.000  mnist784_p:+0.000  mnist784_p:+0.000
+--- pre_mass_on: noES - original, seeds 0-9: better 0, worse 0
+     cluster_sk:+0.000  cluster_sk:+0.000  dirichlet_:+0.000  dirichlet_:+0.000  overlap_no:+0.000  quantity_s:+0.000  wine:+0.000  satimage:+0.000  pendigits:+0.000  digits_pca:+0.000  digits_pca:+0.000  letter:+0.000  mnist784_p:+0.000  mnist784_p:+0.000
+
+(b) personalization effect with EQUAL round budgets: cell_on (no early stop) - cell_off
+--- post_footprint_on vs post_footprint_off, seeds 0-9: better 0, worse 6
+     cluster_sk:+0.000  cluster_sk:-0.053*  dirichlet_:-0.016  dirichlet_:-0.000  overlap_no:-0.004  quantity_s:+0.013  wine:-0.037*  satimage:-0.007*  pendigits:-0.007*  digits_pca:-0.022  digits_pca:-0.047*  letter:-0.012*  mnist784_p:+0.011  mnist784_p:-0.006
+--- post_footprint_on vs post_footprint_off, seeds 10-19 (held-out): better 1, worse 5
+     cluster_sk:+0.000  cluster_sk:-0.051*  dirichlet_:-0.001  dirichlet_:+0.023  overlap_no:-0.011*  quantity_s:+0.010*  wine:-0.036*  satimage:-0.005  pendigits:-0.009  digits_pca:-0.025  digits_pca:-0.052*  letter:-0.018*  mnist784_p:+0.005  mnist784_p:-0.009
+--- pre_footprint_on vs pre_footprint_off, seeds 0-9: better 0, worse 4
+     cluster_sk:-0.031  cluster_sk:-0.021*  dirichlet_:-0.037  dirichlet_:-0.008  overlap_no:-0.010  quantity_s:+0.012  wine:-0.032*  satimage:+0.006  pendigits:-0.004  digits_pca:-0.029*  digits_pca:-0.076*  letter:-0.008  mnist784_p:-0.010  mnist784_p:-0.016
+--- pre_footprint_on vs pre_footprint_off, seeds 10-19 (held-out): better 0, worse 5
+     cluster_sk:+0.002  cluster_sk:-0.029*  dirichlet_:+0.015  dirichlet_:-0.003  overlap_no:-0.025*  quantity_s:+0.012  wine:-0.035*  satimage:+0.002  pendigits:-0.003  digits_pca:-0.043*  digits_pca:-0.038*  letter:-0.006  mnist784_p:-0.008  mnist784_p:-0.004
+--- pre_mass_on vs pre_mass_off, seeds 0-9: better 0, worse 5
+     cluster_sk:+0.007  cluster_sk:-0.038*  dirichlet_:-0.015  dirichlet_:+0.005  overlap_no:-0.025  quantity_s:+0.020  wine:-0.060*  satimage:+0.015  pendigits:-0.014  digits_pca:-0.036*  digits_pca:-0.071*  letter:-0.011*  mnist784_p:+0.011  mnist784_p:+0.005
+--- pre_mass_on vs pre_mass_off, seeds 10-19 (held-out): better 0, worse 5
+     cluster_sk:+0.011  cluster_sk:-0.031*  dirichlet_:+0.001  dirichlet_:-0.022  overlap_no:-0.027*  quantity_s:-0.001  wine:-0.069*  satimage:+0.005  pendigits:+0.005  digits_pca:-0.058*  digits_pca:-0.066*  letter:-0.011  mnist784_p:+0.012  mnist784_p:-0.014
+--- post_mass_on vs post_mass_off, seeds 0-9: better 0, worse 6
+     cluster_sk:+0.000  cluster_sk:-0.050*  dirichlet_:+0.019  dirichlet_:-0.020  overlap_no:+0.012  quantity_s:+0.014  wine:-0.064*  satimage:-0.009*  pendigits:-0.022*  digits_pca:-0.022  digits_pca:-0.038*  letter:-0.014*  mnist784_p:+0.008  mnist784_p:+0.015

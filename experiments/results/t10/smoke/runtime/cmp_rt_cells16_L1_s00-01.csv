@@ -1,0 +1,505 @@
+source,key,field,prior,new,match
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|post_none_off,min_dist,2.855588798222804e-15,2.855588798222804e-15,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|post_none_off,mean_acc,0.9621212121212123,0.9621212121212123,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|post_none_off,worst_acc,0.8227272727272728,0.8227272727272728,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_none_off,min_dist,7.458306980314295,7.458306980314295,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_footprint_off,min_dist,7.467740186030947,7.467740186030947,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_mass_off,min_dist,7.467750522808693,7.467750522808693,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|0|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|post_none_off,min_dist,3.612826433062262e-11,3.612826433062262e-11,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|post_none_off,mean_acc,0.9102272727272727,0.9102272727272727,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|post_none_off,worst_acc,0.6272727272727273,0.6272727272727273,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_none_off,min_dist,7.481996853622343,7.481996853622343,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_footprint_off,min_dist,7.471490770227053,7.471490770227053,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_mass_off,min_dist,7.47109875326195,7.47109875326195,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_hard|1|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|post_none_off,min_dist,0.0028661782421881507,0.0028661782421881507,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|post_none_off,mean_acc,0.7924242424242425,0.7924242424242425,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|post_none_off,worst_acc,0.6181818181818182,0.6181818181818182,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_none_off,min_dist,3.7656851245410863,3.7656851245410863,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_none_off,mean_acc,0.8636363636363634,0.8636363636363634,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_none_off,worst_acc,0.8090909090909091,0.8090909090909091,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_footprint_off,min_dist,4.228236571600884,4.228236571600884,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_footprint_off,mean_acc,0.8636363636363638,0.8636363636363638,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_footprint_off,worst_acc,0.8045454545454546,0.8045454545454546,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_mass_off,min_dist,4.228784587640808,4.228784587640808,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_mass_off,mean_acc,0.8640151515151516,0.8640151515151516,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|0|pre_mass_off,worst_acc,0.8045454545454546,0.8045454545454546,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|post_none_off,min_dist,0.0013115035805867676,0.0013115035805867676,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|post_none_off,mean_acc,0.7799242424242424,0.7799242424242424,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|post_none_off,worst_acc,0.6727272727272727,0.6727272727272727,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_none_off,min_dist,3.844777579119012,3.844777579119012,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_none_off,mean_acc,0.8681818181818183,0.8681818181818183,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_none_off,worst_acc,0.8227272727272728,0.8227272727272728,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_footprint_off,min_dist,4.23679921706091,4.23679921706091,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_footprint_off,mean_acc,0.8670454545454546,0.8670454545454546,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_footprint_off,worst_acc,0.8181818181818182,0.8181818181818182,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_mass_off,min_dist,4.239719022504591,4.239719022504591,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_mass_off,mean_acc,0.8674242424242423,0.8674242424242423,1
+t3_design_space/per_seed_metrics__L1all.csv,cluster_skew_overlap|1|pre_mass_off,worst_acc,0.8181818181818182,0.8181818181818182,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|post_none_off,min_dist,6.748411568339144e-13,6.748411568339144e-13,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|post_none_off,mean_acc,0.9196969696969698,0.9196969696969698,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|post_none_off,worst_acc,0.7045454545454546,0.7045454545454546,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_none_off,min_dist,7.506963581758723,7.506963581758723,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_footprint_off,min_dist,7.521417337388256,7.521417337388256,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_mass_off,min_dist,7.521417334993094,7.521417334993094,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|0|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|post_none_off,min_dist,3.703287902199923e-05,3.703287902199923e-05,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|post_none_off,mean_acc,0.8401515151515152,0.8401515151515152,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|post_none_off,worst_acc,0.4,0.4,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_none_off,min_dist,7.523152016668885,7.523152016668885,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_footprint_off,min_dist,7.536612742187438,7.536612742187438,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_mass_off,min_dist,7.536586430420765,7.536586430420765,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.03|1|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|post_none_off,min_dist,1.837149343441184,1.837149343441184,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|post_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|post_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_none_off,min_dist,7.475030566934451,7.475030566934451,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_footprint_off,min_dist,7.483384613205219,7.483384613205219,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_mass_off,min_dist,7.483416113135058,7.483416113135058,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|0|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|post_none_off,min_dist,4.485591530698894,4.485591530698894,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|post_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|post_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_none_off,min_dist,7.554949354735508,7.554949354735508,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_footprint_off,min_dist,7.561834279199299,7.561834279199299,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_mass_off,min_dist,7.562042272840777,7.562042272840777,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,dirichlet_0.1|1|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|post_none_off,min_dist,4.400671285476199,4.400671285476199,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|post_none_off,mean_acc,0.8931818181818182,0.8931818181818182,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|post_none_off,worst_acc,0.8636363636363636,0.8636363636363636,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_none_off,min_dist,4.6600307823624485,4.6600307823624485,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_none_off,mean_acc,0.8981060606060606,0.8981060606060606,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_none_off,worst_acc,0.8636363636363636,0.8636363636363636,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_footprint_off,min_dist,4.876569125858231,4.876569125858231,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_footprint_off,mean_acc,0.9003787878787879,0.9003787878787879,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_footprint_off,worst_acc,0.8590909090909091,0.8590909090909091,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_mass_off,min_dist,4.87054546393046,4.87054546393046,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_mass_off,mean_acc,0.9003787878787879,0.9003787878787879,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|0|pre_mass_off,worst_acc,0.8590909090909091,0.8590909090909091,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|post_none_off,min_dist,4.6873920954521555,4.6873920954521555,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|post_none_off,mean_acc,0.9079545454545453,0.9079545454545453,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|post_none_off,worst_acc,0.8863636363636364,0.8863636363636364,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_none_off,min_dist,4.82999521845886,4.82999521845886,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_none_off,mean_acc,0.9083333333333332,0.9083333333333332,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_none_off,worst_acc,0.8909090909090909,0.8909090909090909,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_footprint_off,min_dist,4.913868868043701,4.913868868043701,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_footprint_off,mean_acc,0.9090909090909091,0.9090909090909091,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_footprint_off,worst_acc,0.8863636363636364,0.8863636363636364,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_mass_off,min_dist,4.911613324868942,4.911613324868942,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_mass_off,mean_acc,0.9090909090909091,0.9090909090909091,1
+t3_design_space/per_seed_metrics__L1all.csv,overlap_noise|1|pre_mass_off,worst_acc,0.8863636363636364,0.8863636363636364,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|post_none_off,min_dist,7.352942478873353,7.352942478873353,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|post_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|post_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_none_off,min_dist,7.380590509857312,7.380590509857312,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_footprint_off,min_dist,7.487504199299445,7.487504199299445,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_mass_off,min_dist,7.488375489563211,7.488375489563211,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|0|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|post_none_off,min_dist,1.1696907573844824,1.1696907573844824,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|post_none_off,mean_acc,0.7886547042364159,0.7886547042364159,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|post_none_off,worst_acc,0.5409836065573771,0.5409836065573771,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_none_off,min_dist,7.4316795953750034,7.4316795953750034,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_none_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_none_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_footprint_off,min_dist,7.441006979151364,7.441006979151364,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_mass_off,min_dist,7.441127637798086,7.441127637798086,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_mass_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,quantity_skew_extreme|1|pre_mass_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|post_none_off,min_dist,1.6494297335862296,1.6494297335862296,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|post_none_off,mean_acc,0.8967251461988305,0.8967251461988305,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|post_none_off,worst_acc,0.7777777777777778,0.7777777777777778,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_none_off,min_dist,2.9245547314666283,2.9245547314666283,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_none_off,mean_acc,0.9622514619883041,0.9622514619883041,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_none_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_footprint_off,min_dist,3.3521655845031266,3.3521655845031266,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_footprint_off,mean_acc,0.9678070175438597,0.9678070175438597,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_footprint_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_mass_off,min_dist,3.3437355386561443,3.3437355386561443,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_mass_off,mean_acc,0.9678070175438597,0.9678070175438597,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|0|pre_mass_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|post_none_off,min_dist,2.047037586727342,2.047037586727342,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|post_none_off,mean_acc,0.907514619883041,0.907514619883041,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|post_none_off,worst_acc,0.7777777777777778,0.7777777777777778,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_none_off,min_dist,2.9284093602154027,2.9284093602154027,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_none_off,mean_acc,0.9622222222222223,0.9622222222222223,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_none_off,worst_acc,0.8333333333333334,0.8333333333333334,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_footprint_off,min_dist,3.5206306036486077,3.5206306036486077,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_footprint_off,mean_acc,0.9672222222222222,0.9672222222222222,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_footprint_off,worst_acc,0.8333333333333334,0.8333333333333334,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_mass_off,min_dist,3.422678343417232,3.422678343417232,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_mass_off,mean_acc,0.9672222222222222,0.9672222222222222,1
+t3_design_space/per_seed_metrics__L1all.csv,wine|1|pre_mass_off,worst_acc,0.8333333333333334,0.8333333333333334,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|post_none_off,min_dist,3.5005628379838036,3.5005628379838036,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|post_none_off,mean_acc,0.732390421442236,0.732390421442236,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|post_none_off,worst_acc,0.6037735849056604,0.6037735849056604,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_none_off,min_dist,3.7639251069874518,3.7639251069874518,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_none_off,mean_acc,0.7130310644342901,0.7130310644342901,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_none_off,worst_acc,0.55826859045505,0.55826859045505,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_footprint_off,min_dist,3.266126993940576,3.266126993940576,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_footprint_off,mean_acc,0.6854757629168218,0.6854757629168218,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_footprint_off,worst_acc,0.49356913183279744,0.49356913183279744,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_mass_off,min_dist,3.3576252209679676,3.3576252209679676,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_mass_off,mean_acc,0.688516479220281,0.688516479220281,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|0|pre_mass_off,worst_acc,0.5032154340836013,0.5032154340836013,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|post_none_off,min_dist,3.5245789653481165,3.5245789653481165,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|post_none_off,mean_acc,0.7321266527439109,0.7321266527439109,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|post_none_off,worst_acc,0.609322974472808,0.609322974472808,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_none_off,min_dist,3.7134172171294053,3.7134172171294053,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_none_off,mean_acc,0.7124672892549477,0.7124672892549477,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_none_off,worst_acc,0.5660377358490566,0.5660377358490566,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_footprint_off,min_dist,3.2458104032063657,3.2458104032063657,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_footprint_off,mean_acc,0.6841797513867875,0.6841797513867875,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_footprint_off,worst_acc,0.5016077170418006,0.5016077170418006,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_mass_off,min_dist,3.317713140937901,3.317713140937901,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_mass_off,mean_acc,0.6879006423565173,0.6879006423565173,1
+t3_design_space/per_seed_metrics__L1all.csv,satimage|1|pre_mass_off,worst_acc,0.5080385852090032,0.5080385852090032,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|post_none_off,min_dist,1.0807326889713147,1.0807326889713147,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|post_none_off,mean_acc,0.6283502111207496,0.6283502111207496,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|post_none_off,worst_acc,0.5313653136531366,0.5313653136531366,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_none_off,min_dist,1.9010102607281691,1.9010102607281691,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_none_off,mean_acc,0.7374586285153389,0.7374586285153389,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_none_off,worst_acc,0.5525830258302583,0.5525830258302583,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_footprint_off,min_dist,2.341674801274603,2.341674801274603,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_footprint_off,mean_acc,0.7406860318792028,0.7406860318792028,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_footprint_off,worst_acc,0.533210332103321,0.533210332103321,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_mass_off,min_dist,2.323296392613125,2.323296392613125,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_mass_off,mean_acc,0.7414358875257463,0.7414358875257463,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|0|pre_mass_off,worst_acc,0.5387453874538746,0.5387453874538746,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|post_none_off,min_dist,1.0415788977308753,1.0415788977308753,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|post_none_off,mean_acc,0.6239955909329787,0.6239955909329787,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|post_none_off,worst_acc,0.5553505535055351,0.5553505535055351,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_none_off,min_dist,1.9007001943124744,1.9007001943124744,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_none_off,mean_acc,0.7373722024324791,0.7373722024324791,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_none_off,worst_acc,0.5571955719557196,0.5571955719557196,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_footprint_off,min_dist,2.3719160941269837,2.3719160941269837,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_footprint_off,mean_acc,0.7078679562748583,0.7078679562748583,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_footprint_off,worst_acc,0.5857933579335793,0.5857933579335793,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_mass_off,min_dist,2.357954101025746,2.357954101025746,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_mass_off,mean_acc,0.7097009203473004,0.7097009203473004,1
+t3_design_space/per_seed_metrics__L1all.csv,pendigits|1|pre_mass_off,worst_acc,0.5821033210332104,0.5821033210332104,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|post_none_off,min_dist,0.0022199971524619897,0.0022199971524619897,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|post_none_off,mean_acc,0.6399221016403012,0.6399221016403012,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|post_none_off,worst_acc,0.38333333333333336,0.38333333333333336,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_none_off,min_dist,1.9355322660438747,1.9355322660438747,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_none_off,mean_acc,0.8088163946286157,0.8088163946286157,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_none_off,worst_acc,0.6055555555555555,0.6055555555555555,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_footprint_off,min_dist,2.499674640970997,2.499674640970997,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_footprint_off,mean_acc,0.8068218413888125,0.8068218413888125,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_footprint_off,worst_acc,0.46111111111111114,0.46111111111111114,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_mass_off,min_dist,2.461282680705412,2.461282680705412,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_mass_off,mean_acc,0.7985319343346917,0.7985319343346917,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|0|pre_mass_off,worst_acc,0.4222222222222222,0.4222222222222222,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|post_none_off,min_dist,0.0077688567314201,0.0077688567314201,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|post_none_off,mean_acc,0.6852767948020725,0.6852767948020725,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|post_none_off,worst_acc,0.519774011299435,0.519774011299435,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_none_off,min_dist,1.326518966156544,1.326518966156544,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_none_off,mean_acc,0.8020777526165725,0.8020777526165725,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_none_off,worst_acc,0.6777777777777778,0.6777777777777778,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_footprint_off,min_dist,2.851022743068289,2.851022743068289,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_footprint_off,mean_acc,0.7415401909768059,0.7415401909768059,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_footprint_off,worst_acc,0.5666666666666667,0.5666666666666667,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_mass_off,min_dist,2.5433662996401774,2.5433662996401774,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_mass_off,mean_acc,0.7998341354453943,0.7998341354453943,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca16|1|pre_mass_off,worst_acc,0.6222222222222222,0.6222222222222222,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|post_none_off,min_dist,2.3929815683606512,2.3929815683606512,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|post_none_off,mean_acc,0.5625349019873541,0.5625349019873541,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|post_none_off,worst_acc,0.3333333333333333,0.3333333333333333,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_none_off,min_dist,2.395622664625869,2.395622664625869,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_none_off,mean_acc,0.718361606129834,0.718361606129834,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_none_off,worst_acc,0.5511363636363636,0.5511363636363636,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_footprint_off,min_dist,2.951175301857566,2.951175301857566,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_footprint_off,mean_acc,0.8707041119979714,0.8707041119979714,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_footprint_off,worst_acc,0.7277777777777777,0.7277777777777777,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_mass_off,min_dist,2.963164041658985,2.963164041658985,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_mass_off,mean_acc,0.8053416564999176,0.8053416564999176,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|0|pre_mass_off,worst_acc,0.4971751412429379,0.4971751412429379,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|post_none_off,min_dist,2.265408952875307,2.265408952875307,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|post_none_off,mean_acc,0.5379337453551425,0.5379337453551425,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|post_none_off,worst_acc,0.4166666666666667,0.4166666666666667,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_none_off,min_dist,2.4171020824997425,2.4171020824997425,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_none_off,mean_acc,0.7276608301491184,0.7276608301491184,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_none_off,worst_acc,0.43333333333333335,0.43333333333333335,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_footprint_off,min_dist,3.041993110118001,3.041993110118001,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_footprint_off,mean_acc,0.8340511616301842,0.8340511616301842,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_footprint_off,worst_acc,0.4971751412429379,0.4971751412429379,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_mass_off,min_dist,2.9819915061578333,2.9819915061578333,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_mass_off,mean_acc,0.8106571023672469,0.8106571023672469,1
+t3_design_space/per_seed_metrics__L1all.csv,digits_pca32|1|pre_mass_off,worst_acc,0.519774011299435,0.519774011299435,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|post_none_off,min_dist,0.5191003062004534,0.5191003062004534,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|post_none_off,mean_acc,0.27987095561986414,0.27987095561986414,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|post_none_off,worst_acc,0.17779126213592233,0.17779126213592233,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_none_off,min_dist,0.6438551673984384,0.6438551673984384,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_none_off,mean_acc,0.3080769184159512,0.3080769184159512,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_none_off,worst_acc,0.1783980582524272,0.1783980582524272,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_footprint_off,min_dist,1.8507030265185318,1.8507030265185318,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_footprint_off,mean_acc,0.2985176237338421,0.2985176237338421,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_footprint_off,worst_acc,0.2154126213592233,0.2154126213592233,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_mass_off,min_dist,1.5863374181687622,1.5863374181687622,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_mass_off,mean_acc,0.3073714823469106,0.3073714823469106,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|0|pre_mass_off,worst_acc,0.2178398058252427,0.2178398058252427,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|post_none_off,min_dist,1.0170505820365783,1.0170505820365783,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|post_none_off,mean_acc,0.2744776928818029,0.2744776928818029,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|post_none_off,worst_acc,0.1875,0.1875,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_none_off,min_dist,0.6447494377138824,0.6447494377138824,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_none_off,mean_acc,0.3129481689973944,0.3129481689973944,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_none_off,worst_acc,0.2341343191620456,0.2341343191620456,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_footprint_off,min_dist,1.8350443506963228,1.8350443506963228,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_footprint_off,mean_acc,0.3468552562750397,0.3468552562750397,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_footprint_off,worst_acc,0.22572815533980584,0.22572815533980584,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_mass_off,min_dist,1.643593581885354,1.643593581885354,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_mass_off,mean_acc,0.3446929868656775,0.3446929868656775,1
+t3_design_space/per_seed_metrics__L1all.csv,letter|1|pre_mass_off,worst_acc,0.23118932038834952,0.23118932038834952,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|post_none_off,min_dist,2.2994295218327094,2.2994295218327094,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|post_none_off,mean_acc,0.41058691377438994,0.41058691377438994,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|post_none_off,worst_acc,0.35671342685370744,0.35671342685370744,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_none_off,min_dist,2.2381155941894537,2.2381155941894537,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_none_off,mean_acc,0.4844782277618907,0.4844782277618907,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_none_off,worst_acc,0.3452619524763813,0.3452619524763813,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_footprint_off,min_dist,2.5406663541471515,2.5406663541471515,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_footprint_off,mean_acc,0.6558793661580603,0.6558793661580603,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_footprint_off,worst_acc,0.5842367418693232,0.5842367418693232,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_mass_off,min_dist,2.3276160556486536,2.3276160556486536,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_mass_off,mean_acc,0.6383334131883044,0.6383334131883044,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|0|pre_mass_off,worst_acc,0.5519426839349683,0.5519426839349683,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|post_none_off,min_dist,2.2270939081978964,2.2270939081978964,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|post_none_off,mean_acc,0.4712024541374465,0.4712024541374465,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|post_none_off,worst_acc,0.38745704467353953,0.38745704467353953,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_none_off,min_dist,2.1979473219310526,2.1979473219310526,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_none_off,mean_acc,0.558715198287777,0.558715198287777,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_none_off,worst_acc,0.4892502756339581,0.4892502756339581,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_footprint_off,min_dist,2.277562124130331,2.277562124130331,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_footprint_off,mean_acc,0.6152238288975612,0.6152238288975612,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_footprint_off,worst_acc,0.4316628701594533,0.4316628701594533,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_mass_off,min_dist,2.1845838830111606,2.1845838830111606,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_mass_off,mean_acc,0.5986358235251437,0.5986358235251437,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (20c)|1|pre_mass_off,worst_acc,0.42686397268070575,0.42686397268070575,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|post_none_off,min_dist,2.123199635361995,2.123199635361995,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|post_none_off,mean_acc,0.4408333617247024,0.4408333617247024,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|post_none_off,worst_acc,0.35354927636113026,0.35354927636113026,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_none_off,min_dist,2.1284440180220203,2.1284440180220203,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_none_off,mean_acc,0.5379616325883313,0.5379616325883313,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_none_off,worst_acc,0.3742603550295858,0.3742603550295858,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_footprint_off,min_dist,2.432450340549051,2.432450340549051,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_footprint_off,mean_acc,0.67012283441263,0.67012283441263,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_footprint_off,worst_acc,0.5174377224199288,0.5174377224199288,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_mass_off,min_dist,2.3477460909095957,2.3477460909095957,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_mass_off,mean_acc,0.6622177340635551,0.6622177340635551,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|0|pre_mass_off,worst_acc,0.5167259786476869,0.5167259786476869,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|post_none_off,min_dist,2.099411911126808,2.099411911126808,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|post_none_off,mean_acc,0.44008986952396306,0.44008986952396306,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|post_none_off,worst_acc,0.35630599586492073,0.35630599586492073,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_none_off,min_dist,2.179572318933348,2.179572318933348,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_none_off,mean_acc,0.5257229925057406,0.5257229925057406,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_none_off,worst_acc,0.40711743772241993,0.40711743772241993,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_footprint_off,min_dist,2.551808400880138,2.551808400880138,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_footprint_off,mean_acc,0.6272868525238026,0.6272868525238026,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_footprint_off,worst_acc,0.5224199288256228,0.5224199288256228,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_mass_off,min_dist,2.5614423663821833,2.5614423663821833,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_mass_off,mean_acc,0.628531261836324,0.628531261836324,1
+t3_design_space/per_seed_metrics__L1all.csv,mnist784_pca32 (50c)|1|pre_mass_off,worst_acc,0.5231316725978647,0.5231316725978647,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|0|post_footprint_off,min_dist,7.235613041471201,7.235613041471201,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|0|post_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|0|post_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|0|post_footprint_off,fcm_obj,1.0819229903588163,1.0819229903588163,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|1|post_footprint_off,min_dist,7.265394799156934,7.265394799156934,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|1|post_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|1|post_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_hard|1|post_footprint_off,fcm_obj,1.1023250486432519,1.1023250486432519,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|0|post_footprint_off,min_dist,4.112199295004238,4.112199295004238,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|0|post_footprint_off,mean_acc,0.8640151515151516,0.8640151515151516,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|0|post_footprint_off,worst_acc,0.8090909090909091,0.8090909090909091,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|0|post_footprint_off,fcm_obj,2.1081629182495836,2.1081629182495836,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|1|post_footprint_off,min_dist,4.102630522787484,4.102630522787484,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|1|post_footprint_off,mean_acc,0.8681818181818183,0.8681818181818183,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|1|post_footprint_off,worst_acc,0.8181818181818182,0.8181818181818182,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,cluster_skew_overlap|1|post_footprint_off,fcm_obj,2.069975070537287,2.069975070537287,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|0|post_footprint_off,min_dist,7.016051245255956,7.016051245255956,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|0|post_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|0|post_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|0|post_footprint_off,fcm_obj,1.190338655318164,1.190338655318164,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|1|post_footprint_off,min_dist,7.042804381174616,7.042804381174616,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|1|post_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|1|post_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.03|1|post_footprint_off,fcm_obj,1.2937056989521658,1.2937056989521658,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|0|post_footprint_off,min_dist,7.2065417853811615,7.2065417853811615,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|0|post_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|0|post_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|0|post_footprint_off,fcm_obj,1.0588958875322605,1.0588958875322605,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|1|post_footprint_off,min_dist,7.39937018236403,7.39937018236403,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|1|post_footprint_off,mean_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|1|post_footprint_off,worst_acc,1.0,1.0,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,dirichlet_0.1|1|post_footprint_off,fcm_obj,1.0203084579058967,1.0203084579058967,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|0|post_footprint_off,min_dist,4.855945203710708,4.855945203710708,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|0|post_footprint_off,mean_acc,0.9007575757575759,0.9007575757575759,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|0|post_footprint_off,worst_acc,0.8636363636363636,0.8636363636363636,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|0|post_footprint_off,fcm_obj,2.314505241178696,2.314505241178696,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|1|post_footprint_off,min_dist,4.8987083788473145,4.8987083788473145,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|1|post_footprint_off,mean_acc,0.9090909090909091,0.9090909090909091,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|1|post_footprint_off,worst_acc,0.8863636363636364,0.8863636363636364,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,overlap_noise|1|post_footprint_off,fcm_obj,2.3528786674124587,2.3528786674124587,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|0|post_footprint_off,min_dist,2.879191555364552e-06,2.879191555364552e-06,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|0|post_footprint_off,mean_acc,0.8503323799760797,0.8503323799760797,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|0|post_footprint_off,worst_acc,0.65,0.65,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|0|post_footprint_off,fcm_obj,5.519572296611118,5.519572296611118,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|1|post_footprint_off,min_dist,1.051580993734414,1.051580993734414,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|1|post_footprint_off,mean_acc,0.7588741918718468,0.7588741918718468,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|1|post_footprint_off,worst_acc,0.5245901639344263,0.5245901639344263,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,quantity_skew_extreme|1|post_footprint_off,fcm_obj,4.603382605898215,4.603382605898215,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|0|post_footprint_off,min_dist,3.3318762466210194,3.3318762466210194,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|0|post_footprint_off,mean_acc,0.9678070175438597,0.9678070175438597,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|0|post_footprint_off,worst_acc,0.8888888888888888,0.8888888888888888,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|0|post_footprint_off,fcm_obj,4.0761223884230535,4.0761223884230535,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|1|post_footprint_off,min_dist,3.4885596429361128,3.4885596429361128,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|1|post_footprint_off,mean_acc,0.9672222222222222,0.9672222222222222,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|1|post_footprint_off,worst_acc,0.8333333333333334,0.8333333333333334,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,wine|1|post_footprint_off,fcm_obj,4.081688636039498,4.081688636039498,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|0|post_footprint_off,min_dist,3.5263038452736923,3.5263038452736923,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|0|post_footprint_off,mean_acc,0.6965602624495226,0.6965602624495226,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|0|post_footprint_off,worst_acc,0.5127635960044395,0.5127635960044395,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|0|post_footprint_off,fcm_obj,3.7624172531354105,3.7624172531354105,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|1|post_footprint_off,min_dist,3.5174379471724455,3.5174379471724455,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|1|post_footprint_off,mean_acc,0.697713947510836,0.697713947510836,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|1|post_footprint_off,worst_acc,0.516093229744728,0.516093229744728,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,satimage|1|post_footprint_off,fcm_obj,3.7631585518583504,3.7631585518583504,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|0|post_footprint_off,min_dist,2.2757346243301066,2.2757346243301066,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|0|post_footprint_off,mean_acc,0.7391325956642179,0.7391325956642179,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|0|post_footprint_off,worst_acc,0.5304428044280443,0.5304428044280443,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|0|post_footprint_off,fcm_obj,3.881629701443604,3.881629701443604,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|1|post_footprint_off,min_dist,2.3233498194882287,2.3233498194882287,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|1|post_footprint_off,mean_acc,0.7025433165318471,0.7025433165318471,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|1|post_footprint_off,worst_acc,0.5894833948339483,0.5894833948339483,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,pendigits|1|post_footprint_off,fcm_obj,4.076937611069158,4.076937611069158,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|0|post_footprint_off,min_dist,2.3964664879870567,2.3964664879870567,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|0|post_footprint_off,mean_acc,0.73255557222972,0.73255557222972,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|0|post_footprint_off,worst_acc,0.5111111111111111,0.5111111111111111,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|0|post_footprint_off,fcm_obj,7.886162829529753,7.886162829529753,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|1|post_footprint_off,min_dist,2.3126251556525967,2.3126251556525967,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|1|post_footprint_off,mean_acc,0.777346231230836,0.777346231230836,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|1|post_footprint_off,worst_acc,0.6271186440677966,0.6271186440677966,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca16|1|post_footprint_off,fcm_obj,7.81183641479058,7.81183641479058,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|0|post_footprint_off,min_dist,2.9117894165059623,2.9117894165059623,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|0|post_footprint_off,mean_acc,0.7952790984799009,0.7952790984799009,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|0|post_footprint_off,worst_acc,0.4689265536723164,0.4689265536723164,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|0|post_footprint_off,fcm_obj,24.27181689965926,24.27181689965926,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|1|post_footprint_off,min_dist,2.987885323389975,2.987885323389975,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|1|post_footprint_off,mean_acc,0.7965479576246661,0.7965479576246661,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|1|post_footprint_off,worst_acc,0.480225988700565,0.480225988700565,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,digits_pca32|1|post_footprint_off,fcm_obj,24.268619153560493,24.268619153560493,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|0|post_footprint_off,min_dist,1.4360327996602638,1.4360327996602638,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|0|post_footprint_off,mean_acc,0.3104659240516055,0.3104659240516055,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|0|post_footprint_off,worst_acc,0.18264563106796117,0.18264563106796117,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|0|post_footprint_off,fcm_obj,5.053570060064365,5.053570060064365,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|1|post_footprint_off,min_dist,1.4288041128776159,1.4288041128776159,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|1|post_footprint_off,mean_acc,0.31202529687357317,0.31202529687357317,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|1|post_footprint_off,worst_acc,0.21177184466019416,0.21177184466019416,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,letter|1|post_footprint_off,fcm_obj,5.110058719690052,5.110058719690052,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|0|post_footprint_off,min_dist,2.680059163036132,2.680059163036132,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|0|post_footprint_off,mean_acc,0.6208338183510955,0.6208338183510955,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|0|post_footprint_off,worst_acc,0.5105353075170843,0.5105353075170843,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|0|post_footprint_off,fcm_obj,24.486745825972953,24.486745825972953,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|1|post_footprint_off,min_dist,2.600027962788574,2.600027962788574,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|1|post_footprint_off,mean_acc,0.6488646854642088,0.6488646854642088,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|1|post_footprint_off,worst_acc,0.5667838312829525,0.5667838312829525,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (20c)|1|post_footprint_off,fcm_obj,24.469353101294942,24.469353101294942,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|0|post_footprint_off,min_dist,2.383021374900161,2.383021374900161,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|0|post_footprint_off,mean_acc,0.6460285326490265,0.6460285326490265,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|0|post_footprint_off,worst_acc,0.5206258890469416,0.5206258890469416,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|0|post_footprint_off,fcm_obj,24.51638300269355,24.51638300269355,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|1|post_footprint_off,min_dist,2.358723836981977,2.358723836981977,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|1|post_footprint_off,mean_acc,0.5194136267861184,0.5194136267861184,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|1|post_footprint_off,worst_acc,0.38800827015851136,0.38800827015851136,1
+t3_design_space/per_seed_metrics__T9_L1_gf.csv,mnist784_pca32 (50c)|1|post_footprint_off,fcm_obj,24.539787237240827,24.539787237240827,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|0|post_footprint_on,mean_acc,0.8640151515151514,0.8640151515151514,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|0|post_footprint_on,worst_acc,0.5454545454545454,0.5454545454545454,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|1|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_hard|1|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_overlap|0|post_footprint_on,mean_acc,0.8446969696969697,0.8446969696969697,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_overlap|0|post_footprint_on,worst_acc,0.7909090909090909,0.7909090909090909,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_overlap|1|post_footprint_on,mean_acc,0.8454545454545456,0.8454545454545456,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",cluster_skew_overlap|1|post_footprint_on,worst_acc,0.7909090909090909,0.7909090909090909,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.03|0|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.03|0|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.03|1|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.03|1|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.1|0|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.1|0|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.1|1|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",dirichlet_0.1|1|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",overlap_noise|0|post_footprint_on,mean_acc,0.8988636363636363,0.8988636363636363,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",overlap_noise|0|post_footprint_on,worst_acc,0.85,0.85,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",overlap_noise|1|post_footprint_on,mean_acc,0.9071969696969697,0.9071969696969697,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",overlap_noise|1|post_footprint_on,worst_acc,0.8863636363636364,0.8863636363636364,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",quantity_skew_extreme|0|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",quantity_skew_extreme|0|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",quantity_skew_extreme|1|post_footprint_on,mean_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",quantity_skew_extreme|1|post_footprint_on,worst_acc,1.0,1.0,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",wine|0|post_footprint_on,mean_acc,0.9461403508771931,0.9461403508771931,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",wine|0|post_footprint_on,worst_acc,0.8333333333333334,0.8333333333333334,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",wine|1|post_footprint_on,mean_acc,0.9557090643274855,0.9557090643274855,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",wine|1|post_footprint_on,worst_acc,0.8333333333333334,0.8333333333333334,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",satimage|0|post_footprint_on,mean_acc,0.6822510872709107,0.6822510872709107,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",satimage|0|post_footprint_on,worst_acc,0.4758842443729904,0.4758842443729904,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",satimage|1|post_footprint_on,mean_acc,0.6811964957872207,0.6811964957872207,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",satimage|1|post_footprint_on,worst_acc,0.477491961414791,0.477491961414791,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",pendigits|0|post_footprint_on,mean_acc,0.7315370496394812,0.7315370496394812,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",pendigits|0|post_footprint_on,worst_acc,0.5239852398523985,0.5239852398523985,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",pendigits|1|post_footprint_on,mean_acc,0.65399375632147,0.65399375632147,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",pendigits|1|post_footprint_on,worst_acc,0.5571955719557196,0.5571955719557196,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca16|0|post_footprint_on,mean_acc,0.6939619833431847,0.6939619833431847,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca16|0|post_footprint_on,worst_acc,0.39444444444444443,0.39444444444444443,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca16|1|post_footprint_on,mean_acc,0.7526211938889276,0.7526211938889276,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca16|1|post_footprint_on,worst_acc,0.5388888888888889,0.5388888888888889,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca32|0|post_footprint_on,mean_acc,0.7659432549160012,0.7659432549160012,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca32|0|post_footprint_on,worst_acc,0.55,0.55,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca32|1|post_footprint_on,mean_acc,0.753294787576919,0.753294787576919,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",digits_pca32|1|post_footprint_on,worst_acc,0.480225988700565,0.480225988700565,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",letter|0|post_footprint_on,mean_acc,0.2873990257555945,0.2873990257555945,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",letter|0|post_footprint_on,worst_acc,0.23118932038834952,0.23118932038834952,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",letter|1|post_footprint_on,mean_acc,0.3074807953299849,0.3074807953299849,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",letter|1|post_footprint_on,worst_acc,0.22512135922330098,0.22512135922330098,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (20c)|0|post_footprint_on,mean_acc,0.609472625026498,0.609472625026498,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (20c)|0|post_footprint_on,worst_acc,0.5304669703872438,0.5304669703872438,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (20c)|1|post_footprint_on,mean_acc,0.5922133241445137,0.5922133241445137,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (20c)|1|post_footprint_on,worst_acc,0.4701102727800348,0.4701102727800348,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (50c)|0|post_footprint_on,mean_acc,0.6404326475379816,0.6404326475379816,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (50c)|0|post_footprint_on,worst_acc,0.4804270462633452,0.4804270462633452,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (50c)|1|post_footprint_on,mean_acc,0.6251063188079784,0.6251063188079784,1
+"t3_design_space/per_seed_metrics__T9_L1_gf.csv [prior noES, new early-stop: acc only]",mnist784_pca32 (50c)|1|post_footprint_on,worst_acc,0.48535871156661786,0.48535871156661786,1

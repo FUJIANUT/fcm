@@ -1,0 +1,1121 @@
+source,key,field,prior,new,match,strict
+t9b_scffcm_fair.csv,cluster_skew_hard|5|0|0.05|8.0,min_dist,7.458307423019211,7.458307423019211,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|0|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|0|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|0|0.05|8.0,fcm_obj,1.0328927858830745,1.0328927858830745,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|1|0.05|8.0,min_dist,7.481998619782858,7.481998619782858,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|1|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|1|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|1|0.05|8.0,fcm_obj,1.0200557521854148,1.0200557521854148,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|2|0.05|8.0,min_dist,7.4683398303711215,7.4683398303711215,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|2|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|2|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|2|0.05|8.0,fcm_obj,1.05587511377549,1.05587511377549,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|3|0.05|8.0,min_dist,7.531694168411539,7.531694168411539,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|3|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|3|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|3|0.05|8.0,fcm_obj,1.0462690151519192,1.0462690151519192,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|4|0.05|8.0,min_dist,7.479844163818695,7.479844163818695,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|4|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|4|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|4|0.05|8.0,fcm_obj,1.0727722790162157,1.0727722790162157,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|5|0.05|8.0,min_dist,7.479762909116472,7.479762909116472,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|5|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|5|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|5|0.05|8.0,fcm_obj,1.0570911282894926,1.0570911282894926,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|6|0.05|8.0,min_dist,7.536731575955273,7.536731575955273,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|6|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|6|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|6|0.05|8.0,fcm_obj,1.0002988743323653,1.0002988743323653,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|7|0.05|8.0,min_dist,7.520227435409061,7.520227435409061,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|7|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|7|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|7|0.05|8.0,fcm_obj,1.0296266452069582,1.0296266452069582,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|8|0.05|8.0,min_dist,7.478969739482722,7.478969739482722,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|8|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|8|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|8|0.05|8.0,fcm_obj,1.040268110207713,1.040268110207713,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|9|0.05|8.0,min_dist,7.466313284428499,7.466313284428499,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|9|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|9|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|9|0.05|8.0,fcm_obj,1.0787542085095945,1.0787542085095945,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|10|0.05|8.0,min_dist,7.484541311568022,7.484541311568022,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|10|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|10|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|10|0.05|8.0,fcm_obj,1.0250295329178942,1.0250295329178942,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|11|0.05|8.0,min_dist,7.516615181532967,7.516615181532967,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|11|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|11|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|11|0.05|8.0,fcm_obj,1.0294671964491175,1.0294671964491175,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|12|0.05|8.0,min_dist,7.524122374307383,7.524122374307383,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|12|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|12|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|12|0.05|8.0,fcm_obj,1.0585973823733457,1.0585973823733457,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|13|0.05|8.0,min_dist,7.636695414366323,7.636695414366323,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|13|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|13|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|13|0.05|8.0,fcm_obj,1.0509331506141015,1.0509331506141015,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|14|0.05|8.0,min_dist,7.451227405771757,7.451227405771757,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|14|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|14|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|14|0.05|8.0,fcm_obj,1.010790545107656,1.010790545107656,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|15|0.05|8.0,min_dist,7.46562474715452,7.46562474715452,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|15|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|15|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|15|0.05|8.0,fcm_obj,1.0583444310994665,1.0583444310994665,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|16|0.05|8.0,min_dist,7.509025124638414,7.509025124638414,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|16|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|16|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|16|0.05|8.0,fcm_obj,1.0491686656417927,1.0491686656417927,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|17|0.05|8.0,min_dist,7.523552275379955,7.523552275379955,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|17|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|17|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|17|0.05|8.0,fcm_obj,1.0500152262253455,1.0500152262253455,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|18|0.05|8.0,min_dist,7.514673236687983,7.514673236687983,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|18|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|18|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|18|0.05|8.0,fcm_obj,1.0433782327288106,1.0433782327288106,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|19|0.05|8.0,min_dist,7.5294170720145335,7.5294170720145335,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|19|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|19|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,cluster_skew_hard|5|19|0.05|8.0,fcm_obj,1.0312130817914629,1.0312130817914629,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|0|1.0|0.5,min_dist,3.7656763406023983,3.7656763406023983,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|0|1.0|0.5,mean_acc,0.8632575757575757,0.8632575757575757,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|0|1.0|0.5,worst_acc,0.8090909090909091,0.8090909090909091,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|0|1.0|0.5,fcm_obj,2.091747831130726,2.091747831130726,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|1|1.0|0.5,min_dist,3.844780230971876,3.844780230971876,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|1|1.0|0.5,mean_acc,0.8681818181818183,0.8681818181818183,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|1|1.0|0.5,worst_acc,0.8227272727272728,0.8227272727272728,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|1|1.0|0.5,fcm_obj,2.0536480832729413,2.0536480832729413,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|2|1.0|0.5,min_dist,3.7682861109092283,3.7682861109092283,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|2|1.0|0.5,mean_acc,0.8606060606060607,0.8606060606060607,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|2|1.0|0.5,worst_acc,0.8272727272727273,0.8272727272727273,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|2|1.0|0.5,fcm_obj,2.121853877818593,2.121853877818593,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|3|1.0|0.5,min_dist,3.958024889248253,3.958024889248253,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|3|1.0|0.5,mean_acc,0.8583333333333334,0.8583333333333334,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|3|1.0|0.5,worst_acc,0.8,0.8,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|3|1.0|0.5,fcm_obj,2.0915594222863607,2.0915594222863607,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|4|1.0|0.5,min_dist,3.831106880433427,3.831106880433427,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|4|1.0|0.5,mean_acc,0.8621212121212123,0.8621212121212123,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|4|1.0|0.5,worst_acc,0.8181818181818182,0.8181818181818182,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|4|1.0|0.5,fcm_obj,2.1638287887041843,2.1638287887041843,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|5|1.0|0.5,min_dist,3.8803704973792366,3.8803704973792366,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|5|1.0|0.5,mean_acc,0.8590909090909092,0.8590909090909092,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|5|1.0|0.5,worst_acc,0.7681818181818182,0.7681818181818182,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|5|1.0|0.5,fcm_obj,2.1108065425766607,2.1108065425766607,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|6|1.0|0.5,min_dist,3.893512820680702,3.893512820680702,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|6|1.0|0.5,mean_acc,0.8856060606060606,0.8856060606060606,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|6|1.0|0.5,worst_acc,0.8363636363636363,0.8363636363636363,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|6|1.0|0.5,fcm_obj,2.062115770048403,2.062115770048403,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|7|1.0|0.5,min_dist,3.9140545537215066,3.9140545537215066,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|7|1.0|0.5,mean_acc,0.8643939393939394,0.8643939393939394,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|7|1.0|0.5,worst_acc,0.8090909090909091,0.8090909090909091,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|7|1.0|0.5,fcm_obj,2.071565042598025,2.071565042598025,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|8|1.0|0.5,min_dist,3.7443746286636603,3.7443746286636603,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|8|1.0|0.5,mean_acc,0.868560606060606,0.868560606060606,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|8|1.0|0.5,worst_acc,0.8272727272727273,0.8272727272727273,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|8|1.0|0.5,fcm_obj,2.103758996094948,2.103758996094948,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|9|1.0|0.5,min_dist,3.8639252821863215,3.8639252821863215,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|9|1.0|0.5,mean_acc,0.8526515151515152,0.8526515151515152,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|9|1.0|0.5,worst_acc,0.8,0.8,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|9|1.0|0.5,fcm_obj,2.12680825424238,2.12680825424238,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|10|1.0|0.5,min_dist,3.885640227948651,3.885640227948651,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|10|1.0|0.5,mean_acc,0.8640151515151516,0.8640151515151516,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|10|1.0|0.5,worst_acc,0.8090909090909091,0.8090909090909091,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|10|1.0|0.5,fcm_obj,2.07829524450048,2.07829524450048,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|11|1.0|0.5,min_dist,3.8753470197586375,3.8753470197586375,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|11|1.0|0.5,mean_acc,0.8719696969696971,0.8719696969696971,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|11|1.0|0.5,worst_acc,0.8272727272727273,0.8272727272727273,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|11|1.0|0.5,fcm_obj,2.086177866003899,2.086177866003899,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|12|1.0|0.5,min_dist,3.9392745377247955,3.9392745377247955,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|12|1.0|0.5,mean_acc,0.8666666666666666,0.8666666666666666,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|12|1.0|0.5,worst_acc,0.8181818181818182,0.8181818181818182,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|12|1.0|0.5,fcm_obj,2.1372884673245056,2.1372884673245056,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|13|1.0|0.5,min_dist,4.0716082014145005,4.0716082014145005,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|13|1.0|0.5,mean_acc,0.869318181818182,0.869318181818182,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|13|1.0|0.5,worst_acc,0.8045454545454546,0.8045454545454546,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|13|1.0|0.5,fcm_obj,2.160985733906082,2.160985733906082,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|14|1.0|0.5,min_dist,3.823412746018882,3.823412746018882,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|14|1.0|0.5,mean_acc,0.8700757575757575,0.8700757575757575,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|14|1.0|0.5,worst_acc,0.7818181818181819,0.7818181818181819,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|14|1.0|0.5,fcm_obj,2.04695194605664,2.04695194605664,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|15|1.0|0.5,min_dist,3.756378203076041,3.756378203076041,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|15|1.0|0.5,mean_acc,0.859090909090909,0.859090909090909,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|15|1.0|0.5,worst_acc,0.8,0.8,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|15|1.0|0.5,fcm_obj,2.0909614872680913,2.0909614872680913,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|16|1.0|0.5,min_dist,3.927790986660661,3.927790986660661,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|16|1.0|0.5,mean_acc,0.852651515151515,0.852651515151515,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|16|1.0|0.5,worst_acc,0.7909090909090909,0.7909090909090909,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|16|1.0|0.5,fcm_obj,2.0948923469677934,2.0948923469677934,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|17|1.0|0.5,min_dist,3.8942731779750335,3.8942731779750335,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|17|1.0|0.5,mean_acc,0.8715909090909092,0.8715909090909092,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|17|1.0|0.5,worst_acc,0.8363636363636363,0.8363636363636363,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|17|1.0|0.5,fcm_obj,2.141666678816248,2.141666678816248,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|18|1.0|0.5,min_dist,3.905737020690611,3.905737020690611,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|18|1.0|0.5,mean_acc,0.8609848484848484,0.8609848484848484,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|18|1.0|0.5,worst_acc,0.8318181818181818,0.8318181818181818,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|18|1.0|0.5,fcm_obj,2.091880509426419,2.091880509426419,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|19|1.0|0.5,min_dist,3.8700851171073443,3.8700851171073443,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|19|1.0|0.5,mean_acc,0.8655303030303031,0.8655303030303031,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|19|1.0|0.5,worst_acc,0.8136363636363636,0.8136363636363636,1,1
+t9b_scffcm_fair.csv,cluster_skew_overlap|5|19|1.0|0.5,fcm_obj,2.087111289028412,2.087111289028412,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|0|0.05|8.0,min_dist,7.506965797822266,7.506965797822266,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|0|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|0|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|0|0.05|8.0,fcm_obj,1.0312732688144335,1.0312732688144335,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|1|0.05|8.0,min_dist,7.52314859232497,7.52314859232497,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|1|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|1|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|1|0.05|8.0,fcm_obj,1.0246956245618277,1.0246956245618277,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|2|0.05|8.0,min_dist,7.543120971108685,7.543120971108685,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|2|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|2|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|2|0.05|8.0,fcm_obj,1.0578045745474243,1.0578045745474243,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|3|0.05|8.0,min_dist,7.441674831248103,7.441674831248103,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|3|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|3|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|3|0.05|8.0,fcm_obj,1.0498862336437618,1.0498862336437618,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|4|0.05|8.0,min_dist,7.492799724624155,7.492799724624155,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|4|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|4|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|4|0.05|8.0,fcm_obj,1.0741434607423537,1.0741434607423537,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|5|0.05|8.0,min_dist,5.669940590335136,5.669940590335136,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|5|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|5|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|5|0.05|8.0,fcm_obj,1.6148254118792913,1.6148254118792913,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|6|0.05|8.0,min_dist,7.518742235685449,7.518742235685449,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|6|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|6|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|6|0.05|8.0,fcm_obj,1.0089357321247248,1.0089357321247248,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|7|0.05|8.0,min_dist,7.535540866733283,7.535540866733283,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|7|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|7|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|7|0.05|8.0,fcm_obj,1.0414897137231267,1.0414897137231267,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|8|0.05|8.0,min_dist,7.55759263430353,7.55759263430353,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|8|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|8|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|8|0.05|8.0,fcm_obj,1.0455693262826442,1.0455693262826442,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|9|0.05|8.0,min_dist,7.415552114968138,7.415552114968138,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|9|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|9|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|9|0.05|8.0,fcm_obj,1.0729450551342037,1.0729450551342037,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|10|0.05|8.0,min_dist,7.535306474911333,7.535306474911333,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|10|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|10|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|10|0.05|8.0,fcm_obj,1.0303448494607896,1.0303448494607896,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|11|0.05|8.0,min_dist,7.51062040331136,7.51062040331136,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|11|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|11|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|11|0.05|8.0,fcm_obj,1.0229791024841208,1.0229791024841208,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|12|0.05|8.0,min_dist,7.51039415468263,7.51039415468263,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|12|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|12|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|12|0.05|8.0,fcm_obj,1.0711273478452936,1.0711273478452936,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|13|0.05|8.0,min_dist,7.535218511900981,7.535218511900981,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|13|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|13|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|13|0.05|8.0,fcm_obj,1.05498701362845,1.05498701362845,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|14|0.05|8.0,min_dist,7.47135043384789,7.47135043384789,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|14|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|14|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|14|0.05|8.0,fcm_obj,0.9999031691140069,0.9999031691140069,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|15|0.05|8.0,min_dist,7.53427235997547,7.53427235997547,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|15|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|15|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|15|0.05|8.0,fcm_obj,1.0392079132185976,1.0392079132185976,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|16|0.05|8.0,min_dist,7.608424819058271,7.608424819058271,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|16|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|16|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|16|0.05|8.0,fcm_obj,1.0423912145195693,1.0423912145195693,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|17|0.05|8.0,min_dist,7.564157994147285,7.564157994147285,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|17|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|17|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|17|0.05|8.0,fcm_obj,1.0535911830801832,1.0535911830801832,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|18|0.05|8.0,min_dist,7.4727849185446535,7.4727849185446535,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|18|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|18|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|18|0.05|8.0,fcm_obj,1.0400200167534672,1.0400200167534672,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|19|0.05|8.0,min_dist,7.5333987703311065,7.5333987703311065,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|19|0.05|8.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|19|0.05|8.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.03|5|19|0.05|8.0,fcm_obj,1.0168953685811408,1.0168953685811408,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|0|0.2|4.0,min_dist,7.475037435560543,7.475037435560543,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|0|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|0|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|0|0.2|4.0,fcm_obj,1.03239011595036,1.03239011595036,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|1|0.2|4.0,min_dist,7.554912266222948,7.554912266222948,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|1|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|1|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|1|0.2|4.0,fcm_obj,1.0102150144142505,1.0102150144142505,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|2|0.2|4.0,min_dist,7.5221017221525965,7.5221017221525965,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|2|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|2|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|2|0.2|4.0,fcm_obj,1.0722478102810429,1.0722478102810429,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|3|0.2|4.0,min_dist,7.496861540168781,7.496861540168781,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|3|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|3|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|3|0.2|4.0,fcm_obj,1.0482069210264093,1.0482069210264093,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|4|0.2|4.0,min_dist,7.503947873411201,7.503947873411201,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|4|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|4|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|4|0.2|4.0,fcm_obj,1.0700715723168401,1.0700715723168401,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|5|0.2|4.0,min_dist,7.527272347945289,7.527272347945289,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|5|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|5|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|5|0.2|4.0,fcm_obj,1.0465417511517845,1.0465417511517845,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|6|0.2|4.0,min_dist,7.523879539072018,7.523879539072018,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|6|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|6|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|6|0.2|4.0,fcm_obj,1.0151859579545761,1.0151859579545761,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|7|0.2|4.0,min_dist,7.50288964820213,7.50288964820213,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|7|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|7|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|7|0.2|4.0,fcm_obj,1.036015175060879,1.036015175060879,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|8|0.2|4.0,min_dist,7.447966828423352,7.447966828423352,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|8|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|8|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|8|0.2|4.0,fcm_obj,1.038732472173619,1.038732472173619,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|9|0.2|4.0,min_dist,7.4450362372423475,7.4450362372423475,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|9|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|9|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|9|0.2|4.0,fcm_obj,1.056714812390008,1.056714812390008,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|10|0.2|4.0,min_dist,7.485319193037213,7.485319193037213,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|10|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|10|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|10|0.2|4.0,fcm_obj,1.030267048980011,1.030267048980011,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|11|0.2|4.0,min_dist,7.538888827792564,7.538888827792564,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|11|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|11|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|11|0.2|4.0,fcm_obj,1.0221093241564976,1.0221093241564976,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|12|0.2|4.0,min_dist,7.474986764105342,7.474986764105342,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|12|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|12|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|12|0.2|4.0,fcm_obj,1.0709483913205893,1.0709483913205893,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|13|0.2|4.0,min_dist,1.5619313728515911,1.5619313728515911,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|13|0.2|4.0,mean_acc,0.9007575757575758,0.9007575757575758,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|13|0.2|4.0,worst_acc,0.7181818181818181,0.7181818181818181,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|13|0.2|4.0,fcm_obj,1.9107758745006884,1.9107758745006884,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|14|0.2|4.0,min_dist,7.50081062166473,7.50081062166473,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|14|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|14|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|14|0.2|4.0,fcm_obj,1.0030102506232998,1.0030102506232998,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|15|0.2|4.0,min_dist,7.469067355958021,7.469067355958021,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|15|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|15|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|15|0.2|4.0,fcm_obj,1.0410454027302232,1.0410454027302232,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|16|0.2|4.0,min_dist,7.4719269950079426,7.4719269950079426,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|16|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|16|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|16|0.2|4.0,fcm_obj,1.0445742274407817,1.0445742274407817,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|17|0.2|4.0,min_dist,7.482045007942078,7.482045007942078,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|17|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|17|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|17|0.2|4.0,fcm_obj,1.0569340867855612,1.0569340867855612,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|18|0.2|4.0,min_dist,7.457900216326114,7.457900216326114,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|18|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|18|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|18|0.2|4.0,fcm_obj,1.0467398778017183,1.0467398778017183,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|19|0.2|4.0,min_dist,7.504206614428154,7.504206614428154,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|19|0.2|4.0,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|19|0.2|4.0,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,dirichlet_0.1|5|19|0.2|4.0,fcm_obj,1.0191669153065497,1.0191669153065497,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|0|0.2|4.0,min_dist,4.660032368087311,4.660032368087311,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|0|0.2|4.0,mean_acc,0.8981060606060606,0.8981060606060606,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|0|0.2|4.0,worst_acc,0.8636363636363636,0.8636363636363636,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|0|0.2|4.0,fcm_obj,2.308188471971074,2.308188471971074,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|1|0.2|4.0,min_dist,4.8299900361698835,4.8299900361698835,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|1|0.2|4.0,mean_acc,0.9083333333333332,0.9083333333333332,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|1|0.2|4.0,worst_acc,0.8909090909090909,0.8909090909090909,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|1|0.2|4.0,fcm_obj,2.3498118447085172,2.3498118447085172,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|2|0.2|4.0,min_dist,4.765926458699882,4.765926458699882,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|2|0.2|4.0,mean_acc,0.9022727272727273,0.9022727272727273,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|2|0.2|4.0,worst_acc,0.8863636363636364,0.8863636363636364,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|2|0.2|4.0,fcm_obj,2.271862484142661,2.271862484142661,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|3|0.2|4.0,min_dist,4.832927024922191,4.832927024922191,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|3|0.2|4.0,mean_acc,0.8988636363636364,0.8988636363636364,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|3|0.2|4.0,worst_acc,0.8818181818181818,0.8818181818181818,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|3|0.2|4.0,fcm_obj,2.364237898594578,2.364237898594578,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|4|0.2|4.0,min_dist,4.877051892031636,4.877051892031636,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|4|0.2|4.0,mean_acc,0.9049242424242424,0.9049242424242424,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|4|0.2|4.0,worst_acc,0.8727272727272727,0.8727272727272727,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|4|0.2|4.0,fcm_obj,2.4161513656130635,2.4161513656130635,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|5|0.2|4.0,min_dist,4.53001783269098,4.53001783269098,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|5|0.2|4.0,mean_acc,0.8981060606060606,0.8981060606060606,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|5|0.2|4.0,worst_acc,0.8727272727272727,0.8727272727272727,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|5|0.2|4.0,fcm_obj,2.3308927045714487,2.3308927045714487,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|6|0.2|4.0,min_dist,4.920692499754257,4.920692499754257,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|6|0.2|4.0,mean_acc,0.9102272727272726,0.9102272727272726,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|6|0.2|4.0,worst_acc,0.8772727272727273,0.8772727272727273,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|6|0.2|4.0,fcm_obj,2.327053516777918,2.327053516777918,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|7|0.2|4.0,min_dist,4.891086330178212,4.891086330178212,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|7|0.2|4.0,mean_acc,0.9022727272727273,0.9022727272727273,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|7|0.2|4.0,worst_acc,0.8772727272727273,0.8772727272727273,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|7|0.2|4.0,fcm_obj,2.369617773280963,2.369617773280963,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|8|0.2|4.0,min_dist,4.790105155072713,4.790105155072713,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|8|0.2|4.0,mean_acc,0.903030303030303,0.903030303030303,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|8|0.2|4.0,worst_acc,0.8727272727272727,0.8727272727272727,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|8|0.2|4.0,fcm_obj,2.271000473968238,2.271000473968238,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|9|0.2|4.0,min_dist,4.875904966112695,4.875904966112695,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|9|0.2|4.0,mean_acc,0.912121212121212,0.912121212121212,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|9|0.2|4.0,worst_acc,0.8909090909090909,0.8909090909090909,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|9|0.2|4.0,fcm_obj,2.413709381045289,2.413709381045289,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|10|0.2|4.0,min_dist,4.5755036284228705,4.5755036284228705,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|10|0.2|4.0,mean_acc,0.9053030303030303,0.9053030303030303,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|10|0.2|4.0,worst_acc,0.8818181818181818,0.8818181818181818,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|10|0.2|4.0,fcm_obj,2.3465735045031217,2.3465735045031217,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|11|0.2|4.0,min_dist,4.725108571363346,4.725108571363346,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|11|0.2|4.0,mean_acc,0.9075757575757576,0.9075757575757576,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|11|0.2|4.0,worst_acc,0.8636363636363636,0.8636363636363636,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|11|0.2|4.0,fcm_obj,2.2769966346845263,2.2769966346845263,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|12|0.2|4.0,min_dist,4.810027808263838,4.810027808263838,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|12|0.2|4.0,mean_acc,0.9079545454545453,0.9079545454545453,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|12|0.2|4.0,worst_acc,0.8818181818181818,0.8818181818181818,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|12|0.2|4.0,fcm_obj,2.375883568795785,2.375883568795785,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|13|0.2|4.0,min_dist,2.0845593735344785,2.0845593735344785,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|13|0.2|4.0,mean_acc,0.7450757575757576,0.7450757575757576,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|13|0.2|4.0,worst_acc,0.55,0.55,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|13|0.2|4.0,fcm_obj,2.3027259412592334,2.3027259412592334,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|14|0.2|4.0,min_dist,4.7985808329056745,4.7985808329056745,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|14|0.2|4.0,mean_acc,0.9045454545454544,0.9045454545454544,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|14|0.2|4.0,worst_acc,0.8681818181818182,0.8681818181818182,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|14|0.2|4.0,fcm_obj,2.2923274274169145,2.2923274274169145,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|15|0.2|4.0,min_dist,4.4454621342328835,4.4454621342328835,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|15|0.2|4.0,mean_acc,0.897348484848485,0.897348484848485,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|15|0.2|4.0,worst_acc,0.8727272727272727,0.8727272727272727,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|15|0.2|4.0,fcm_obj,2.297991478682373,2.297991478682373,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|16|0.2|4.0,min_dist,4.476719198686761,4.476719198686761,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|16|0.2|4.0,mean_acc,0.8962121212121211,0.8962121212121211,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|16|0.2|4.0,worst_acc,0.8818181818181818,0.8818181818181818,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|16|0.2|4.0,fcm_obj,2.2861252073646723,2.2861252073646723,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|17|0.2|4.0,min_dist,4.728031107787032,4.728031107787032,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|17|0.2|4.0,mean_acc,0.8931818181818182,0.8931818181818182,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|17|0.2|4.0,worst_acc,0.8545454545454545,0.8545454545454545,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|17|0.2|4.0,fcm_obj,2.3888297793590425,2.3888297793590425,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|18|0.2|4.0,min_dist,4.812459097858969,4.812459097858969,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|18|0.2|4.0,mean_acc,0.8992424242424243,0.8992424242424243,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|18|0.2|4.0,worst_acc,0.8727272727272727,0.8727272727272727,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|18|0.2|4.0,fcm_obj,2.2808895675413976,2.2808895675413976,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|19|0.2|4.0,min_dist,4.776013737766613,4.776013737766613,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|19|0.2|4.0,mean_acc,0.9098484848484848,0.9098484848484848,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|19|0.2|4.0,worst_acc,0.8954545454545455,0.8954545454545455,1,1
+t9b_scffcm_fair.csv,overlap_noise|5|19|0.2|4.0,fcm_obj,2.2870311415143845,2.2870311415143845,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|0|0.5|0.5,min_dist,7.364463552986768,7.364463552986768,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|0|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|0|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|0|0.5|0.5,fcm_obj,1.0424549261112603,1.0424549261112603,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|1|0.5|0.5,min_dist,7.618028126180961,7.618028126180961,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|1|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|1|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|1|0.5|0.5,fcm_obj,1.02433517862775,1.02433517862775,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|2|0.5|0.5,min_dist,7.415963440974179,7.415963440974179,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|2|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|2|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|2|0.5|0.5,fcm_obj,1.050884440166069,1.050884440166069,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|3|0.5|0.5,min_dist,7.371275354282703,7.371275354282703,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|3|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|3|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|3|0.5|0.5,fcm_obj,1.0688973657919576,1.0688973657919576,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|4|0.5|0.5,min_dist,7.5183267618438085,7.5183267618438085,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|4|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|4|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|4|0.5|0.5,fcm_obj,1.0744828060261449,1.0744828060261449,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|5|0.5|0.5,min_dist,3.316564905555119,3.316564905555119,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|5|0.5|0.5,mean_acc,0.9225639539367956,0.9225639539367956,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|5|0.5|0.5,worst_acc,0.8,0.8,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|5|0.5|0.5,fcm_obj,3.601982894130001,3.601982894130001,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|6|0.5|0.5,min_dist,7.596946360397547,7.596946360397547,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|6|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|6|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|6|0.5|0.5,fcm_obj,1.0658344535176936,1.0658344535176936,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|7|0.5|0.5,min_dist,7.647981750810312,7.647981750810312,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|7|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|7|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|7|0.5|0.5,fcm_obj,1.0494006744866655,1.0494006744866655,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|8|0.5|0.5,min_dist,7.376730530612889,7.376730530612889,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|8|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|8|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|8|0.5|0.5,fcm_obj,1.0751485711227435,1.0751485711227435,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|9|0.5|0.5,min_dist,7.445415003936398,7.445415003936398,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|9|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|9|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|9|0.5|0.5,fcm_obj,1.0528160125413637,1.0528160125413637,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|10|0.5|0.5,min_dist,7.3291727645404,7.3291727645404,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|10|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|10|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|10|0.5|0.5,fcm_obj,1.0356591053704172,1.0356591053704172,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|11|0.5|0.5,min_dist,7.662394365070938,7.662394365070938,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|11|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|11|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|11|0.5|0.5,fcm_obj,1.0362889025094437,1.0362889025094437,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|12|0.5|0.5,min_dist,7.449987928645327,7.449987928645327,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|12|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|12|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|12|0.5|0.5,fcm_obj,1.0878306782721023,1.0878306782721023,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|13|0.5|0.5,min_dist,7.483439979923883,7.483439979923883,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|13|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|13|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|13|0.5|0.5,fcm_obj,1.0477720414485314,1.0477720414485314,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|14|0.5|0.5,min_dist,7.464238389190698,7.464238389190698,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|14|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|14|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|14|0.5|0.5,fcm_obj,1.0178016031272046,1.0178016031272046,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|15|0.5|0.5,min_dist,7.7522658923788725,7.7522658923788725,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|15|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|15|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|15|0.5|0.5,fcm_obj,1.0793633163862397,1.0793633163862397,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|16|0.5|0.5,min_dist,7.526082055864202,7.526082055864202,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|16|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|16|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|16|0.5|0.5,fcm_obj,1.0420601165728562,1.0420601165728562,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|17|0.5|0.5,min_dist,7.621104876508751,7.621104876508751,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|17|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|17|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|17|0.5|0.5,fcm_obj,1.0891701661294109,1.0891701661294109,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|18|0.5|0.5,min_dist,7.387369529045953,7.387369529045953,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|18|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|18|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|18|0.5|0.5,fcm_obj,1.0385295659473948,1.0385295659473948,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|19|0.5|0.5,min_dist,7.287390772367908,7.287390772367908,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|19|0.5|0.5,mean_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|19|0.5|0.5,worst_acc,1.0,1.0,1,1
+t9b_scffcm_fair.csv,quantity_skew_extreme|5|19|0.5|0.5,fcm_obj,1.0527307764971006,1.0527307764971006,1,1
+t9b_scffcm_fair.csv,wine|5|0|0.1|2.0,min_dist,2.8834333729395474,2.8834333729395474,1,1
+t9b_scffcm_fair.csv,wine|5|0|0.1|2.0,mean_acc,0.9622514619883041,0.9622514619883041,1,1
+t9b_scffcm_fair.csv,wine|5|0|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|0|0.1|2.0,fcm_obj,4.054093593313183,4.054093593313183,1,1
+t9b_scffcm_fair.csv,wine|5|1|0.1|2.0,min_dist,2.947715677913407,2.947715677913407,1,1
+t9b_scffcm_fair.csv,wine|5|1|0.1|2.0,mean_acc,0.9672222222222222,0.9672222222222222,1,1
+t9b_scffcm_fair.csv,wine|5|1|0.1|2.0,worst_acc,0.8333333333333334,0.8333333333333334,1,1
+t9b_scffcm_fair.csv,wine|5|1|0.1|2.0,fcm_obj,4.052268008112538,4.052268008112538,1,1
+t9b_scffcm_fair.csv,wine|5|2|0.1|2.0,min_dist,2.94415416930548,2.94415416930548,1,1
+t9b_scffcm_fair.csv,wine|5|2|0.1|2.0,mean_acc,0.9730701754385965,0.9730701754385965,1,1
+t9b_scffcm_fair.csv,wine|5|2|0.1|2.0,worst_acc,0.9444444444444444,0.9444444444444444,1,1
+t9b_scffcm_fair.csv,wine|5|2|0.1|2.0,fcm_obj,4.052534580322444,4.052534580322444,1,1
+t9b_scffcm_fair.csv,wine|5|3|0.1|2.0,min_dist,2.915468606910375,2.915468606910375,1,1
+t9b_scffcm_fair.csv,wine|5|3|0.1|2.0,mean_acc,0.9669590643274854,0.9669590643274854,1,1
+t9b_scffcm_fair.csv,wine|5|3|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|3|0.1|2.0,fcm_obj,4.052283704621619,4.052283704621619,1,1
+t9b_scffcm_fair.csv,wine|5|4|0.1|2.0,min_dist,2.906757806272533,2.906757806272533,1,1
+t9b_scffcm_fair.csv,wine|5|4|0.1|2.0,mean_acc,0.9669590643274854,0.9669590643274854,1,1
+t9b_scffcm_fair.csv,wine|5|4|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|4|0.1|2.0,fcm_obj,4.05215057307478,4.05215057307478,1,1
+t9b_scffcm_fair.csv,wine|5|5|0.1|2.0,min_dist,2.8471653494462017,2.8471653494462017,1,1
+t9b_scffcm_fair.csv,wine|5|5|0.1|2.0,mean_acc,0.9678070175438597,0.9678070175438597,1,1
+t9b_scffcm_fair.csv,wine|5|5|0.1|2.0,worst_acc,0.8947368421052632,0.8947368421052632,1,1
+t9b_scffcm_fair.csv,wine|5|5|0.1|2.0,fcm_obj,4.052507458105526,4.052507458105526,1,1
+t9b_scffcm_fair.csv,wine|5|6|0.1|2.0,min_dist,2.9326764248828976,2.9326764248828976,1,1
+t9b_scffcm_fair.csv,wine|5|6|0.1|2.0,mean_acc,0.9677777777777778,0.9677777777777778,1,1
+t9b_scffcm_fair.csv,wine|5|6|0.1|2.0,worst_acc,0.9,0.9,1,1
+t9b_scffcm_fair.csv,wine|5|6|0.1|2.0,fcm_obj,4.0522723566578955,4.0522723566578955,1,1
+t9b_scffcm_fair.csv,wine|5|7|0.1|2.0,min_dist,2.95731942419751,2.95731942419751,1,1
+t9b_scffcm_fair.csv,wine|5|7|0.1|2.0,mean_acc,0.9672222222222222,0.9672222222222222,1,1
+t9b_scffcm_fair.csv,wine|5|7|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|7|0.1|2.0,fcm_obj,4.052393776723297,4.052393776723297,1,1
+t9b_scffcm_fair.csv,wine|5|8|0.1|2.0,min_dist,2.8683865434189952,2.8683865434189952,1,1
+t9b_scffcm_fair.csv,wine|5|8|0.1|2.0,mean_acc,0.9669590643274854,0.9669590643274854,1,1
+t9b_scffcm_fair.csv,wine|5|8|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|8|0.1|2.0,fcm_obj,4.052546729698942,4.052546729698942,1,1
+t9b_scffcm_fair.csv,wine|5|9|0.1|2.0,min_dist,2.4597764679228846,2.4597764679228846,1,1
+t9b_scffcm_fair.csv,wine|5|9|0.1|2.0,mean_acc,0.9616959064327485,0.9616959064327485,1,1
+t9b_scffcm_fair.csv,wine|5|9|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|9|0.1|2.0,fcm_obj,4.061602455927067,4.061602455927067,1,1
+t9b_scffcm_fair.csv,wine|5|10|0.1|2.0,min_dist,2.9582474842899047,2.9582474842899047,1,1
+t9b_scffcm_fair.csv,wine|5|10|0.1|2.0,mean_acc,0.9680701754385964,0.9680701754385964,1,1
+t9b_scffcm_fair.csv,wine|5|10|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|10|0.1|2.0,fcm_obj,4.05234649100204,4.05234649100204,1,1
+t9b_scffcm_fair.csv,wine|5|11|0.1|2.0,min_dist,2.943551781885145,2.943551781885145,1,1
+t9b_scffcm_fair.csv,wine|5|11|0.1|2.0,mean_acc,0.9622514619883041,0.9622514619883041,1,1
+t9b_scffcm_fair.csv,wine|5|11|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|11|0.1|2.0,fcm_obj,4.05230246518308,4.05230246518308,1,1
+t9b_scffcm_fair.csv,wine|5|12|0.1|2.0,min_dist,2.945499996428058,2.945499996428058,1,1
+t9b_scffcm_fair.csv,wine|5|12|0.1|2.0,mean_acc,0.9669590643274854,0.9669590643274854,1,1
+t9b_scffcm_fair.csv,wine|5|12|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|12|0.1|2.0,fcm_obj,4.052214155372087,4.052214155372087,1,1
+t9b_scffcm_fair.csv,wine|5|13|0.1|2.0,min_dist,0.5627059568230367,0.5627059568230367,1,1
+t9b_scffcm_fair.csv,wine|5|13|0.1|2.0,mean_acc,0.9189181286549708,0.9189181286549708,1,1
+t9b_scffcm_fair.csv,wine|5|13|0.1|2.0,worst_acc,0.8333333333333334,0.8333333333333334,1,1
+t9b_scffcm_fair.csv,wine|5|13|0.1|2.0,fcm_obj,4.16398898142653,4.16398898142653,1,1
+t9b_scffcm_fair.csv,wine|5|14|0.1|2.0,min_dist,2.9214117160312982,2.9214117160312982,1,1
+t9b_scffcm_fair.csv,wine|5|14|0.1|2.0,mean_acc,0.967514619883041,0.967514619883041,1,1
+t9b_scffcm_fair.csv,wine|5|14|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|14|0.1|2.0,fcm_obj,4.052236905353155,4.052236905353155,1,1
+t9b_scffcm_fair.csv,wine|5|15|0.1|2.0,min_dist,2.892518376390222,2.892518376390222,1,1
+t9b_scffcm_fair.csv,wine|5|15|0.1|2.0,mean_acc,0.9627777777777778,0.9627777777777778,1,1
+t9b_scffcm_fair.csv,wine|5|15|0.1|2.0,worst_acc,0.85,0.85,1,1
+t9b_scffcm_fair.csv,wine|5|15|0.1|2.0,fcm_obj,4.052681952193164,4.052681952193164,1,1
+t9b_scffcm_fair.csv,wine|5|16|0.1|2.0,min_dist,2.930689669212355,2.930689669212355,1,1
+t9b_scffcm_fair.csv,wine|5|16|0.1|2.0,mean_acc,0.9672222222222222,0.9672222222222222,1,1
+t9b_scffcm_fair.csv,wine|5|16|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|16|0.1|2.0,fcm_obj,4.052173394763512,4.052173394763512,1,1
+t9b_scffcm_fair.csv,wine|5|17|0.1|2.0,min_dist,2.9218530282025332,2.9218530282025332,1,1
+t9b_scffcm_fair.csv,wine|5|17|0.1|2.0,mean_acc,0.9666666666666666,0.9666666666666666,1,1
+t9b_scffcm_fair.csv,wine|5|17|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|17|0.1|2.0,fcm_obj,4.052307781106429,4.052307781106429,1,1
+t9b_scffcm_fair.csv,wine|5|18|0.1|2.0,min_dist,2.921588504539969,2.921588504539969,1,1
+t9b_scffcm_fair.csv,wine|5|18|0.1|2.0,mean_acc,0.9680701754385964,0.9680701754385964,1,1
+t9b_scffcm_fair.csv,wine|5|18|0.1|2.0,worst_acc,0.9,0.9,1,1
+t9b_scffcm_fair.csv,wine|5|18|0.1|2.0,fcm_obj,4.052321755224656,4.052321755224656,1,1
+t9b_scffcm_fair.csv,wine|5|19|0.1|2.0,min_dist,2.9054669247947977,2.9054669247947977,1,1
+t9b_scffcm_fair.csv,wine|5|19|0.1|2.0,mean_acc,0.9680701754385964,0.9680701754385964,1,1
+t9b_scffcm_fair.csv,wine|5|19|0.1|2.0,worst_acc,0.8888888888888888,0.8888888888888888,1,1
+t9b_scffcm_fair.csv,wine|5|19|0.1|2.0,fcm_obj,4.052323194696129,4.052323194696129,1,1
+t9b_scffcm_fair.csv,satimage|5|0|0.2|8.0,min_dist,3.5864814267302823,3.5864814267302823,1,1
+t9b_scffcm_fair.csv,satimage|5|0|0.2|8.0,mean_acc,0.7232294074640745,0.7232294074640745,1,1
+t9b_scffcm_fair.csv,satimage|5|0|0.2|8.0,worst_acc,0.6059933407325194,0.6059933407325194,1,1
+t9b_scffcm_fair.csv,satimage|5|0|0.2|8.0,fcm_obj,3.730139956367518,3.730139956367518,1,1
+t9b_scffcm_fair.csv,satimage|5|1|0.2|8.0,min_dist,3.61562534785545,3.61562534785545,1,1
+t9b_scffcm_fair.csv,satimage|5|1|0.2|8.0,mean_acc,0.7219398491587736,0.7219398491587736,1,1
+t9b_scffcm_fair.csv,satimage|5|1|0.2|8.0,worst_acc,0.6215316315205327,0.6215316315205327,1,1
+t9b_scffcm_fair.csv,satimage|5|1|0.2|8.0,fcm_obj,3.7297414384861383,3.7297414384861383,1,1
+t9b_scffcm_fair.csv,satimage|5|2|0.2|8.0,min_dist,3.6023296269539418,3.6023296269539418,1,1
+t9b_scffcm_fair.csv,satimage|5|2|0.2|8.0,mean_acc,0.7209343199296265,0.7209343199296265,1,1
+t9b_scffcm_fair.csv,satimage|5|2|0.2|8.0,worst_acc,0.6059933407325194,0.6059933407325194,1,1
+t9b_scffcm_fair.csv,satimage|5|2|0.2|8.0,fcm_obj,3.7295261909255744,3.7295261909255744,1,1
+t9b_scffcm_fair.csv,satimage|5|3|0.2|8.0,min_dist,3.6049644739187205,3.6049644739187205,1,1
+t9b_scffcm_fair.csv,satimage|5|3|0.2|8.0,mean_acc,0.7222260378386017,0.7222260378386017,1,1
+t9b_scffcm_fair.csv,satimage|5|3|0.2|8.0,worst_acc,0.6104328523862376,0.6104328523862376,1,1
+t9b_scffcm_fair.csv,satimage|5|3|0.2|8.0,fcm_obj,3.7294872479327155,3.7294872479327155,1,1
+t9b_scffcm_fair.csv,satimage|5|4|0.2|8.0,min_dist,3.5879942149542337,3.5879942149542337,1,1
+t9b_scffcm_fair.csv,satimage|5|4|0.2|8.0,mean_acc,0.7246373965238606,0.7246373965238606,1,1
+t9b_scffcm_fair.csv,satimage|5|4|0.2|8.0,worst_acc,0.6157556270096463,0.6157556270096463,1,1
+t9b_scffcm_fair.csv,satimage|5|4|0.2|8.0,fcm_obj,3.7303195550717883,3.7303195550717883,1,1
+t9b_scffcm_fair.csv,satimage|5|5|0.2|8.0,min_dist,3.624335068294135,3.624335068294135,1,1
+t9b_scffcm_fair.csv,satimage|5|5|0.2|8.0,mean_acc,0.7161731516478591,0.7161731516478591,1,1
+t9b_scffcm_fair.csv,satimage|5|5|0.2|8.0,worst_acc,0.5980707395498392,0.5980707395498392,1,1
+t9b_scffcm_fair.csv,satimage|5|5|0.2|8.0,fcm_obj,3.729480126968328,3.729480126968328,1,1
+t9b_scffcm_fair.csv,satimage|5|6|0.2|8.0,min_dist,3.628925484842326,3.628925484842326,1,1
+t9b_scffcm_fair.csv,satimage|5|6|0.2|8.0,mean_acc,0.7203980105447628,0.7203980105447628,1,1
+t9b_scffcm_fair.csv,satimage|5|6|0.2|8.0,worst_acc,0.6026637069922308,0.6026637069922308,1,1
+t9b_scffcm_fair.csv,satimage|5|6|0.2|8.0,fcm_obj,3.7297339648725103,3.7297339648725103,1,1
+t9b_scffcm_fair.csv,satimage|5|7|0.2|8.0,min_dist,3.6311472779537297,3.6311472779537297,1,1
+t9b_scffcm_fair.csv,satimage|5|7|0.2|8.0,mean_acc,0.724464564734608,0.724464564734608,1,1
+t9b_scffcm_fair.csv,satimage|5|7|0.2|8.0,worst_acc,0.6159822419533851,0.6159822419533851,1,1
+t9b_scffcm_fair.csv,satimage|5|7|0.2|8.0,fcm_obj,3.7293100697741353,3.7293100697741353,1,1
+t9b_scffcm_fair.csv,satimage|5|8|0.2|8.0,min_dist,3.5801943112883023,3.5801943112883023,1,1
+t9b_scffcm_fair.csv,satimage|5|8|0.2|8.0,mean_acc,0.7209334594018386,0.7209334594018386,1,1
+t9b_scffcm_fair.csv,satimage|5|8|0.2|8.0,worst_acc,0.6148723640399556,0.6148723640399556,1,1
+t9b_scffcm_fair.csv,satimage|5|8|0.2|8.0,fcm_obj,3.730133885618876,3.730133885618876,1,1
+t9b_scffcm_fair.csv,satimage|5|9|0.2|8.0,min_dist,3.5918327411273787,3.5918327411273787,1,1
+t9b_scffcm_fair.csv,satimage|5|9|0.2|8.0,mean_acc,0.7200355630096487,0.7200355630096487,1,1
+t9b_scffcm_fair.csv,satimage|5|9|0.2|8.0,worst_acc,0.5993340732519423,0.5993340732519423,1,1
+t9b_scffcm_fair.csv,satimage|5|9|0.2|8.0,fcm_obj,3.730164458916109,3.730164458916109,1,1
+t9b_scffcm_fair.csv,satimage|5|10|0.2|8.0,min_dist,3.6214636409387855,3.6214636409387855,1,1
+t9b_scffcm_fair.csv,satimage|5|10|0.2|8.0,mean_acc,0.7232449974281938,0.7232449974281938,1,1
+t9b_scffcm_fair.csv,satimage|5|10|0.2|8.0,worst_acc,0.6093247588424437,0.6093247588424437,1,1
+t9b_scffcm_fair.csv,satimage|5|10|0.2|8.0,fcm_obj,3.73012113212988,3.73012113212988,1,1
+t9b_scffcm_fair.csv,satimage|5|11|0.2|8.0,min_dist,3.6043191833332866,3.6043191833332866,1,1
+t9b_scffcm_fair.csv,satimage|5|11|0.2|8.0,mean_acc,0.7234865238979307,0.7234865238979307,1,1
+t9b_scffcm_fair.csv,satimage|5|11|0.2|8.0,worst_acc,0.5837957824639289,0.5837957824639289,1,1
+t9b_scffcm_fair.csv,satimage|5|11|0.2|8.0,fcm_obj,3.730009313735861,3.730009313735861,1,1
+t9b_scffcm_fair.csv,satimage|5|12|0.2|8.0,min_dist,3.5802538133561623,3.5802538133561623,1,1
+t9b_scffcm_fair.csv,satimage|5|12|0.2|8.0,mean_acc,0.7202741698412876,0.7202741698412876,1,1
+t9b_scffcm_fair.csv,satimage|5|12|0.2|8.0,worst_acc,0.6015538290788013,0.6015538290788013,1,1
+t9b_scffcm_fair.csv,satimage|5|12|0.2|8.0,fcm_obj,3.7304796388979686,3.7304796388979686,1,1
+t9b_scffcm_fair.csv,satimage|5|13|0.2|8.0,min_dist,3.6104304725713328,3.6104304725713328,1,1
+t9b_scffcm_fair.csv,satimage|5|13|0.2|8.0,mean_acc,0.7195820351966481,0.7195820351966481,1,1
+t9b_scffcm_fair.csv,satimage|5|13|0.2|8.0,worst_acc,0.6205787781350482,0.6205787781350482,1,1
+t9b_scffcm_fair.csv,satimage|5|13|0.2|8.0,fcm_obj,3.7296149316697775,3.7296149316697775,1,1
+t9b_scffcm_fair.csv,satimage|5|14|0.2|8.0,min_dist,3.6201582996327577,3.6201582996327577,1,1
+t9b_scffcm_fair.csv,satimage|5|14|0.2|8.0,mean_acc,0.7225869682145436,0.7225869682145436,1,1
+t9b_scffcm_fair.csv,satimage|5|14|0.2|8.0,worst_acc,0.6082130965593785,0.6082130965593785,1,1
+t9b_scffcm_fair.csv,satimage|5|14|0.2|8.0,fcm_obj,3.7296007747337425,3.7296007747337425,1,1
+t9b_scffcm_fair.csv,satimage|5|15|0.2|8.0,min_dist,3.579031764614056,3.579031764614056,1,1
+t9b_scffcm_fair.csv,satimage|5|15|0.2|8.0,mean_acc,0.7209895002339409,0.7209895002339409,1,1
+t9b_scffcm_fair.csv,satimage|5|15|0.2|8.0,worst_acc,0.6015538290788013,0.6015538290788013,1,1
+t9b_scffcm_fair.csv,satimage|5|15|0.2|8.0,fcm_obj,3.7301130382347263,3.7301130382347263,1,1
+t9b_scffcm_fair.csv,satimage|5|16|0.2|8.0,min_dist,3.5836654542108883,3.5836654542108883,1,1
+t9b_scffcm_fair.csv,satimage|5|16|0.2|8.0,mean_acc,0.7235863652955035,0.7235863652955035,1,1
+t9b_scffcm_fair.csv,satimage|5|16|0.2|8.0,worst_acc,0.6104328523862376,0.6104328523862376,1,1
+t9b_scffcm_fair.csv,satimage|5|16|0.2|8.0,fcm_obj,3.7300033742407988,3.7300033742407988,1,1
+t9b_scffcm_fair.csv,satimage|5|17|0.2|8.0,min_dist,3.595658223777051,3.595658223777051,1,1
+t9b_scffcm_fair.csv,satimage|5|17|0.2|8.0,mean_acc,0.7199174543202715,0.7199174543202715,1,1
+t9b_scffcm_fair.csv,satimage|5|17|0.2|8.0,worst_acc,0.6003210272873194,0.6003210272873194,1,1
+t9b_scffcm_fair.csv,satimage|5|17|0.2|8.0,fcm_obj,3.7298323063718057,3.7298323063718057,1,1
+t9b_scffcm_fair.csv,satimage|5|18|0.2|8.0,min_dist,3.595407328167785,3.595407328167785,1,1
+t9b_scffcm_fair.csv,satimage|5|18|0.2|8.0,mean_acc,0.7180892102453709,0.7180892102453709,1,1
+t9b_scffcm_fair.csv,satimage|5|18|0.2|8.0,worst_acc,0.609322974472808,0.609322974472808,1,1
+t9b_scffcm_fair.csv,satimage|5|18|0.2|8.0,fcm_obj,3.730353743984504,3.730353743984504,1,1
+t9b_scffcm_fair.csv,satimage|5|19|0.2|8.0,min_dist,3.5908402859940423,3.5908402859940423,1,1
+t9b_scffcm_fair.csv,satimage|5|19|0.2|8.0,mean_acc,0.7262597025627874,0.7262597025627874,1,1
+t9b_scffcm_fair.csv,satimage|5|19|0.2|8.0,worst_acc,0.6281908990011099,0.6281908990011099,1,1
+t9b_scffcm_fair.csv,satimage|5|19|0.2|8.0,fcm_obj,3.7302492833397336,3.7302492833397336,1,1
+t9b_scffcm_fair.csv,pendigits|5|0|1.0|4.0,min_dist,1.9061922201110568,1.9061922201110568,1,1
+t9b_scffcm_fair.csv,pendigits|5|0|1.0|4.0,mean_acc,0.7400648099840821,0.7400648099840821,1,1
+t9b_scffcm_fair.csv,pendigits|5|0|1.0|4.0,worst_acc,0.5562730627306273,0.5562730627306273,1,1
+t9b_scffcm_fair.csv,pendigits|5|0|1.0|4.0,fcm_obj,3.832699415053263,3.832699415053263,1,1
+t9b_scffcm_fair.csv,pendigits|5|1|1.0|4.0,min_dist,1.9066927510279303,1.9066927510279303,1,1
+t9b_scffcm_fair.csv,pendigits|5|1|1.0|4.0,mean_acc,0.7399006434682787,0.7399006434682787,1,1
+t9b_scffcm_fair.csv,pendigits|5|1|1.0|4.0,worst_acc,0.5636531365313653,0.5636531365313653,1,1
+t9b_scffcm_fair.csv,pendigits|5|1|1.0|4.0,fcm_obj,3.8326935553543517,3.8326935553543517,1,1
+t9b_scffcm_fair.csv,pendigits|5|2|1.0|4.0,min_dist,1.1712536983760693,1.1712536983760693,1,1
+t9b_scffcm_fair.csv,pendigits|5|2|1.0|4.0,mean_acc,0.7291931717980018,0.7291931717980018,1,1
+t9b_scffcm_fair.csv,pendigits|5|2|1.0|4.0,worst_acc,0.6328413284132841,0.6328413284132841,1,1
+t9b_scffcm_fair.csv,pendigits|5|2|1.0|4.0,fcm_obj,3.9067439481955057,3.9067439481955057,1,1
+t9b_scffcm_fair.csv,pendigits|5|3|1.0|4.0,min_dist,1.9065423686858958,1.9065423686858958,1,1
+t9b_scffcm_fair.csv,pendigits|5|3|1.0|4.0,mean_acc,0.7398750627153565,0.7398750627153565,1,1
+t9b_scffcm_fair.csv,pendigits|5|3|1.0|4.0,worst_acc,0.5571955719557196,0.5571955719557196,1,1
+t9b_scffcm_fair.csv,pendigits|5|3|1.0|4.0,fcm_obj,3.832691343601163,3.832691343601163,1,1
+t9b_scffcm_fair.csv,pendigits|5|4|1.0|4.0,min_dist,1.9064360638830133,1.9064360638830133,1,1
+t9b_scffcm_fair.csv,pendigits|5|4|1.0|4.0,mean_acc,0.7399673521214006,0.7399673521214006,1,1
+t9b_scffcm_fair.csv,pendigits|5|4|1.0|4.0,worst_acc,0.5387453874538746,0.5387453874538746,1,1
+t9b_scffcm_fair.csv,pendigits|5|4|1.0|4.0,fcm_obj,3.832690034722532,3.832690034722532,1,1
+t9b_scffcm_fair.csv,pendigits|5|5|1.0|4.0,min_dist,1.9065064316313935,1.9065064316313935,1,1
+t9b_scffcm_fair.csv,pendigits|5|5|1.0|4.0,mean_acc,0.7400922166392667,0.7400922166392667,1,1
+t9b_scffcm_fair.csv,pendigits|5|5|1.0|4.0,worst_acc,0.5535055350553506,0.5535055350553506,1,1
+t9b_scffcm_fair.csv,pendigits|5|5|1.0|4.0,fcm_obj,3.832696615830489,3.832696615830489,1,1
+t9b_scffcm_fair.csv,pendigits|5|6|1.0|4.0,min_dist,1.90668225711775,1.90668225711775,1,1
+t9b_scffcm_fair.csv,pendigits|5|6|1.0|4.0,mean_acc,0.7398350724359954,0.7398350724359954,1,1
+t9b_scffcm_fair.csv,pendigits|5|6|1.0|4.0,worst_acc,0.5304428044280443,0.5304428044280443,1,1
+t9b_scffcm_fair.csv,pendigits|5|6|1.0|4.0,fcm_obj,3.83268959125116,3.83268959125116,1,1
+t9b_scffcm_fair.csv,pendigits|5|7|1.0|4.0,min_dist,1.9676855673822857,1.9676855673822857,1,1
+t9b_scffcm_fair.csv,pendigits|5|7|1.0|4.0,mean_acc,0.7796231549148841,0.7796231549148841,1,1
+t9b_scffcm_fair.csv,pendigits|5|7|1.0|4.0,worst_acc,0.683579335793358,0.683579335793358,1,1
+t9b_scffcm_fair.csv,pendigits|5|7|1.0|4.0,fcm_obj,3.894294536078937,3.894294536078937,1,1
+t9b_scffcm_fair.csv,pendigits|5|8|1.0|4.0,min_dist,1.9069845995857013,1.9069845995857013,1,1
+t9b_scffcm_fair.csv,pendigits|5|8|1.0|4.0,mean_acc,0.7398740438816626,0.7398740438816626,1,1
+t9b_scffcm_fair.csv,pendigits|5|8|1.0|4.0,worst_acc,0.5507380073800738,0.5507380073800738,1,1
+t9b_scffcm_fair.csv,pendigits|5|8|1.0|4.0,fcm_obj,3.832689266730941,3.832689266730941,1,1
+t9b_scffcm_fair.csv,pendigits|5|9|1.0|4.0,min_dist,1.9070332827649472,1.9070332827649472,1,1
+t9b_scffcm_fair.csv,pendigits|5|9|1.0|4.0,mean_acc,0.7398402480643818,0.7398402480643818,1,1
+t9b_scffcm_fair.csv,pendigits|5|9|1.0|4.0,worst_acc,0.5461254612546126,0.5461254612546126,1,1
+t9b_scffcm_fair.csv,pendigits|5|9|1.0|4.0,fcm_obj,3.8326907655803404,3.8326907655803404,1,1
+t9b_scffcm_fair.csv,pendigits|5|10|1.0|4.0,min_dist,1.9067324820985632,1.9067324820985632,1,1
+t9b_scffcm_fair.csv,pendigits|5|10|1.0|4.0,mean_acc,0.7396626616715429,0.7396626616715429,1,1
+t9b_scffcm_fair.csv,pendigits|5|10|1.0|4.0,worst_acc,0.5387453874538746,0.5387453874538746,1,1
+t9b_scffcm_fair.csv,pendigits|5|10|1.0|4.0,fcm_obj,3.832688173936478,3.832688173936478,1,1
+t9b_scffcm_fair.csv,pendigits|5|11|1.0|4.0,min_dist,1.9068696978825281,1.9068696978825281,1,1
+t9b_scffcm_fair.csv,pendigits|5|11|1.0|4.0,mean_acc,0.7397937411614323,0.7397937411614323,1,1
+t9b_scffcm_fair.csv,pendigits|5|11|1.0|4.0,worst_acc,0.5322878228782287,0.5322878228782287,1,1
+t9b_scffcm_fair.csv,pendigits|5|11|1.0|4.0,fcm_obj,3.8326916496662102,3.8326916496662102,1,1
+t9b_scffcm_fair.csv,pendigits|5|12|1.0|4.0,min_dist,1.9681452458060242,1.9681452458060242,1,1
+t9b_scffcm_fair.csv,pendigits|5|12|1.0|4.0,mean_acc,0.779554230150015,0.779554230150015,1,1
+t9b_scffcm_fair.csv,pendigits|5|12|1.0|4.0,worst_acc,0.6642066420664207,0.6642066420664207,1,1
+t9b_scffcm_fair.csv,pendigits|5|12|1.0|4.0,fcm_obj,3.894321839669581,3.894321839669581,1,1
+t9b_scffcm_fair.csv,pendigits|5|13|1.0|4.0,min_dist,1.7139744392947551,1.7139744392947551,1,1
+t9b_scffcm_fair.csv,pendigits|5|13|1.0|4.0,mean_acc,0.7620283923451264,0.7620283923451264,1,1
+t9b_scffcm_fair.csv,pendigits|5|13|1.0|4.0,worst_acc,0.6042435424354243,0.6042435424354243,1,1
+t9b_scffcm_fair.csv,pendigits|5|13|1.0|4.0,fcm_obj,3.904042266487522,3.904042266487522,1,1
+t9b_scffcm_fair.csv,pendigits|5|14|1.0|4.0,min_dist,1.9066141028105321,1.9066141028105321,1,1
+t9b_scffcm_fair.csv,pendigits|5|14|1.0|4.0,mean_acc,0.7398975962512244,0.7398975962512244,1,1
+t9b_scffcm_fair.csv,pendigits|5|14|1.0|4.0,worst_acc,0.5396678966789668,0.5396678966789668,1,1
+t9b_scffcm_fair.csv,pendigits|5|14|1.0|4.0,fcm_obj,3.832691226284634,3.832691226284634,1,1
+t9b_scffcm_fair.csv,pendigits|5|15|1.0|4.0,min_dist,1.9677366395931775,1.9677366395931775,1,1
+t9b_scffcm_fair.csv,pendigits|5|15|1.0|4.0,mean_acc,0.7788610196178352,0.7788610196178352,1,1
+t9b_scffcm_fair.csv,pendigits|5|15|1.0|4.0,worst_acc,0.6669741697416974,0.6669741697416974,1,1
+t9b_scffcm_fair.csv,pendigits|5|15|1.0|4.0,fcm_obj,3.8943748022362685,3.8943748022362685,1,1
+t9b_scffcm_fair.csv,pendigits|5|16|1.0|4.0,min_dist,1.9681728608857905,1.9681728608857905,1,1
+t9b_scffcm_fair.csv,pendigits|5|16|1.0|4.0,mean_acc,0.7226140104753852,0.7226140104753852,1,1
+t9b_scffcm_fair.csv,pendigits|5|16|1.0|4.0,worst_acc,0.5083025830258303,0.5083025830258303,1,1
+t9b_scffcm_fair.csv,pendigits|5|16|1.0|4.0,fcm_obj,4.043154146463371,4.043154146463371,1,1
+t9b_scffcm_fair.csv,pendigits|5|17|1.0|4.0,min_dist,1.9061850109016527,1.9061850109016527,1,1
+t9b_scffcm_fair.csv,pendigits|5|17|1.0|4.0,mean_acc,0.7399346913764442,0.7399346913764442,1,1
+t9b_scffcm_fair.csv,pendigits|5|17|1.0|4.0,worst_acc,0.5627306273062731,0.5627306273062731,1,1
+t9b_scffcm_fair.csv,pendigits|5|17|1.0|4.0,fcm_obj,3.832690519609896,3.832690519609896,1,1
+t9b_scffcm_fair.csv,pendigits|5|18|1.0|4.0,min_dist,1.712912675609437,1.712912675609437,1,1
+t9b_scffcm_fair.csv,pendigits|5|18|1.0|4.0,mean_acc,0.7619464607097902,0.7619464607097902,1,1
+t9b_scffcm_fair.csv,pendigits|5|18|1.0|4.0,worst_acc,0.5857933579335793,0.5857933579335793,1,1
+t9b_scffcm_fair.csv,pendigits|5|18|1.0|4.0,fcm_obj,3.904043722975758,3.904043722975758,1,1
+t9b_scffcm_fair.csv,pendigits|5|19|1.0|4.0,min_dist,1.9070928813865524,1.9070928813865524,1,1
+t9b_scffcm_fair.csv,pendigits|5|19|1.0|4.0,mean_acc,0.7397236805233223,0.7397236805233223,1,1
+t9b_scffcm_fair.csv,pendigits|5|19|1.0|4.0,worst_acc,0.5415129151291513,0.5415129151291513,1,1
+t9b_scffcm_fair.csv,pendigits|5|19|1.0|4.0,fcm_obj,3.8326904866347635,3.8326904866347635,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|0|0.5|4.0,min_dist,1.9175287308913485,1.9175287308913485,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|0|0.5|4.0,mean_acc,0.7783419702770726,0.7783419702770726,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|0|0.5|4.0,worst_acc,0.43333333333333335,0.43333333333333335,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|0|0.5|4.0,fcm_obj,7.719783680574374,7.719783680574374,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|1|0.5|4.0,min_dist,1.9196768269079414,1.9196768269079414,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|1|0.5|4.0,mean_acc,0.7794819253057509,0.7794819253057509,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|1|0.5|4.0,worst_acc,0.5388888888888889,0.5388888888888889,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|1|0.5|4.0,fcm_obj,7.721140585379723,7.721140585379723,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|2|0.5|4.0,min_dist,1.856142661175712,1.856142661175712,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|2|0.5|4.0,mean_acc,0.7726522478654464,0.7726522478654464,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|2|0.5|4.0,worst_acc,0.5833333333333334,0.5833333333333334,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|2|0.5|4.0,fcm_obj,7.74175658444763,7.74175658444763,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|3|0.5|4.0,min_dist,1.948442475742535,1.948442475742535,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|3|0.5|4.0,mean_acc,0.780764818719858,0.780764818719858,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|3|0.5|4.0,worst_acc,0.6214689265536724,0.6214689265536724,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|3|0.5|4.0,fcm_obj,7.736813831957148,7.736813831957148,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|4|0.5|4.0,min_dist,1.9670476913753874,1.9670476913753874,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|4|0.5|4.0,mean_acc,0.8105767844023459,0.8105767844023459,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|4|0.5|4.0,worst_acc,0.6555555555555556,0.6555555555555556,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|4|0.5|4.0,fcm_obj,7.738168384776718,7.738168384776718,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|5|0.5|4.0,min_dist,1.880913072530811,1.880913072530811,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|5|0.5|4.0,mean_acc,0.7589102182933658,0.7589102182933658,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|5|0.5|4.0,worst_acc,0.42777777777777776,0.42777777777777776,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|5|0.5|4.0,fcm_obj,7.703792000646147,7.703792000646147,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|6|0.5|4.0,min_dist,1.968358217577596,1.968358217577596,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|6|0.5|4.0,mean_acc,0.8083415540266564,0.8083415540266564,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|6|0.5|4.0,worst_acc,0.6888888888888889,0.6888888888888889,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|6|0.5|4.0,fcm_obj,7.738879827216593,7.738879827216593,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|7|0.5|4.0,min_dist,1.9496276417137874,1.9496276417137874,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|7|0.5|4.0,mean_acc,0.7846102068935507,0.7846102068935507,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|7|0.5|4.0,worst_acc,0.632768361581921,0.632768361581921,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|7|0.5|4.0,fcm_obj,7.737273533464656,7.737273533464656,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|8|0.5|4.0,min_dist,1.877702276346261,1.877702276346261,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|8|0.5|4.0,mean_acc,0.7218992854266431,0.7218992854266431,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|8|0.5|4.0,worst_acc,0.5,0.5,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|8|0.5|4.0,fcm_obj,7.701194688023108,7.701194688023108,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|9|0.5|4.0,min_dist,1.81966286178708,1.81966286178708,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|9|0.5|4.0,mean_acc,0.754771408344521,0.754771408344521,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|9|0.5|4.0,worst_acc,0.4166666666666667,0.4166666666666667,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|9|0.5|4.0,fcm_obj,7.699139055059042,7.699139055059042,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|10|0.5|4.0,min_dist,1.906683291205537,1.906683291205537,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|10|0.5|4.0,mean_acc,0.7499923106103925,0.7499923106103925,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|10|0.5|4.0,worst_acc,0.5111111111111111,0.5111111111111111,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|10|0.5|4.0,fcm_obj,7.691634784207657,7.691634784207657,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|11|0.5|4.0,min_dist,1.923215761175364,1.923215761175364,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|11|0.5|4.0,mean_acc,0.7805888548460882,0.7805888548460882,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|11|0.5|4.0,worst_acc,0.4888888888888889,0.4888888888888889,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|11|0.5|4.0,fcm_obj,7.723169284521144,7.723169284521144,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|12|0.5|4.0,min_dist,1.8893766973509931,1.8893766973509931,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|12|0.5|4.0,mean_acc,0.7628458452165149,0.7628458452165149,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|12|0.5|4.0,worst_acc,0.4111111111111111,0.4111111111111111,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|12|0.5|4.0,fcm_obj,7.705146398862991,7.705146398862991,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|13|0.5|4.0,min_dist,1.9065020851377954,1.9065020851377954,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|13|0.5|4.0,mean_acc,0.7499671295647167,0.7499671295647167,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|13|0.5|4.0,worst_acc,0.5388888888888889,0.5388888888888889,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|13|0.5|4.0,fcm_obj,7.691632036785124,7.691632036785124,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|14|0.5|4.0,min_dist,1.7917148851633524,1.7917148851633524,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|14|0.5|4.0,mean_acc,0.7420900409172411,0.7420900409172411,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|14|0.5|4.0,worst_acc,0.42777777777777776,0.42777777777777776,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|14|0.5|4.0,fcm_obj,7.7198301159973015,7.7198301159973015,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|15|0.5|4.0,min_dist,2.1213346093663454,2.1213346093663454,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|15|0.5|4.0,mean_acc,0.7536565840126664,0.7536565840126664,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|15|0.5|4.0,worst_acc,0.5055555555555555,0.5055555555555555,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|15|0.5|4.0,fcm_obj,7.698632172350647,7.698632172350647,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|16|0.5|4.0,min_dist,1.858419201442048,1.858419201442048,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|16|0.5|4.0,mean_acc,0.7178750131983864,0.7178750131983864,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|16|0.5|4.0,worst_acc,0.4888888888888889,0.4888888888888889,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|16|0.5|4.0,fcm_obj,7.701009072145602,7.701009072145602,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|17|0.5|4.0,min_dist,1.905379448842758,1.905379448842758,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|17|0.5|4.0,mean_acc,0.7498453489228569,0.7498453489228569,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|17|0.5|4.0,worst_acc,0.5333333333333333,0.5333333333333333,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|17|0.5|4.0,fcm_obj,7.6916400922878525,7.6916400922878525,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|18|0.5|4.0,min_dist,1.9524598337426013,1.9524598337426013,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|18|0.5|4.0,mean_acc,0.782940340789098,0.782940340789098,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|18|0.5|4.0,worst_acc,0.576271186440678,0.576271186440678,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|18|0.5|4.0,fcm_obj,7.737087673789509,7.737087673789509,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|19|0.5|4.0,min_dist,1.9661999115775723,1.9661999115775723,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|19|0.5|4.0,mean_acc,0.8083894449056844,0.8083894449056844,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|19|0.5|4.0,worst_acc,0.7055555555555556,0.7055555555555556,1,1
+t9b_scffcm_fair.csv,digits_pca16|5|19|0.5|4.0,fcm_obj,7.739571399482865,7.739571399482865,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|0|0.5|1.0,min_dist,2.4986273916286597,2.4986273916286597,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|0|0.5|1.0,mean_acc,0.6938443612457315,0.6938443612457315,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|0|0.5|1.0,worst_acc,0.45054945054945056,0.45054945054945056,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|0|0.5|1.0,fcm_obj,24.160077355195018,24.160077355195018,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|1|0.5|1.0,min_dist,2.498635632810917,2.498635632810917,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|1|0.5|1.0,mean_acc,0.7650052215957701,0.7650052215957701,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|1|0.5|1.0,worst_acc,0.5722222222222222,0.5722222222222222,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|1|0.5|1.0,fcm_obj,24.061597472481974,24.061597472481974,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|2|0.5|1.0,min_dist,2.3485520462268137,2.3485520462268137,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|2|0.5|1.0,mean_acc,0.6355887408849104,0.6355887408849104,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|2|0.5|1.0,worst_acc,0.43333333333333335,0.43333333333333335,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|2|0.5|1.0,fcm_obj,24.12909474648603,24.12909474648603,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|3|0.5|1.0,min_dist,2.357782885910704,2.357782885910704,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|3|0.5|1.0,mean_acc,0.7510996259255478,0.7510996259255478,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|3|0.5|1.0,worst_acc,0.5795454545454546,0.5795454545454546,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|3|0.5|1.0,fcm_obj,24.02875310586178,24.02875310586178,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|4|0.5|1.0,min_dist,2.3431677271641966,2.3431677271641966,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|4|0.5|1.0,mean_acc,0.7604175297686704,0.7604175297686704,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|4|0.5|1.0,worst_acc,0.55,0.55,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|4|0.5|1.0,fcm_obj,24.533728559157314,24.533728559157314,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|5|0.5|1.0,min_dist,2.2575410237273323,2.2575410237273323,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|5|0.5|1.0,mean_acc,0.6889101750002589,0.6889101750002589,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|5|0.5|1.0,worst_acc,0.47513812154696133,0.47513812154696133,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|5|0.5|1.0,fcm_obj,24.19715208195045,24.19715208195045,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|6|0.5|1.0,min_dist,2.3883173527848145,2.3883173527848145,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|6|0.5|1.0,mean_acc,0.8072449257851317,0.8072449257851317,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|6|0.5|1.0,worst_acc,0.6666666666666666,0.6666666666666666,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|6|0.5|1.0,fcm_obj,23.939194294659405,23.939194294659405,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|7|0.5|1.0,min_dist,2.4809763005657994,2.4809763005657994,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|7|0.5|1.0,mean_acc,0.7876973751357339,0.7876973751357339,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|7|0.5|1.0,worst_acc,0.6777777777777778,0.6777777777777778,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|7|0.5|1.0,fcm_obj,24.00613372492727,24.00613372492727,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|8|0.5|1.0,min_dist,2.2670673695662757,2.2670673695662757,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|8|0.5|1.0,mean_acc,0.730307646552442,0.730307646552442,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|8|0.5|1.0,worst_acc,0.42777777777777776,0.42777777777777776,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|8|0.5|1.0,fcm_obj,23.978063042704097,23.978063042704097,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|9|0.5|1.0,min_dist,2.3905416796938694,2.3905416796938694,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|9|0.5|1.0,mean_acc,0.7918670214433403,0.7918670214433403,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|9|0.5|1.0,worst_acc,0.6444444444444445,0.6444444444444445,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|9|0.5|1.0,fcm_obj,23.92278937096515,23.92278937096515,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|10|0.5|1.0,min_dist,2.2580746560277363,2.2580746560277363,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|10|0.5|1.0,mean_acc,0.6995828275002289,0.6995828275002289,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|10|0.5|1.0,worst_acc,0.49444444444444446,0.49444444444444446,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|10|0.5|1.0,fcm_obj,24.025631014232214,24.025631014232214,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|11|0.5|1.0,min_dist,2.638819777832077,2.638819777832077,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|11|0.5|1.0,mean_acc,0.7495339764030791,0.7495339764030791,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|11|0.5|1.0,worst_acc,0.4888888888888889,0.4888888888888889,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|11|0.5|1.0,fcm_obj,24.226222859889454,24.226222859889454,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|12|0.5|1.0,min_dist,2.282015409670227,2.282015409670227,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|12|0.5|1.0,mean_acc,0.7008452939786756,0.7008452939786756,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|12|0.5|1.0,worst_acc,0.4444444444444444,0.4444444444444444,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|12|0.5|1.0,fcm_obj,23.970254161599968,23.970254161599968,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|13|0.5|1.0,min_dist,2.3979583694108038,2.3979583694108038,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|13|0.5|1.0,mean_acc,0.8258249094934046,0.8258249094934046,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|13|0.5|1.0,worst_acc,0.7055555555555556,0.7055555555555556,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|13|0.5|1.0,fcm_obj,23.92679073428095,23.92679073428095,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|14|0.5|1.0,min_dist,2.270601287548265,2.270601287548265,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|14|0.5|1.0,mean_acc,0.7036702160875543,0.7036702160875543,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|14|0.5|1.0,worst_acc,0.45,0.45,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|14|0.5|1.0,fcm_obj,23.898929115648404,23.898929115648404,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|15|0.5|1.0,min_dist,2.408657722703798,2.408657722703798,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|15|0.5|1.0,mean_acc,0.7358714501513878,0.7358714501513878,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|15|0.5|1.0,worst_acc,0.5055555555555555,0.5055555555555555,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|15|0.5|1.0,fcm_obj,23.974047057790642,23.974047057790642,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|16|0.5|1.0,min_dist,2.4852246988404687,2.4852246988404687,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|16|0.5|1.0,mean_acc,0.7675043831457583,0.7675043831457583,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|16|0.5|1.0,worst_acc,0.6222222222222222,0.6222222222222222,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|16|0.5|1.0,fcm_obj,23.908748920507374,23.908748920507374,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|17|0.5|1.0,min_dist,2.20551562271818,2.20551562271818,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|17|0.5|1.0,mean_acc,0.727499396247619,0.727499396247619,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|17|0.5|1.0,worst_acc,0.4111111111111111,0.4111111111111111,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|17|0.5|1.0,fcm_obj,24.080389672376956,24.080389672376956,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|18|0.5|1.0,min_dist,2.50231642804825,2.50231642804825,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|18|0.5|1.0,mean_acc,0.6840991638293671,0.6840991638293671,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|18|0.5|1.0,worst_acc,0.4293785310734463,0.4293785310734463,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|18|0.5|1.0,fcm_obj,24.117522880279,24.117522880279,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|19|0.5|1.0,min_dist,2.4091376242824167,2.4091376242824167,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|19|0.5|1.0,mean_acc,0.7598727810548352,0.7598727810548352,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|19|0.5|1.0,worst_acc,0.5333333333333333,0.5333333333333333,1,1
+t9b_scffcm_fair.csv,digits_pca32|5|19|0.5|1.0,fcm_obj,24.042914663167174,24.042914663167174,1,1
+t9b_scffcm_fair.csv,letter|5|0|4.0|1.0,min_dist,0.8150979155165023,0.8150979155165023,1,1
+t9b_scffcm_fair.csv,letter|5|0|4.0|1.0,mean_acc,0.28826708735192563,0.28826708735192563,1,1
+t9b_scffcm_fair.csv,letter|5|0|4.0|1.0,worst_acc,0.18992718446601942,0.18992718446601942,1,1
+t9b_scffcm_fair.csv,letter|5|0|4.0|1.0,fcm_obj,4.997554784114557,4.997554784114557,1,1
+t9b_scffcm_fair.csv,letter|5|1|4.0|1.0,min_dist,1.3873016671588196,1.3873016671588196,1,1
+t9b_scffcm_fair.csv,letter|5|1|4.0|1.0,mean_acc,0.313822853723707,0.313822853723707,1,1
+t9b_scffcm_fair.csv,letter|5|1|4.0|1.0,worst_acc,0.21905339805825244,0.21905339805825244,1,1
+t9b_scffcm_fair.csv,letter|5|1|4.0|1.0,fcm_obj,4.9240716305766,4.9240716305766,1,1
+t9b_scffcm_fair.csv,letter|5|2|4.0|1.0,min_dist,1.15373528005281,1.15373528005281,1,1
+t9b_scffcm_fair.csv,letter|5|2|4.0|1.0,mean_acc,0.29504574281305296,0.29504574281305296,1,1
+t9b_scffcm_fair.csv,letter|5|2|4.0|1.0,worst_acc,0.19842233009708737,0.19842233009708737,1,1
+t9b_scffcm_fair.csv,letter|5|2|4.0|1.0,fcm_obj,4.891729009539416,4.891729009539416,1,1
+t9b_scffcm_fair.csv,letter|5|3|4.0|1.0,min_dist,1.0186313983723403,1.0186313983723403,1,1
+t9b_scffcm_fair.csv,letter|5|3|4.0|1.0,mean_acc,0.2934312482574558,0.2934312482574558,1,1
+t9b_scffcm_fair.csv,letter|5|3|4.0|1.0,worst_acc,0.20024271844660194,0.20024271844660194,1,1
+t9b_scffcm_fair.csv,letter|5|3|4.0|1.0,fcm_obj,4.908129428174356,4.908129428174356,1,1
+t9b_scffcm_fair.csv,letter|5|4|4.0|1.0,min_dist,1.325499095695624,1.325499095695624,1,1
+t9b_scffcm_fair.csv,letter|5|4|4.0|1.0,mean_acc,0.29202469170532275,0.29202469170532275,1,1
+t9b_scffcm_fair.csv,letter|5|4|4.0|1.0,worst_acc,0.2154126213592233,0.2154126213592233,1,1
+t9b_scffcm_fair.csv,letter|5|4|4.0|1.0,fcm_obj,4.885846743451101,4.885846743451101,1,1
+t9b_scffcm_fair.csv,letter|5|5|4.0|1.0,min_dist,1.5305688972611387,1.5305688972611387,1,1
+t9b_scffcm_fair.csv,letter|5|5|4.0|1.0,mean_acc,0.2834355625808751,0.2834355625808751,1,1
+t9b_scffcm_fair.csv,letter|5|5|4.0|1.0,worst_acc,0.2020631067961165,0.2020631067961165,1,1
+t9b_scffcm_fair.csv,letter|5|5|4.0|1.0,fcm_obj,4.88363323421515,4.88363323421515,1,1
+t9b_scffcm_fair.csv,letter|5|6|4.0|1.0,min_dist,1.5973723768034147,1.5973723768034147,1,1
+t9b_scffcm_fair.csv,letter|5|6|4.0|1.0,mean_acc,0.28953753262906357,0.28953753262906357,1,1
+t9b_scffcm_fair.csv,letter|5|6|4.0|1.0,worst_acc,0.21419902912621358,0.21419902912621358,1,1
+t9b_scffcm_fair.csv,letter|5|6|4.0|1.0,fcm_obj,4.886585686939329,4.886585686939329,1,1
+t9b_scffcm_fair.csv,letter|5|7|4.0|1.0,min_dist,0.5708004974210193,0.5708004974210193,1,1
+t9b_scffcm_fair.csv,letter|5|7|4.0|1.0,mean_acc,0.29752177255560575,0.29752177255560575,1,1
+t9b_scffcm_fair.csv,letter|5|7|4.0|1.0,worst_acc,0.18810679611650485,0.18810679611650485,1,1
+t9b_scffcm_fair.csv,letter|5|7|4.0|1.0,fcm_obj,4.901873066448998,4.901873066448998,1,1
+t9b_scffcm_fair.csv,letter|5|8|4.0|1.0,min_dist,1.417827009621558,1.417827009621558,1,1
+t9b_scffcm_fair.csv,letter|5|8|4.0|1.0,mean_acc,0.3051030039175785,0.3051030039175785,1,1
+t9b_scffcm_fair.csv,letter|5|8|4.0|1.0,worst_acc,0.21905339805825244,0.21905339805825244,1,1
+t9b_scffcm_fair.csv,letter|5|8|4.0|1.0,fcm_obj,4.871833690331861,4.871833690331861,1,1
+t9b_scffcm_fair.csv,letter|5|9|4.0|1.0,min_dist,0.9066734199026975,0.9066734199026975,1,1
+t9b_scffcm_fair.csv,letter|5|9|4.0|1.0,mean_acc,0.27985984820474563,0.27985984820474563,1,1
+t9b_scffcm_fair.csv,letter|5|9|4.0|1.0,worst_acc,0.20449029126213591,0.20449029126213591,1,1
+t9b_scffcm_fair.csv,letter|5|9|4.0|1.0,fcm_obj,4.9027188854338295,4.9027188854338295,1,1
+t9b_scffcm_fair.csv,letter|5|10|4.0|1.0,min_dist,1.2728747920040615,1.2728747920040615,1,1
+t9b_scffcm_fair.csv,letter|5|10|4.0|1.0,mean_acc,0.2962726165921251,0.2962726165921251,1,1
+t9b_scffcm_fair.csv,letter|5|10|4.0|1.0,worst_acc,0.20509708737864077,0.20509708737864077,1,1
+t9b_scffcm_fair.csv,letter|5|10|4.0|1.0,fcm_obj,4.889854303490401,4.889854303490401,1,1
+t9b_scffcm_fair.csv,letter|5|11|4.0|1.0,min_dist,0.9262163347964192,0.9262163347964192,1,1
+t9b_scffcm_fair.csv,letter|5|11|4.0|1.0,mean_acc,0.2992159667342043,0.2992159667342043,1,1
+t9b_scffcm_fair.csv,letter|5|11|4.0|1.0,worst_acc,0.18992718446601942,0.18992718446601942,1,1
+t9b_scffcm_fair.csv,letter|5|11|4.0|1.0,fcm_obj,4.9899588892297695,4.9899588892297695,1,1
+t9b_scffcm_fair.csv,letter|5|12|4.0|1.0,min_dist,1.4539807559600648,1.4539807559600648,1,1
+t9b_scffcm_fair.csv,letter|5|12|4.0|1.0,mean_acc,0.31816427904162115,0.31816427904162115,1,1
+t9b_scffcm_fair.csv,letter|5|12|4.0|1.0,worst_acc,0.2008495145631068,0.2008495145631068,1,1
+t9b_scffcm_fair.csv,letter|5|12|4.0|1.0,fcm_obj,4.907822450611573,4.907822450611573,1,1
+t9b_scffcm_fair.csv,letter|5|13|4.0|1.0,min_dist,0.8379846458770028,0.8379846458770028,1,1
+t9b_scffcm_fair.csv,letter|5|13|4.0|1.0,mean_acc,0.2934680270804838,0.2934680270804838,1,1
+t9b_scffcm_fair.csv,letter|5|13|4.0|1.0,worst_acc,0.19781553398058252,0.19781553398058252,1,1
+t9b_scffcm_fair.csv,letter|5|13|4.0|1.0,fcm_obj,4.901633415066746,4.901633415066746,1,1
+t9b_scffcm_fair.csv,letter|5|14|4.0|1.0,min_dist,1.5468200348526482,1.5468200348526482,1,1
+t9b_scffcm_fair.csv,letter|5|14|4.0|1.0,mean_acc,0.2972599850262621,0.2972599850262621,1,1
+t9b_scffcm_fair.csv,letter|5|14|4.0|1.0,worst_acc,0.20145631067961164,0.20145631067961164,1,1
+t9b_scffcm_fair.csv,letter|5|14|4.0|1.0,fcm_obj,4.901558698392648,4.901558698392648,1,1
+t9b_scffcm_fair.csv,letter|5|15|4.0|1.0,min_dist,1.4226744023979707,1.4226744023979707,1,1
+t9b_scffcm_fair.csv,letter|5|15|4.0|1.0,mean_acc,0.30902126005959996,0.30902126005959996,1,1
+t9b_scffcm_fair.csv,letter|5|15|4.0|1.0,worst_acc,0.18992718446601942,0.18992718446601942,1,1
+t9b_scffcm_fair.csv,letter|5|15|4.0|1.0,fcm_obj,4.918130200288684,4.918130200288684,1,1
+t9b_scffcm_fair.csv,letter|5|16|4.0|1.0,min_dist,1.3502753072832903,1.3502753072832903,1,1
+t9b_scffcm_fair.csv,letter|5|16|4.0|1.0,mean_acc,0.2926272850601694,0.2926272850601694,1,1
+t9b_scffcm_fair.csv,letter|5|16|4.0|1.0,worst_acc,0.20934466019417475,0.20934466019417475,1,1
+t9b_scffcm_fair.csv,letter|5|16|4.0|1.0,fcm_obj,4.889167716310112,4.889167716310112,1,1
+t9b_scffcm_fair.csv,letter|5|17|4.0|1.0,min_dist,1.2104133875813057,1.2104133875813057,1,1
+t9b_scffcm_fair.csv,letter|5|17|4.0|1.0,mean_acc,0.2885964734860256,0.2885964734860256,1,1
+t9b_scffcm_fair.csv,letter|5|17|4.0|1.0,worst_acc,0.19720873786407767,0.19720873786407767,1,1
+t9b_scffcm_fair.csv,letter|5|17|4.0|1.0,fcm_obj,4.888135483083661,4.888135483083661,1,1
+t9b_scffcm_fair.csv,letter|5|18|4.0|1.0,min_dist,0.799829429010376,0.799829429010376,1,1
+t9b_scffcm_fair.csv,letter|5|18|4.0|1.0,mean_acc,0.31127606645335265,0.31127606645335265,1,1
+t9b_scffcm_fair.csv,letter|5|18|4.0|1.0,worst_acc,0.21844660194174756,0.21844660194174756,1,1
+t9b_scffcm_fair.csv,letter|5|18|4.0|1.0,fcm_obj,4.889916987488279,4.889916987488279,1,1
+t9b_scffcm_fair.csv,letter|5|19|4.0|1.0,min_dist,0.3267125013188034,0.3267125013188034,1,1
+t9b_scffcm_fair.csv,letter|5|19|4.0|1.0,mean_acc,0.31455590732243216,0.31455590732243216,1,1
+t9b_scffcm_fair.csv,letter|5|19|4.0|1.0,worst_acc,0.20388349514563106,0.20388349514563106,1,1
+t9b_scffcm_fair.csv,letter|5|19|4.0|1.0,fcm_obj,4.911322040038809,4.911322040038809,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|0|1.0|2.0,min_dist,2.249655715058303,2.249655715058303,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|0|1.0|2.0,mean_acc,0.5155415698065098,0.5155415698065098,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|0|1.0|2.0,worst_acc,0.45490981963927857,0.45490981963927857,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|0|1.0|2.0,fcm_obj,24.278168932333042,24.278168932333042,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|1|1.0|2.0,min_dist,2.1760017624425303,2.1760017624425303,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|1|1.0|2.0,mean_acc,0.5587646178008124,0.5587646178008124,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|1|1.0|2.0,worst_acc,0.49448732083792724,0.49448732083792724,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|1|1.0|2.0,fcm_obj,24.30676512669332,24.30676512669332,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|2|1.0|2.0,min_dist,2.2944601063934345,2.2944601063934345,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|2|1.0|2.0,mean_acc,0.5933658233392493,0.5933658233392493,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|2|1.0|2.0,worst_acc,0.5259302666276003,0.5259302666276003,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|2|1.0|2.0,fcm_obj,24.343167017728174,24.343167017728174,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|3|1.0|2.0,min_dist,2.352786489226857,2.352786489226857,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|3|1.0|2.0,mean_acc,0.5438802644025904,0.5438802644025904,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|3|1.0|2.0,worst_acc,0.4638680659670165,0.4638680659670165,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|3|1.0|2.0,fcm_obj,24.250105055796382,24.250105055796382,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|4|1.0|2.0,min_dist,2.3202587133600066,2.3202587133600066,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|4|1.0|2.0,mean_acc,0.5077926087040965,0.5077926087040965,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|4|1.0|2.0,worst_acc,0.4389233954451346,0.4389233954451346,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|4|1.0|2.0,fcm_obj,24.486363887762977,24.486363887762977,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|5|1.0|2.0,min_dist,2.2755987297425566,2.2755987297425566,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|5|1.0|2.0,mean_acc,0.4925911034601859,0.4925911034601859,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|5|1.0|2.0,worst_acc,0.3940029985007496,0.3940029985007496,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|5|1.0|2.0,fcm_obj,24.269474334203544,24.269474334203544,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|6|1.0|2.0,min_dist,2.311650370347711,2.311650370347711,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|6|1.0|2.0,mean_acc,0.5030913894816724,0.5030913894816724,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|6|1.0|2.0,worst_acc,0.42325315005727376,0.42325315005727376,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|6|1.0|2.0,fcm_obj,24.376609597323856,24.376609597323856,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|7|1.0|2.0,min_dist,2.2466842850324236,2.2466842850324236,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|7|1.0|2.0,mean_acc,0.5470392647967486,0.5470392647967486,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|7|1.0|2.0,worst_acc,0.456324056213833,0.456324056213833,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|7|1.0|2.0,fcm_obj,24.328816296990873,24.328816296990873,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|8|1.0|2.0,min_dist,2.256799017297397,2.256799017297397,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|8|1.0|2.0,mean_acc,0.4901829136240397,0.4901829136240397,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|8|1.0|2.0,worst_acc,0.389922702547953,0.389922702547953,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|8|1.0|2.0,fcm_obj,24.250937335085112,24.250937335085112,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|9|1.0|2.0,min_dist,2.22081878761886,2.22081878761886,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|9|1.0|2.0,mean_acc,0.5794778244417296,0.5794778244417296,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|9|1.0|2.0,worst_acc,0.5194730813287515,0.5194730813287515,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|9|1.0|2.0,fcm_obj,24.29081469033984,24.29081469033984,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|10|1.0|2.0,min_dist,2.153132263758832,2.153132263758832,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|10|1.0|2.0,mean_acc,0.46520300756480487,0.46520300756480487,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|10|1.0|2.0,worst_acc,0.36881559220389803,0.36881559220389803,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|10|1.0|2.0,fcm_obj,24.322527485003185,24.322527485003185,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|11|1.0|2.0,min_dist,2.2430805696366205,2.2430805696366205,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|11|1.0|2.0,mean_acc,0.5812898615485057,0.5812898615485057,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|11|1.0|2.0,worst_acc,0.47737686139748,0.47737686139748,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|11|1.0|2.0,fcm_obj,24.595007133397388,24.595007133397388,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|12|1.0|2.0,min_dist,2.1510137736706763,2.1510137736706763,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|12|1.0|2.0,mean_acc,0.5695649699658039,0.5695649699658039,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|12|1.0|2.0,worst_acc,0.5089556351612015,0.5089556351612015,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|12|1.0|2.0,fcm_obj,24.356643091506797,24.356643091506797,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|13|1.0|2.0,min_dist,2.2558275873159856,2.2558275873159856,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|13|1.0|2.0,mean_acc,0.4918128155933103,0.4918128155933103,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|13|1.0|2.0,worst_acc,0.397366160893215,0.397366160893215,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|13|1.0|2.0,fcm_obj,24.250967660048595,24.250967660048595,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|14|1.0|2.0,min_dist,2.2204655138017166,2.2204655138017166,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|14|1.0|2.0,mean_acc,0.5589131626298631,0.5589131626298631,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|14|1.0|2.0,worst_acc,0.3827270038450163,0.3827270038450163,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|14|1.0|2.0,fcm_obj,24.398901904214185,24.398901904214185,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|15|1.0|2.0,min_dist,2.3117561169788234,2.3117561169788234,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|15|1.0|2.0,mean_acc,0.5716668912137453,0.5716668912137453,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|15|1.0|2.0,worst_acc,0.45869947275922673,0.45869947275922673,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|15|1.0|2.0,fcm_obj,24.33011167688314,24.33011167688314,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|16|1.0|2.0,min_dist,2.301228104626216,2.301228104626216,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|16|1.0|2.0,mean_acc,0.5860784954978802,0.5860784954978802,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|16|1.0|2.0,worst_acc,0.5224735184655024,0.5224735184655024,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|16|1.0|2.0,fcm_obj,24.306963907919677,24.306963907919677,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|17|1.0|2.0,min_dist,2.2297757879575912,2.2297757879575912,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|17|1.0|2.0,mean_acc,0.5997893417507985,0.5997893417507985,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|17|1.0|2.0,worst_acc,0.5385055825937589,0.5385055825937589,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|17|1.0|2.0,fcm_obj,24.359963176850655,24.359963176850655,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|18|1.0|2.0,min_dist,2.0766173530596026,2.0766173530596026,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|18|1.0|2.0,mean_acc,0.555171656786145,0.555171656786145,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|18|1.0|2.0,worst_acc,0.4506674405107371,0.4506674405107371,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|18|1.0|2.0,fcm_obj,24.428226868306947,24.428226868306947,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|19|1.0|2.0,min_dist,2.2562008409843983,2.2562008409843983,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|19|1.0|2.0,mean_acc,0.48985798012687337,0.48985798012687337,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|19|1.0|2.0,worst_acc,0.3900343642611684,0.3900343642611684,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (20c)|5|19|1.0|2.0,fcm_obj,24.250981701031904,24.250981701031904,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|0|1.0|2.0,min_dist,2.428671572875841,2.428671572875841,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|0|1.0|2.0,mean_acc,0.5767197776955579,0.5767197776955579,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|0|1.0|2.0,worst_acc,0.5072568940493469,0.5072568940493469,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|0|1.0|2.0,fcm_obj,24.258388832089082,24.258388832089082,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|1|1.0|2.0,min_dist,2.3536194850518153,2.3536194850518153,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|1|1.0|2.0,mean_acc,0.5513665333946518,0.5513665333946518,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|1|1.0|2.0,worst_acc,0.44302848575712145,0.44302848575712145,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|1|1.0|2.0,fcm_obj,24.28340222571137,24.28340222571137,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|2|1.0|2.0,min_dist,2.2546593511302935,2.2546593511302935,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|2|1.0|2.0,mean_acc,0.48123937377524517,0.48123937377524517,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|2|1.0|2.0,worst_acc,0.3600572655690766,0.3600572655690766,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|2|1.0|2.0,fcm_obj,24.337995045489563,24.337995045489563,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|3|1.0|2.0,min_dist,2.271160662687401,2.271160662687401,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|3|1.0|2.0,mean_acc,0.5570514500619351,0.5570514500619351,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|3|1.0|2.0,worst_acc,0.4604982206405694,0.4604982206405694,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|3|1.0|2.0,fcm_obj,24.31764766185101,24.31764766185101,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|4|1.0|2.0,min_dist,2.2061721222874313,2.2061721222874313,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|4|1.0|2.0,mean_acc,0.5336335389179412,0.5336335389179412,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|4|1.0|2.0,worst_acc,0.4617691154422789,0.4617691154422789,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|4|1.0|2.0,fcm_obj,24.30370990256203,24.30370990256203,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|5|1.0|2.0,min_dist,2.2489354325029183,2.2489354325029183,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|5|1.0|2.0,mean_acc,0.5667784114840939,0.5667784114840939,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|5|1.0|2.0,worst_acc,0.45636094674556216,0.45636094674556216,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|5|1.0|2.0,fcm_obj,24.402117271292948,24.402117271292948,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|6|1.0|2.0,min_dist,2.2930401156429827,2.2930401156429827,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|6|1.0|2.0,mean_acc,0.4664261472852993,0.4664261472852993,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|6|1.0|2.0,worst_acc,0.34860415175375803,0.34860415175375803,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|6|1.0|2.0,fcm_obj,24.331993486526862,24.331993486526862,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|7|1.0|2.0,min_dist,2.2739983975743185,2.2739983975743185,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|7|1.0|2.0,mean_acc,0.5794444838259024,0.5794444838259024,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|7|1.0|2.0,worst_acc,0.5117437722419929,0.5117437722419929,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|7|1.0|2.0,fcm_obj,24.39968088098957,24.39968088098957,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|8|1.0|2.0,min_dist,2.264579270271425,2.264579270271425,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|8|1.0|2.0,mean_acc,0.5066704227995433,0.5066704227995433,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|8|1.0|2.0,worst_acc,0.43944887599709936,0.43944887599709936,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|8|1.0|2.0,fcm_obj,24.309633385106853,24.309633385106853,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|9|1.0|2.0,min_dist,2.3583700518792563,2.3583700518792563,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|9|1.0|2.0,mean_acc,0.533362915957648,0.533362915957648,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|9|1.0|2.0,worst_acc,0.45409252669039146,0.45409252669039146,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|9|1.0|2.0,fcm_obj,24.237282770807266,24.237282770807266,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|10|1.0|2.0,min_dist,2.195364986374694,2.195364986374694,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|10|1.0|2.0,mean_acc,0.5124423865870184,0.5124423865870184,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|10|1.0|2.0,worst_acc,0.3809171597633136,0.3809171597633136,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|10|1.0|2.0,fcm_obj,24.42225076305847,24.42225076305847,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|11|1.0|2.0,min_dist,2.1757515839744657,2.1757515839744657,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|11|1.0|2.0,mean_acc,0.5490143914363782,0.5490143914363782,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|11|1.0|2.0,worst_acc,0.5025053686471009,0.5025053686471009,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|11|1.0|2.0,fcm_obj,24.30420773812759,24.30420773812759,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|12|1.0|2.0,min_dist,2.2840687745422468,2.2840687745422468,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|12|1.0|2.0,mean_acc,0.5497998512630243,0.5497998512630243,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|12|1.0|2.0,worst_acc,0.4672639558924879,0.4672639558924879,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|12|1.0|2.0,fcm_obj,24.23547215851203,24.23547215851203,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|13|1.0|2.0,min_dist,2.3109064607099,2.3109064607099,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|13|1.0|2.0,mean_acc,0.553452507939478,0.553452507939478,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|13|1.0|2.0,worst_acc,0.4326923076923077,0.4326923076923077,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|13|1.0|2.0,fcm_obj,24.306294799012456,24.306294799012456,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|14|1.0|2.0,min_dist,2.2889163427756403,2.2889163427756403,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|14|1.0|2.0,mean_acc,0.5296764489831385,0.5296764489831385,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|14|1.0|2.0,worst_acc,0.39866863905325445,0.39866863905325445,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|14|1.0|2.0,fcm_obj,24.337648560014514,24.337648560014514,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|15|1.0|2.0,min_dist,2.221537990702147,2.221537990702147,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|15|1.0|2.0,mean_acc,0.5747058656064035,0.5747058656064035,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|15|1.0|2.0,worst_acc,0.4519230769230769,0.4519230769230769,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|15|1.0|2.0,fcm_obj,24.43855949006343,24.43855949006343,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|16|1.0|2.0,min_dist,2.293355736451184,2.293355736451184,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|16|1.0|2.0,mean_acc,0.5805137381162744,0.5805137381162744,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|16|1.0|2.0,worst_acc,0.5118110236220472,0.5118110236220472,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|16|1.0|2.0,fcm_obj,24.278089551554064,24.278089551554064,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|17|1.0|2.0,min_dist,2.279429315341022,2.279429315341022,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|17|1.0|2.0,mean_acc,0.5599365491949349,0.5599365491949349,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|17|1.0|2.0,worst_acc,0.48002958579881655,0.48002958579881655,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|17|1.0|2.0,fcm_obj,24.346848218924844,24.346848218924844,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|18|1.0|2.0,min_dist,2.251840175871299,2.251840175871299,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|18|1.0|2.0,mean_acc,0.5417609261810581,0.5417609261810581,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|18|1.0|2.0,worst_acc,0.4498977505112474,0.4498977505112474,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|18|1.0|2.0,fcm_obj,24.29212545947831,24.29212545947831,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|19|1.0|2.0,min_dist,2.2110891890729594,2.2110891890729594,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|19|1.0|2.0,mean_acc,0.5518579414527064,0.5518579414527064,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|19|1.0|2.0,worst_acc,0.48931771192281187,0.48931771192281187,1,1
+t9b_scffcm_fair.csv,mnist784_pca32 (50c)|5|19|1.0|2.0,fcm_obj,24.332006328337418,24.332006328337418,1,1

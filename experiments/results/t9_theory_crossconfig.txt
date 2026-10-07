@@ -1,0 +1,5 @@
+CROSS-CONFIGURATION LINK BETWEEN ONE-ROUND THEORY QUANTITIES AND END-OF-TRAINING MEASUREMENTS
+  median LHS/RHS  vs  interaction, exploratory seeds 0-9         rho = -0.165  p = 0.5733  (n = 14)
+  median LHS/RHS  vs  interaction, held-out seeds 10-19          rho = -0.240  p = 0.4094  (n = 14)
+  weighted tilt CV  vs  |ACC(footprint) - ACC(mass)| at POST, no pers. rho = +0.780  p = 0.0010  (n = 14)
+  target displacement / centre spread  vs  same gap              rho = +0.705  p = 0.0048  (n = 14)

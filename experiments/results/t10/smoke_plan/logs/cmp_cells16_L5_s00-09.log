@@ -1,0 +1,1 @@
+compare cells cells16_L5_s00-09.csv: 16 strict overlapping runs (48 values, 16 acc/distinct values), 0 strict mismatches; 0 uncovered prior rows; advisory: 4 runs, 0 acc differences; OK

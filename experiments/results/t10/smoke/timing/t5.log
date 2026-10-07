@@ -1,0 +1,9 @@
+[audit 1/1] mnist784_pca32 (50c) (993s)
+wrote 4 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_audit_mnist50.csv and /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_audit_mnist50_mstar.csv in 993s
+{'dataset': 'mnist784_pca32 (50c)', 'init': 'paper', 'mstar': 1.1, 'paper_mstar': 1.1, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.1'}
+{'dataset': 'mnist784_pca32 (50c)', 'init': 'kmeanspp_best10', 'mstar': 1.1, 'paper_mstar': 1.1, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.1'}
+{'dataset': 'mnist784_pca32 (50c)', 'init': 'oracle', 'mstar': 1.1, 'paper_mstar': 1.1, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.1'}
+{'dataset': 'mnist784_pca32 (50c)', 'init': 'fed_lossless_pre1', 'mstar': 1.1, 'paper_mstar': 1.1, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.1'}
+real 993.79
+user 644.46
+sys 301.46

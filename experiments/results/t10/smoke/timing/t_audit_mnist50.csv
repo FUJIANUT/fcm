@@ -1,0 +1,5 @@
+dataset,m,seed,init,n,d,c,distinct,entropy_norm,entropy_norm_r6,J,n_iter,runtime_s,best_restart,kpp_distinct_min,kpp_distinct_max,n_classes,maxgap_fed_vs_cen_iter,gap_fed_vs_paper_final,distinct_cen_iter
+mnist784_pca32 (50c),1.1,0,paper,70000,32,10,10,0.3683578615648927,0.368358,1696440.997890382,151,89.804,,,,,,,
+mnist784_pca32 (50c),1.1,0,kmeanspp_best10,70000,32,10,10,0.3505464230266761,0.350546,1698191.4592783786,200,756.45,3,10,10,,,,
+mnist784_pca32 (50c),1.1,0,oracle,70000,32,10,10,0.36454238057824184,0.364542,1700910.6216739558,266,80.368,,,,10,,,
+mnist784_pca32 (50c),1.1,0,fed_lossless_pre1,70000,32,10,10,0.3683578900590319,0.368358,1696440.9978854656,300,54.028,,,,,9.947598300641403e-14,2.4774174854635955e-05,10

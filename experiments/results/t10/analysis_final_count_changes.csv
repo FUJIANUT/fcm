@@ -1,0 +1,5 @@
+block,hyp,metric,count,legacy,exact
+s00-09,S-PRE-SC1,fcm_obj,better,4,3
+s00-09,S-PRE-SC5,fcm_obj,better,4,3
+s10-19,S-PRE-SC5,fcm_obj,better,5,4
+s20-29,S-PRE-SC5,fcm_obj,better,6,4

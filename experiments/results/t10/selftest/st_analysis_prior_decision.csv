@@ -1,0 +1,18 @@
+criterion,action,n_states,mean_regret,max_regret,argmax_state,rec_mean_regret,rec_max_regret,n_substituted,status
+mean_acc,"F-FCM (post_none_off, L=5)",14,0.1609069773380438,0.43573288281594047,digits_pca32,0,0,0,ok
+mean_acc,GF-PFedFCM (L=5),14,0.0790637346307944,0.2141213680126245,digits_pca32,0,0,0,ok
+mean_acc,ungated PRE (L=1),14,0.025222483902897507,0.09605126487072391,mnist784_pca32 (50c),0,0,0,ok
+mean_acc,pre_mass_off (L=1),14,0.011389086330880363,0.10338572163538873,quantity_skew_extreme,1,0,0,ok
+mean_acc,pre_mass_off (L=5),14,0.05322104633312324,0.13888396761445543,digits_pca32,0,0,0,ok
+mean_acc,SC-FFCM (L=5),14,0.01819115934215129,0.07525454304648238,mnist784_pca32 (50c),0,1,0,ok
+mean_acc,"SC-FFCM (L=1, R=50)",14,0.018161229421104708,0.08235460555671026,mnist784_pca32 (50c),0,0,0,ok
+worst_acc,"F-FCM (post_none_off, L=5)",14,0.1913879559787613,0.3333917832868132,quantity_skew_extreme,0,0,0,ok
+worst_acc,GF-PFedFCM (L=5),14,0.09204405807371026,0.3062439857247483,quantity_skew_extreme,0,0,0,ok
+worst_acc,ungated PRE (L=1),14,0.03644873748317628,0.21056238029192254,quantity_skew_extreme,0,0,0,ok
+worst_acc,pre_mass_off (L=1),14,0.033894486476164117,0.2452131629350769,quantity_skew_extreme,0,0,0,ok
+worst_acc,pre_mass_off (L=5),14,0.06486253618321432,0.27456240176955304,quantity_skew_extreme,0,0,0,ok
+worst_acc,SC-FFCM (L=5),14,0.018669008829074765,0.049349148491946215,mnist784_pca32 (20c),0,1,0,ok
+worst_acc,"SC-FFCM (L=1, R=50)",14,0.016052491207548,0.05827600890830159,mnist784_pca32 (50c),1,0,0,ok
+gacc,,,,,,,,,no data
+fcm_obj,,,,,,,,,no data
+upload_numbers,,,,,,,,,no data
