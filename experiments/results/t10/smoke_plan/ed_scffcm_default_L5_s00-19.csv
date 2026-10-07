@@ -1,2 +1,0 @@
-dataset,seed,method,L,rounds,n_rounds,eta_l,eta_g,cfraction,participation,n_part,n_clients,split,m,n_clusters,dim,upload_numbers,min_dist,mean_acc,worst_acc,fcm_obj,gacc,xb,hnorm,error,runtime_s
-wine,0,scffcm,5,50,50,0.2,0.5,1.0,1.0,10,10,0.0,2.0,3,13,39000,1.000978117417079,0.8193640350877193,0.6111111111111112,4.185379686200766,0.8033707865168539,4.177204097647248,0.9185332211340784,,0.033

@@ -1,6 +1,6 @@
 # Mass point, gate and personalization in federated fuzzy c-means
 
-Code, pre-registration, results and run logs for the manuscript
+Code for the manuscript
 
 > **Mass Point, Gate and Personalization in Federated Fuzzy c-Means: Objectives, Fixed Points and a Decision Analysis
 > of the Aggregation Weight**, by Chunmao Jiang, Wenxuan Sun and Gege Li (School of Computer Science and Mathematics,
@@ -9,25 +9,23 @@ Code, pre-registration, results and run logs for the manuscript
 The study builds on GF-PFedFCM: C. Jiang, *Granular footprint guided personalized federated fuzzy C-means clustering
 for heterogeneous data*, Fuzzy Sets and Systems 547 (2027) 110118, https://doi.org/10.1016/j.fss.2026.110118.
 
+This repository contains the code only. The per-seed results, the run logs and the pre-registration of the fresh seed
+block (with its two addenda and its erratum) are not included; they are available from the corresponding author on
+request.
+
 ## Contents
 
 | Path | Content |
 |---|---|
 | `experiments/fedfcmsim/` | The federated FCM simulator: FCM, the federated rules, data loading and metrics. |
 | `experiments/scripts/T3_design_space.py` | The twelve cells of the design space (mass point x gate x personalization). |
-| `experiments/scripts/T10_review.py` | Every experiment of the pre-registration and the pre-registered analysis (`analyze`). **Frozen**: its SHA-256 is recorded in `experiments/results/t10/ANALYSIS_FROZEN`. |
-| `experiments/scripts/T10_run_all.sh` | The complete run plan of the pre-registration (resumable; never re-runs a finished step). |
+| `experiments/scripts/T10_review.py` | Every experiment of the pre-registered stage and the pre-registered analysis (`analyze`). Frozen before the first run on the fresh seeds 20-29; its SHA-256 is given below. |
+| `experiments/scripts/T10_run_all.sh` | The complete run plan of the pre-registered stage (resumable; never re-runs a finished step). |
 | `experiments/scripts/T10_selftest.py`, `T10_theory*.py` | Self-tests and the numerical checks of the theory. |
 | `experiments/scripts/T11_posthoc.py`, `T11_run_all.sh` | Post hoc re-runs of the decision analysis (common stopping rule; calibrated server step), not part of the pre-registration. |
-| `experiments/scripts/T1B_*.py` ... `T9c_*.py`, `VERIFY*.py` | Earlier stages of the study (exploratory). |
-| `experiments/T10_PREREGISTRATION.md` | The pre-registration of the fresh seed block (seeds 20-29), with its two addenda and its erratum. |
-| `experiments/results/t10/` | Per-seed outputs (`*.csv`, each with a `*.meta.json` provenance record), the frozen analysis (`analysis_final_*`), self-test records and the run logs (`logs/`). |
-| `experiments/results/t11_posthoc/` | Calibration of the server step, the post hoc re-runs and their decision analyses. |
-| `experiments/results/t1b_*` ... `t9c_*` | Outputs of the earlier, exploratory stages. |
-| `paper/make_figures_fodm.py`, `paper/figures_src/` | The data figures and the two TikZ diagrams of the paper (`paper/figures/`). |
-| `paper/make_tables_fodm.py`, `paper/_results/results_stage_tables.py` | Typeset the tables of the paper and of its Online Resource 1 from the outputs above. They also read the LaTeX build files of the manuscript for cross-reference numbers, which are not part of this repository. |
+| `experiments/scripts/T1B_*.py` ... `T9c_*.py` | The earlier, exploratory stages, including the calibration of the baselines. |
 
-## Reproducing the results
+## Running
 
 Python 3.12 with the packages in `requirements.txt` (the versions used for every reported run):
 
@@ -35,30 +33,33 @@ Python 3.12 with the packages in `requirements.txt` (the versions used for every
 python3 -m venv .venv && . .venv/bin/activate && pip install -r requirements.txt
 cd experiments
 zsh scripts/T10_run_all.sh       # the pre-registered plan; about 9.5 h with 12 workers on an Apple M4 Max
-zsh scripts/T11_run_all.sh       # the post hoc re-runs; about 1 h with 12 workers
-cd ../paper && python3 make_figures_fodm.py
+zsh scripts/T11_run_all.sh       # the post hoc re-runs; about 1 h with 12 workers, after T10_run_all.sh
 ```
 
-`T10_run_all.sh` skips every step whose output already exists with the same command, so with the outputs included here
-it only re-checks them; delete a CSV to re-run its step. Within one machine every run is regenerated bit for bit from
-its seed and arguments; runs delegated to a second workstation (Pedrycz's gradient rule and the fuzzifier audit under
-other initializations) can differ from a re-run elsewhere by floating-point rounding.
+Every script writes its outputs to `experiments/results/`. Within one machine every run is regenerated bit for bit
+from its seed and arguments.
+
+`T10_run_all.sh` depends on outputs of the earlier stages, which are not in this repository. It reads the step sizes
+of SC-FFCM calibrated on a non-evaluation seed (`results/t9b_scffcm_calibration.csv`, `results/t9c_scffcm_calibration.csv`,
+written by `T9b_scffcm_extgrid.py` and `T9c_scffcm_L50.py`). It checks its runs against stored outputs of
+`T3_design_space.py`, `T6_baselines.py`, `T9b_scffcm_extgrid.py` and `T9c_scffcm_L50.py` and against the
+fuzzifier-audit data of an earlier draft (`../paper2/figures/degeneracy_data.csv`; the same computation is the `audit`
+subcommand of `T10_review.py`), and its theory checks read the output of `T9_theory_link_b.py`. It stops at the first
+failed check. Regenerate these outputs with the scripts named above, whose headers give their settings, or ask the
+corresponding author for them.
 
 ## Data
 
 Wine and the optical digits data ship with scikit-learn; Satimage, Pendigits, Letter and MNIST are downloaded from
-OpenML on first use and cached under `experiments/.cache/` (not included). The synthetic scenarios are generated by
-`fedfcmsim`.
+OpenML on first use and cached under `experiments/.cache/`. The synthetic scenarios are generated by `fedfcmsim`.
 
-## Pre-registration and frozen analysis
+## Frozen analysis code
 
-Before any run on seeds 20-29, the pre-registration (`experiments/T10_PREREGISTRATION.md`) fixed the protocol, the
-primary criterion, the test, nine directed hypotheses and the replication rule, and the analysis code was frozen:
+Before any run on seeds 20-29 the analysis code was frozen, and its hash was recorded:
 
 ```
 6bb60986480cb4583d9ba571b27b59e32ac632a3e0bea82ae2937a7a085df889  experiments/scripts/T10_review.py
 ```
 
-The fresh block was then run once and analysed once with this code. The erratum corrects the pre-registration's
-description of the earlier analyses' p-values (they were exact, not normal approximations); it changes no hypothesis,
-criterion, test or rule.
+The fresh block was then run once and analysed once with this code. Check with
+`shasum -a 256 experiments/scripts/T10_review.py`.

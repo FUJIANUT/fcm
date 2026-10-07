@@ -1,1 +1,0 @@
-ws67 (Ubuntu 24.04, numpy 2.4.4, scipy 1.18.0, sklearn 1.9.0; /home/jiang/venvs/dl); exploratory, self-contained; Mac-vs-ws67 regression differences <= 2e-14 relative (min_dist), see logs/ws67_selftest.log

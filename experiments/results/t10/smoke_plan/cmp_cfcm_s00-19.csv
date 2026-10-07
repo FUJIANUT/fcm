@@ -1,4 +1,0 @@
-source,key,field,prior,new,match,strict
-t6_baselines/per_seed_metrics__mstar.csv,wine|0,min_dist,2.93957555558066,2.93957555558066,1,1
-t6_baselines/per_seed_metrics__mstar.csv,wine|0,mean_acc,0.9678070175438597,0.9678070175438597,1,1
-t6_baselines/per_seed_metrics__mstar.csv,wine|0,worst_acc,0.8888888888888888,0.8888888888888888,1,1

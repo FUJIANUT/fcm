@@ -1,1 +1,0 @@
-compare audit ef_audit_s00-04.csv: 200 strict overlapping runs (1000 values, 200 acc/distinct values), 0 strict mismatches; 0 uncovered prior rows; advisory: 0 runs, 0 acc differences; OK

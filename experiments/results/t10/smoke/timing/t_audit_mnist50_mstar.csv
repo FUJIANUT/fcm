@@ -1,5 +1,0 @@
-dataset,init,mstar,paper_mstar,agrees,n_seeds,ms_all_distinct
-mnist784_pca32 (50c),paper,1.1,1.1,1,1,1.1
-mnist784_pca32 (50c),kmeanspp_best10,1.1,1.1,1,1,1.1
-mnist784_pca32 (50c),oracle,1.1,1.1,1,1,1.1
-mnist784_pca32 (50c),fed_lossless_pre1,1.1,1.1,1,1,1.1

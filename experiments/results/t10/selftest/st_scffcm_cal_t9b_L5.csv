@@ -1,3 +1,0 @@
-dataset,L,rounds,m,eta_l,eta_g,rel_obj_gap,n_stable,n_grid,edge_eta_l,edge_eta_g,on_edge,Jc,cal_seed,grid
-wine,5,50,2.0,0.1,2.0,0.00010260652666587688,28,35,interior,interior,0,721.2171837341994,100,t9b
-cluster_skew_hard,5,50,2.0,0.05,8.0,4.4236236505979037e-13,27,35,low,high,1,2736.52901710151,100,t9b

@@ -1,4 +1,0 @@
-Steps listed in this directory were run on ws67 instead of this Mac (2026-09-24), to save ~2.5 h wall. They are exploratory
-and self-contained (E-E Pedrycz baseline: its own label-free calibration and evaluation; E-F m-grid audit). ws67 does not
-reproduce the Mac bit for bit (different numpy/BLAS builds): the T10 self-test on ws67 found differences of at most ~2e-14
-relative in min_dist on the regression runs (accuracies identical where printed). The confirmatory and main runs stay on the Mac.

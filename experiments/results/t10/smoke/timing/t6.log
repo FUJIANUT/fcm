@@ -1,9 +1,0 @@
-[audit 1/1] letter (560s)
-wrote 4 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_audit_letter.csv and /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_audit_letter_mstar.csv in 560s
-{'dataset': 'letter', 'init': 'paper', 'mstar': 1.3, 'paper_mstar': 1.3, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.3'}
-{'dataset': 'letter', 'init': 'kmeanspp_best10', 'mstar': 1.3, 'paper_mstar': 1.3, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.3'}
-{'dataset': 'letter', 'init': 'oracle', 'mstar': 1.3, 'paper_mstar': 1.3, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.3'}
-{'dataset': 'letter', 'init': 'fed_lossless_pre1', 'mstar': 1.3, 'paper_mstar': 1.3, 'agrees': 1, 'n_seeds': 1, 'ms_all_distinct': '1.3'}
-real 560.72
-user 455.78
-sys 57.22

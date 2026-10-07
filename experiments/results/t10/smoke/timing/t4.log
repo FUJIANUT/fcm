@@ -1,6 +1,0 @@
-[scffcm 1/2] letter (27s)
-[scffcm 2/2] mnist784_pca32 (50c) (64s)
-wrote 2 rows to /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/smoke/timing/t_scffcm_R250.csv in 65s
-real 65.25
-user 45.39
-sys 19.26

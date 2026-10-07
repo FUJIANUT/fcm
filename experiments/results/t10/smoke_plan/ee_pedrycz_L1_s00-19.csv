@@ -1,2 +1,0 @@
-dataset,seed,method,L,rounds,n_rounds,alpha,participation,n_part,n_clients,split,m,n_clusters,dim,min_dist,mean_acc,worst_acc,fcm_obj,gacc,xb,hnorm,error,runtime_s
-wine,0,pedrycz,1,50,50,0.05,1.0,10,10,0.0,2.0,3,13,0.10817365979352134,0.7929605263157895,0.5555555555555556,4.4176570480044095,0.6966292134831461,377.5278120556091,0.9969066888702731,,0.022

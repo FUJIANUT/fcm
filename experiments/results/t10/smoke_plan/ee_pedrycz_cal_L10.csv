@@ -1,2 +1,0 @@
-dataset,L,rounds,m,alpha,rel_obj_gap,n_stable,n_grid,edge_alpha,on_edge,Jc,cal_seed,grid
-wine,10,50,2.0,0.05,0.05857622353456228,8,10,interior,0,721.2171837341994,100,ee

@@ -1,4 +1,0 @@
-T10 run plan: /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments  (python: python3, workers: 12, smoke: 0)
-load average at start: { 5.64 7.48 9.38 }  (idle machine assumed by the runtime projection)
-[2026-09-24 10:49:09] start selftest (no sentinel or the code changed since it last passed)
-FAILED selftest -- see /Users/chunmaojiang/Dropbox/项目申请-开会-出国-z研究生-评审论文和项目/项目申请2026/ffcm-fuzzysetandsystem/experiments/results/t10/logs/selftest.log

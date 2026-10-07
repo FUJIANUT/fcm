@@ -1,1 +1,0 @@
-compare cfcm cfcm_s00-19.csv: 1 strict overlapping runs (3 values, 1 acc/distinct values), 0 strict mismatches; 0 uncovered prior rows; advisory: 0 runs, 0 acc differences; OK
